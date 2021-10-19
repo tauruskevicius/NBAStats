@@ -1,0 +1,2623 @@
+GameID,Date,Team,Points,Home/Away,Win
+1,"Tue, Oct 28, 2014",Orlando Magic,84,Away,0
+1,"Tue, Oct 28, 2014",New Orleans Pelicans,101,Home,1
+2,"Tue, Oct 28, 2014",Dallas Mavericks,100,Away,0
+2,"Tue, Oct 28, 2014",San Antonio Spurs,101,Home,1
+3,"Tue, Oct 28, 2014",Houston Rockets,108,Away,1
+3,"Tue, Oct 28, 2014",Los Angeles Lakers,90,Home,0
+4,"Wed, Oct 29, 2014",Milwaukee Bucks,106,Away,0
+4,"Wed, Oct 29, 2014",Charlotte Hornets,108,Home,1
+5,"Wed, Oct 29, 2014",Philadelphia 76ers,91,Away,0
+5,"Wed, Oct 29, 2014",Indiana Pacers,103,Home,1
+6,"Wed, Oct 29, 2014",Atlanta Hawks,102,Away,0
+6,"Wed, Oct 29, 2014",Toronto Raptors,109,Home,1
+7,"Wed, Oct 29, 2014",Washington Wizards,95,Away,0
+7,"Wed, Oct 29, 2014",Miami Heat,107,Home,1
+8,"Wed, Oct 29, 2014",Brooklyn Nets,105,Away,0
+8,"Wed, Oct 29, 2014",Boston Celtics,121,Home,1
+9,"Wed, Oct 29, 2014",Chicago Bulls,104,Away,1
+9,"Wed, Oct 29, 2014",New York Knicks,80,Home,0
+10,"Wed, Oct 29, 2014",Minnesota Timberwolves,101,Away,0
+10,"Wed, Oct 29, 2014",Memphis Grizzlies,105,Home,1
+11,"Wed, Oct 29, 2014",Detroit Pistons,79,Away,0
+11,"Wed, Oct 29, 2014",Denver Nuggets,89,Home,1
+12,"Wed, Oct 29, 2014",Houston Rockets,104,Away,1
+12,"Wed, Oct 29, 2014",Utah Jazz,93,Home,0
+13,"Wed, Oct 29, 2014",Los Angeles Lakers,99,Away,0
+13,"Wed, Oct 29, 2014",Phoenix Suns,119,Home,1
+14,"Wed, Oct 29, 2014",Golden State Warriors,95,Away,1
+14,"Wed, Oct 29, 2014",Sacramento Kings,77,Home,0
+15,"Wed, Oct 29, 2014",Oklahoma City Thunder,89,Away,0
+15,"Wed, Oct 29, 2014",Portland Trail Blazers,106,Home,1
+16,"Thu, Oct 30, 2014",Washington Wizards,105,Away,1
+16,"Thu, Oct 30, 2014",Orlando Magic,98,Home,0
+17,"Thu, Oct 30, 2014",New York Knicks,95,Away,1
+17,"Thu, Oct 30, 2014",Cleveland Cavaliers,90,Home,0
+18,"Thu, Oct 30, 2014",Detroit Pistons,91,Away,0
+18,"Thu, Oct 30, 2014",Minnesota Timberwolves,97,Home,1
+19,"Thu, Oct 30, 2014",Utah Jazz,102,Away,0
+19,"Thu, Oct 30, 2014",Dallas Mavericks,120,Home,1
+20,"Thu, Oct 30, 2014",Oklahoma City Thunder,90,Away,0
+20,"Thu, Oct 30, 2014",Los Angeles Clippers,93,Home,1
+21,"Fri, Oct 31, 2014",Memphis Grizzlies,97,Away,1
+21,"Fri, Oct 31, 2014",Indiana Pacers,89,Home,0
+22,"Fri, Oct 31, 2014",Cleveland Cavaliers,114,Away,1
+22,"Fri, Oct 31, 2014",Chicago Bulls,108,Home,0
+23,"Fri, Oct 31, 2014",Philadelphia 76ers,81,Away,0
+23,"Fri, Oct 31, 2014",Milwaukee Bucks,93,Home,1
+24,"Fri, Oct 31, 2014",San Antonio Spurs,89,Away,0
+24,"Fri, Oct 31, 2014",Phoenix Suns,94,Home,1
+25,"Fri, Oct 31, 2014",Portland Trail Blazers,94,Away,0
+25,"Fri, Oct 31, 2014",Sacramento Kings,103,Home,1
+26,"Fri, Oct 31, 2014",Los Angeles Clippers,118,Away,1
+26,"Fri, Oct 31, 2014",Los Angeles Lakers,111,Home,0
+27,"Sat, Nov 1, 2014",Memphis Grizzlies,71,Away,1
+27,"Sat, Nov 1, 2014",Charlotte Hornets,69,Home,0
+28,"Sat, Nov 1, 2014",Dallas Mavericks,109,Away,1
+28,"Sat, Nov 1, 2014",New Orleans Pelicans,104,Home,0
+29,"Sat, Nov 1, 2014",Toronto Raptors,108,Away,1
+29,"Sat, Nov 1, 2014",Orlando Magic,95,Home,0
+30,"Sat, Nov 1, 2014",Miami Heat,114,Away,1
+30,"Sat, Nov 1, 2014",Philadelphia 76ers,96,Home,0
+31,"Sat, Nov 1, 2014",Milwaukee Bucks,97,Away,0
+31,"Sat, Nov 1, 2014",Washington Wizards,108,Home,1
+32,"Sat, Nov 1, 2014",Indiana Pacers,92,Away,0
+32,"Sat, Nov 1, 2014",Atlanta Hawks,102,Home,1
+33,"Sat, Nov 1, 2014",Brooklyn Nets,102,Away,1
+33,"Sat, Nov 1, 2014",Detroit Pistons,90,Home,0
+34,"Sat, Nov 1, 2014",Boston Celtics,90,Away,0
+34,"Sat, Nov 1, 2014",Houston Rockets,104,Home,1
+35,"Sat, Nov 1, 2014",Chicago Bulls,106,Away,1
+35,"Sat, Nov 1, 2014",Minnesota Timberwolves,105,Home,0
+36,"Sat, Nov 1, 2014",Denver Nuggets,91,Away,0
+36,"Sat, Nov 1, 2014",Oklahoma City Thunder,102,Home,1
+37,"Sat, Nov 1, 2014",Phoenix Suns,91,Away,0
+37,"Sat, Nov 1, 2014",Utah Jazz,118,Home,1
+38,"Sat, Nov 1, 2014",Los Angeles Lakers,104,Away,0
+38,"Sat, Nov 1, 2014",Golden State Warriors,127,Home,1
+39,"Sun, Nov 2, 2014",Sacramento Kings,98,Away,1
+39,"Sun, Nov 2, 2014",Los Angeles Clippers,92,Home,0
+40,"Sun, Nov 2, 2014",Toronto Raptors,102,Away,0
+40,"Sun, Nov 2, 2014",Miami Heat,107,Home,1
+41,"Sun, Nov 2, 2014",Charlotte Hornets,93,Away,0
+41,"Sun, Nov 2, 2014",New York Knicks,96,Home,1
+42,"Sun, Nov 2, 2014",Golden State Warriors,95,Away,1
+42,"Sun, Nov 2, 2014",Portland Trail Blazers,90,Home,0
+43,"Mon, Nov 3, 2014",Houston Rockets,104,Away,1
+43,"Mon, Nov 3, 2014",Philadelphia 76ers,93,Home,0
+44,"Mon, Nov 3, 2014",Oklahoma City Thunder,85,Away,0
+44,"Mon, Nov 3, 2014",Brooklyn Nets,116,Home,1
+45,"Mon, Nov 3, 2014",New Orleans Pelicans,81,Away,0
+45,"Mon, Nov 3, 2014",Memphis Grizzlies,93,Home,1
+46,"Mon, Nov 3, 2014",Boston Celtics,113,Away,0
+46,"Mon, Nov 3, 2014",Dallas Mavericks,118,Home,1
+47,"Mon, Nov 3, 2014",Sacramento Kings,110,Away,1
+47,"Mon, Nov 3, 2014",Denver Nuggets,105,Home,0
+48,"Mon, Nov 3, 2014",Utah Jazz,101,Away,0
+48,"Mon, Nov 3, 2014",Los Angeles Clippers,107,Home,1
+49,"Tue, Nov 4, 2014",Milwaukee Bucks,87,Away,1
+49,"Tue, Nov 4, 2014",Indiana Pacers,81,Home,0
+50,"Tue, Nov 4, 2014",Houston Rockets,108,Away,1
+50,"Tue, Nov 4, 2014",Miami Heat,91,Home,0
+51,"Tue, Nov 4, 2014",Washington Wizards,98,Away,1
+51,"Tue, Nov 4, 2014",New York Knicks,83,Home,0
+52,"Tue, Nov 4, 2014",Oklahoma City Thunder,88,Away,0
+52,"Tue, Nov 4, 2014",Toronto Raptors,100,Home,1
+53,"Tue, Nov 4, 2014",Orlando Magic,90,Away,0
+53,"Tue, Nov 4, 2014",Chicago Bulls,98,Home,1
+54,"Tue, Nov 4, 2014",Charlotte Hornets,91,Away,0
+54,"Tue, Nov 4, 2014",New Orleans Pelicans,100,Home,1
+55,"Tue, Nov 4, 2014",Cleveland Cavaliers,82,Away,0
+55,"Tue, Nov 4, 2014",Portland Trail Blazers,101,Home,1
+56,"Tue, Nov 4, 2014",Phoenix Suns,112,Away,1
+56,"Tue, Nov 4, 2014",Los Angeles Lakers,106,Home,0
+57,"Wed, Nov 5, 2014",Miami Heat,89,Away,0
+57,"Wed, Nov 5, 2014",Charlotte Hornets,96,Home,1
+58,"Wed, Nov 5, 2014",Orlando Magic,91,Away,1
+58,"Wed, Nov 5, 2014",Philadelphia 76ers,89,Home,0
+59,"Wed, Nov 5, 2014",Toronto Raptors,110,Away,1
+59,"Wed, Nov 5, 2014",Boston Celtics,107,Home,0
+60,"Wed, Nov 5, 2014",Minnesota Timberwolves,98,Away,1
+60,"Wed, Nov 5, 2014",Brooklyn Nets,91,Home,0
+61,"Wed, Nov 5, 2014",New York Knicks,95,Away,0
+61,"Wed, Nov 5, 2014",Detroit Pistons,98,Home,1
+62,"Wed, Nov 5, 2014",Chicago Bulls,95,Away,1
+62,"Wed, Nov 5, 2014",Milwaukee Bucks,86,Home,0
+63,"Wed, Nov 5, 2014",Indiana Pacers,94,Away,0
+63,"Wed, Nov 5, 2014",Washington Wizards,96,Home,1
+64,"Wed, Nov 5, 2014",Atlanta Hawks,92,Away,0
+64,"Wed, Nov 5, 2014",San Antonio Spurs,94,Home,1
+65,"Wed, Nov 5, 2014",Memphis Grizzlies,102,Away,1
+65,"Wed, Nov 5, 2014",Phoenix Suns,91,Home,0
+66,"Wed, Nov 5, 2014",Cleveland Cavaliers,100,Away,0
+66,"Wed, Nov 5, 2014",Utah Jazz,102,Home,1
+67,"Wed, Nov 5, 2014",Denver Nuggets,109,Away,0
+67,"Wed, Nov 5, 2014",Sacramento Kings,131,Home,1
+68,"Wed, Nov 5, 2014",Los Angeles Clippers,104,Away,0
+68,"Wed, Nov 5, 2014",Golden State Warriors,121,Home,1
+69,"Thu, Nov 6, 2014",San Antonio Spurs,81,Away,0
+69,"Thu, Nov 6, 2014",Houston Rockets,98,Home,1
+70,"Thu, Nov 6, 2014",Dallas Mavericks,87,Away,0
+70,"Thu, Nov 6, 2014",Portland Trail Blazers,108,Home,1
+71,"Fri, Nov 7, 2014",Atlanta Hawks,119,Away,0
+71,"Fri, Nov 7, 2014",Charlotte Hornets,122,Home,1
+72,"Fri, Nov 7, 2014",Minnesota Timberwolves,103,Away,0
+72,"Fri, Nov 7, 2014",Orlando Magic,112,Home,1
+73,"Fri, Nov 7, 2014",Chicago Bulls,118,Away,1
+73,"Fri, Nov 7, 2014",Philadelphia 76ers,115,Home,0
+74,"Fri, Nov 7, 2014",Indiana Pacers,98,Away,0
+74,"Fri, Nov 7, 2014",Boston Celtics,101,Home,1
+75,"Fri, Nov 7, 2014",New York Knicks,99,Away,0
+75,"Fri, Nov 7, 2014",Brooklyn Nets,110,Home,1
+76,"Fri, Nov 7, 2014",Milwaukee Bucks,95,Away,0
+76,"Fri, Nov 7, 2014",Detroit Pistons,98,Home,1
+77,"Fri, Nov 7, 2014",Washington Wizards,84,Away,0
+77,"Fri, Nov 7, 2014",Toronto Raptors,103,Home,1
+78,"Fri, Nov 7, 2014",Memphis Grizzlies,91,Away,1
+78,"Fri, Nov 7, 2014",Oklahoma City Thunder,89,Home,0
+79,"Fri, Nov 7, 2014",Sacramento Kings,114,Away,1
+79,"Fri, Nov 7, 2014",Phoenix Suns,112,Home,0
+80,"Fri, Nov 7, 2014",Dallas Mavericks,105,Away,1
+80,"Fri, Nov 7, 2014",Utah Jazz,82,Home,0
+81,"Fri, Nov 7, 2014",Cleveland Cavaliers,110,Away,1
+81,"Fri, Nov 7, 2014",Denver Nuggets,101,Home,0
+82,"Sat, Nov 8, 2014",Portland Trail Blazers,102,Away,0
+82,"Sat, Nov 8, 2014",Los Angeles Clippers,106,Home,1
+83,"Sat, Nov 8, 2014",Washington Wizards,97,Away,1
+83,"Sat, Nov 8, 2014",Indiana Pacers,90,Home,0
+84,"Sat, Nov 8, 2014",New York Knicks,96,Away,0
+84,"Sat, Nov 8, 2014",Atlanta Hawks,103,Home,1
+85,"Sat, Nov 8, 2014",Minnesota Timberwolves,92,Away,0
+85,"Sat, Nov 8, 2014",Miami Heat,102,Home,1
+86,"Sat, Nov 8, 2014",Boston Celtics,106,Away,1
+86,"Sat, Nov 8, 2014",Chicago Bulls,101,Home,0
+87,"Sat, Nov 8, 2014",Golden State Warriors,98,Away,1
+87,"Sat, Nov 8, 2014",Houston Rockets,87,Home,0
+88,"Sat, Nov 8, 2014",Memphis Grizzlies,92,Away,0
+88,"Sat, Nov 8, 2014",Milwaukee Bucks,93,Home,1
+89,"Sat, Nov 8, 2014",New Orleans Pelicans,100,Away,1
+89,"Sat, Nov 8, 2014",San Antonio Spurs,99,Home,0
+90,"Sun, Nov 9, 2014",Orlando Magic,96,Away,0
+90,"Sun, Nov 9, 2014",Brooklyn Nets,104,Home,1
+91,"Sun, Nov 9, 2014",Utah Jazz,97,Away,1
+91,"Sun, Nov 9, 2014",Detroit Pistons,96,Home,0
+92,"Sun, Nov 9, 2014",Sacramento Kings,93,Away,0
+92,"Sun, Nov 9, 2014",Oklahoma City Thunder,101,Home,1
+93,"Sun, Nov 9, 2014",Philadelphia 76ers,88,Away,0
+93,"Sun, Nov 9, 2014",Toronto Raptors,120,Home,1
+94,"Sun, Nov 9, 2014",Miami Heat,105,Away,1
+94,"Sun, Nov 9, 2014",Dallas Mavericks,96,Home,0
+95,"Sun, Nov 9, 2014",Golden State Warriors,95,Away,0
+95,"Sun, Nov 9, 2014",Phoenix Suns,107,Home,1
+96,"Sun, Nov 9, 2014",Denver Nuggets,100,Away,0
+96,"Sun, Nov 9, 2014",Portland Trail Blazers,116,Home,1
+97,"Sun, Nov 9, 2014",Charlotte Hornets,92,Away,0
+97,"Sun, Nov 9, 2014",Los Angeles Lakers,107,Home,1
+98,"Mon, Nov 10, 2014",New Orleans Pelicans,111,Away,0
+98,"Mon, Nov 10, 2014",Cleveland Cavaliers,118,Home,1
+99,"Mon, Nov 10, 2014",Utah Jazz,86,Away,0
+99,"Mon, Nov 10, 2014",Indiana Pacers,97,Home,1
+100,"Mon, Nov 10, 2014",Atlanta Hawks,91,Away,1
+100,"Mon, Nov 10, 2014",New York Knicks,85,Home,0
+101,"Mon, Nov 10, 2014",Detroit Pistons,91,Away,0
+101,"Mon, Nov 10, 2014",Chicago Bulls,102,Home,1
+102,"Mon, Nov 10, 2014",San Antonio Spurs,89,Away,1
+102,"Mon, Nov 10, 2014",Los Angeles Clippers,85,Home,0
+103,"Tue, Nov 11, 2014",Orlando Magic,100,Away,0
+103,"Tue, Nov 11, 2014",Toronto Raptors,104,Home,1
+104,"Tue, Nov 11, 2014",Los Angeles Lakers,102,Away,0
+104,"Tue, Nov 11, 2014",Memphis Grizzlies,107,Home,1
+105,"Tue, Nov 11, 2014",Oklahoma City Thunder,78,Away,0
+105,"Tue, Nov 11, 2014",Milwaukee Bucks,85,Home,1
+106,"Tue, Nov 11, 2014",Sacramento Kings,98,Away,0
+106,"Tue, Nov 11, 2014",Dallas Mavericks,106,Home,1
+107,"Tue, Nov 11, 2014",Charlotte Hornets,100,Away,0
+107,"Tue, Nov 11, 2014",Portland Trail Blazers,102,Home,1
+108,"Tue, Nov 11, 2014",San Antonio Spurs,113,Away,1
+108,"Tue, Nov 11, 2014",Golden State Warriors,100,Home,0
+109,"Wed, Nov 12, 2014",Detroit Pistons,103,Away,0
+109,"Wed, Nov 12, 2014",Washington Wizards,107,Home,1
+110,"Wed, Nov 12, 2014",Utah Jazz,97,Away,0
+110,"Wed, Nov 12, 2014",Atlanta Hawks,100,Home,1
+111,"Wed, Nov 12, 2014",Oklahoma City Thunder,109,Away,1
+111,"Wed, Nov 12, 2014",Boston Celtics,94,Home,0
+112,"Wed, Nov 12, 2014",Indiana Pacers,81,Away,1
+112,"Wed, Nov 12, 2014",Miami Heat,75,Home,0
+113,"Wed, Nov 12, 2014",Orlando Magic,97,Away,1
+113,"Wed, Nov 12, 2014",New York Knicks,95,Home,0
+114,"Wed, Nov 12, 2014",Los Angeles Lakers,102,Away,0
+114,"Wed, Nov 12, 2014",New Orleans Pelicans,109,Home,1
+115,"Wed, Nov 12, 2014",Portland Trail Blazers,130,Away,1
+115,"Wed, Nov 12, 2014",Denver Nuggets,113,Home,0
+116,"Wed, Nov 12, 2014",Brooklyn Nets,104,Away,0
+116,"Wed, Nov 12, 2014",Phoenix Suns,112,Home,1
+117,"Wed, Nov 12, 2014",Houston Rockets,113,Away,1
+117,"Wed, Nov 12, 2014",Minnesota Timberwolves,101,Home,0
+118,"Thu, Nov 13, 2014",Sacramento Kings,110,Away,0
+118,"Thu, Nov 13, 2014",Memphis Grizzlies,111,Home,1
+119,"Thu, Nov 13, 2014",Chicago Bulls,100,Away,1
+119,"Thu, Nov 13, 2014",Toronto Raptors,93,Home,0
+120,"Thu, Nov 13, 2014",Philadelphia 76ers,70,Away,0
+120,"Thu, Nov 13, 2014",Dallas Mavericks,123,Home,1
+121,"Thu, Nov 13, 2014",Brooklyn Nets,99,Away,0
+121,"Thu, Nov 13, 2014",Golden State Warriors,107,Home,1
+122,"Fri, Nov 14, 2014",Denver Nuggets,108,Away,1
+122,"Fri, Nov 14, 2014",Indiana Pacers,87,Home,0
+123,"Fri, Nov 14, 2014",Milwaukee Bucks,85,Away,0
+123,"Fri, Nov 14, 2014",Orlando Magic,101,Home,1
+124,"Fri, Nov 14, 2014",Miami Heat,103,Away,0
+124,"Fri, Nov 14, 2014",Atlanta Hawks,114,Home,1
+125,"Fri, Nov 14, 2014",Cleveland Cavaliers,122,Away,1
+125,"Fri, Nov 14, 2014",Boston Celtics,121,Home,0
+126,"Fri, Nov 14, 2014",Utah Jazz,102,Away,1
+126,"Fri, Nov 14, 2014",New York Knicks,100,Home,0
+127,"Fri, Nov 14, 2014",Philadelphia 76ers,87,Away,0
+127,"Fri, Nov 14, 2014",Houston Rockets,88,Home,1
+128,"Fri, Nov 14, 2014",Minnesota Timberwolves,91,Away,0
+128,"Fri, Nov 14, 2014",New Orleans Pelicans,139,Home,1
+129,"Fri, Nov 14, 2014",Detroit Pistons,96,Away,1
+129,"Fri, Nov 14, 2014",Oklahoma City Thunder,89,Home,0
+130,"Fri, Nov 14, 2014",Charlotte Hornets,103,Away,1
+130,"Fri, Nov 14, 2014",Phoenix Suns,95,Home,0
+131,"Fri, Nov 14, 2014",San Antonio Spurs,93,Away,1
+131,"Fri, Nov 14, 2014",Los Angeles Lakers,80,Home,0
+132,"Sat, Nov 15, 2014",Orlando Magic,93,Away,0
+132,"Sat, Nov 15, 2014",Washington Wizards,98,Home,1
+133,"Sat, Nov 15, 2014",Atlanta Hawks,94,Away,0
+133,"Sat, Nov 15, 2014",Cleveland Cavaliers,127,Home,1
+134,"Sat, Nov 15, 2014",Utah Jazz,93,Away,0
+134,"Sat, Nov 15, 2014",Toronto Raptors,111,Home,1
+135,"Sat, Nov 15, 2014",Indiana Pacers,99,Away,1
+135,"Sat, Nov 15, 2014",Chicago Bulls,90,Home,0
+136,"Sat, Nov 15, 2014",Detroit Pistons,88,Away,0
+136,"Sat, Nov 15, 2014",Memphis Grizzlies,95,Home,1
+137,"Sat, Nov 15, 2014",Minnesota Timberwolves,117,Away,0
+137,"Sat, Nov 15, 2014",Dallas Mavericks,131,Home,1
+138,"Sat, Nov 15, 2014",Brooklyn Nets,87,Away,0
+138,"Sat, Nov 15, 2014",Portland Trail Blazers,97,Home,1
+139,"Sat, Nov 15, 2014",San Antonio Spurs,91,Away,0
+139,"Sat, Nov 15, 2014",Sacramento Kings,94,Home,1
+140,"Sat, Nov 15, 2014",Charlotte Hornets,87,Away,0
+140,"Sat, Nov 15, 2014",Golden State Warriors,112,Home,1
+141,"Sat, Nov 15, 2014",Phoenix Suns,107,Away,0
+141,"Sat, Nov 15, 2014",Los Angeles Clippers,120,Home,1
+142,"Sun, Nov 16, 2014",Denver Nuggets,93,Away,0
+142,"Sun, Nov 16, 2014",New York Knicks,109,Home,1
+143,"Sun, Nov 16, 2014",Milwaukee Bucks,91,Away,1
+143,"Sun, Nov 16, 2014",Miami Heat,84,Home,0
+144,"Sun, Nov 16, 2014",Houston Rockets,69,Away,1
+144,"Sun, Nov 16, 2014",Oklahoma City Thunder,65,Home,0
+145,"Sun, Nov 16, 2014",Golden State Warriors,136,Away,1
+145,"Sun, Nov 16, 2014",Los Angeles Lakers,115,Home,0
+146,"Mon, Nov 17, 2014",Dallas Mavericks,107,Away,1
+146,"Mon, Nov 17, 2014",Charlotte Hornets,80,Home,0
+147,"Mon, Nov 17, 2014",Denver Nuggets,106,Away,1
+147,"Mon, Nov 17, 2014",Cleveland Cavaliers,97,Home,0
+148,"Mon, Nov 17, 2014",Phoenix Suns,118,Away,1
+148,"Mon, Nov 17, 2014",Boston Celtics,114,Home,0
+149,"Mon, Nov 17, 2014",Miami Heat,95,Away,1
+149,"Mon, Nov 17, 2014",Brooklyn Nets,83,Home,0
+150,"Mon, Nov 17, 2014",Orlando Magic,107,Away,1
+150,"Mon, Nov 17, 2014",Detroit Pistons,93,Home,0
+151,"Mon, Nov 17, 2014",Houston Rockets,93,Away,0
+151,"Mon, Nov 17, 2014",Memphis Grizzlies,119,Home,1
+152,"Mon, Nov 17, 2014",Philadelphia 76ers,75,Away,0
+152,"Mon, Nov 17, 2014",San Antonio Spurs,100,Home,1
+153,"Mon, Nov 17, 2014",New Orleans Pelicans,93,Away,0
+153,"Mon, Nov 17, 2014",Portland Trail Blazers,102,Home,1
+154,"Mon, Nov 17, 2014",Chicago Bulls,105,Away,1
+154,"Mon, Nov 17, 2014",Los Angeles Clippers,89,Home,0
+155,"Tue, Nov 18, 2014",Los Angeles Lakers,114,Away,1
+155,"Tue, Nov 18, 2014",Atlanta Hawks,109,Home,0
+156,"Tue, Nov 18, 2014",New York Knicks,113,Away,0
+156,"Tue, Nov 18, 2014",Milwaukee Bucks,117,Home,1
+157,"Tue, Nov 18, 2014",Oklahoma City Thunder,81,Away,0
+157,"Tue, Nov 18, 2014",Utah Jazz,98,Home,1
+158,"Tue, Nov 18, 2014",New Orleans Pelicans,106,Away,1
+158,"Tue, Nov 18, 2014",Sacramento Kings,100,Home,0
+159,"Wed, Nov 19, 2014",San Antonio Spurs,92,Away,1
+159,"Wed, Nov 19, 2014",Cleveland Cavaliers,90,Home,0
+160,"Wed, Nov 19, 2014",Charlotte Hornets,86,Away,0
+160,"Wed, Nov 19, 2014",Indiana Pacers,88,Home,1
+161,"Wed, Nov 19, 2014",Los Angeles Clippers,114,Away,1
+161,"Wed, Nov 19, 2014",Orlando Magic,90,Home,0
+162,"Wed, Nov 19, 2014",Boston Celtics,101,Away,1
+162,"Wed, Nov 19, 2014",Philadelphia 76ers,90,Home,0
+163,"Wed, Nov 19, 2014",Dallas Mavericks,105,Away,1
+163,"Wed, Nov 19, 2014",Washington Wizards,102,Home,0
+164,"Wed, Nov 19, 2014",Milwaukee Bucks,122,Away,1
+164,"Wed, Nov 19, 2014",Brooklyn Nets,118,Home,0
+165,"Wed, Nov 19, 2014",Phoenix Suns,88,Away,1
+165,"Wed, Nov 19, 2014",Detroit Pistons,86,Home,0
+166,"Wed, Nov 19, 2014",Memphis Grizzlies,92,Away,0
+166,"Wed, Nov 19, 2014",Toronto Raptors,96,Home,1
+167,"Wed, Nov 19, 2014",New York Knicks,99,Away,0
+167,"Wed, Nov 19, 2014",Minnesota Timberwolves,115,Home,1
+168,"Wed, Nov 19, 2014",Oklahoma City Thunder,100,Away,0
+168,"Wed, Nov 19, 2014",Denver Nuggets,107,Home,1
+169,"Wed, Nov 19, 2014",Los Angeles Lakers,98,Away,1
+169,"Wed, Nov 19, 2014",Houston Rockets,92,Home,0
+170,"Thu, Nov 20, 2014",Los Angeles Clippers,110,Away,1
+170,"Thu, Nov 20, 2014",Miami Heat,93,Home,0
+171,"Thu, Nov 20, 2014",Chicago Bulls,88,Away,0
+171,"Thu, Nov 20, 2014",Sacramento Kings,103,Home,1
+172,"Fri, Nov 21, 2014",Orlando Magic,105,Away,1
+172,"Fri, Nov 21, 2014",Charlotte Hornets,100,Home,0
+173,"Fri, Nov 21, 2014",Phoenix Suns,122,Away,1
+173,"Fri, Nov 21, 2014",Philadelphia 76ers,96,Home,0
+174,"Fri, Nov 21, 2014",Detroit Pistons,89,Away,0
+174,"Fri, Nov 21, 2014",Atlanta Hawks,99,Home,1
+175,"Fri, Nov 21, 2014",Milwaukee Bucks,82,Away,0
+175,"Fri, Nov 21, 2014",Toronto Raptors,124,Home,1
+176,"Fri, Nov 21, 2014",Boston Celtics,100,Away,0
+176,"Fri, Nov 21, 2014",Memphis Grizzlies,117,Home,1
+177,"Fri, Nov 21, 2014",San Antonio Spurs,121,Away,1
+177,"Fri, Nov 21, 2014",Minnesota Timberwolves,92,Home,0
+178,"Fri, Nov 21, 2014",Brooklyn Nets,94,Away,1
+178,"Fri, Nov 21, 2014",Oklahoma City Thunder,92,Home,0
+179,"Fri, Nov 21, 2014",Cleveland Cavaliers,78,Away,0
+179,"Fri, Nov 21, 2014",Washington Wizards,91,Home,1
+180,"Fri, Nov 21, 2014",Los Angeles Lakers,106,Away,0
+180,"Fri, Nov 21, 2014",Dallas Mavericks,140,Home,1
+181,"Fri, Nov 21, 2014",New Orleans Pelicans,97,Away,0
+181,"Fri, Nov 21, 2014",Denver Nuggets,117,Home,1
+182,"Fri, Nov 21, 2014",Utah Jazz,88,Away,0
+182,"Fri, Nov 21, 2014",Golden State Warriors,101,Home,1
+183,"Fri, Nov 21, 2014",Chicago Bulls,87,Away,0
+183,"Fri, Nov 21, 2014",Portland Trail Blazers,105,Home,1
+184,"Sat, Nov 22, 2014",Phoenix Suns,106,Away,1
+184,"Sat, Nov 22, 2014",Indiana Pacers,83,Home,0
+185,"Sat, Nov 22, 2014",Miami Heat,99,Away,1
+185,"Sat, Nov 22, 2014",Orlando Magic,92,Home,0
+186,"Sat, Nov 22, 2014",Toronto Raptors,110,Away,1
+186,"Sat, Nov 22, 2014",Cleveland Cavaliers,93,Home,0
+187,"Sat, Nov 22, 2014",Philadelphia 76ers,83,Away,0
+187,"Sat, Nov 22, 2014",New York Knicks,91,Home,1
+188,"Sat, Nov 22, 2014",Dallas Mavericks,92,Away,0
+188,"Sat, Nov 22, 2014",Houston Rockets,95,Home,1
+189,"Sat, Nov 22, 2014",Sacramento Kings,113,Away,1
+189,"Sat, Nov 22, 2014",Minnesota Timberwolves,101,Home,0
+190,"Sat, Nov 22, 2014",Washington Wizards,111,Away,1
+190,"Sat, Nov 22, 2014",Milwaukee Bucks,100,Home,0
+191,"Sat, Nov 22, 2014",Brooklyn Nets,87,Away,0
+191,"Sat, Nov 22, 2014",San Antonio Spurs,99,Home,1
+192,"Sat, Nov 22, 2014",New Orleans Pelicans,106,Away,1
+192,"Sat, Nov 22, 2014",Utah Jazz,94,Home,0
+193,"Sun, Nov 23, 2014",Portland Trail Blazers,94,Away,1
+193,"Sun, Nov 23, 2014",Boston Celtics,88,Home,0
+194,"Sun, Nov 23, 2014",Los Angeles Clippers,91,Away,0
+194,"Sun, Nov 23, 2014",Memphis Grizzlies,107,Home,1
+195,"Sun, Nov 23, 2014",Charlotte Hornets,93,Away,0
+195,"Sun, Nov 23, 2014",Miami Heat,94,Home,1
+196,"Sun, Nov 23, 2014",Golden State Warriors,91,Away,1
+196,"Sun, Nov 23, 2014",Oklahoma City Thunder,86,Home,0
+197,"Sun, Nov 23, 2014",Denver Nuggets,101,Away,1
+197,"Sun, Nov 23, 2014",Los Angeles Lakers,94,Home,0
+198,"Mon, Nov 24, 2014",Los Angeles Clippers,113,Away,1
+198,"Mon, Nov 24, 2014",Charlotte Hornets,92,Home,0
+199,"Mon, Nov 24, 2014",Orlando Magic,74,Away,0
+199,"Mon, Nov 24, 2014",Cleveland Cavaliers,106,Home,1
+200,"Mon, Nov 24, 2014",Portland Trail Blazers,114,Away,1
+200,"Mon, Nov 24, 2014",Philadelphia 76ers,104,Home,0
+201,"Mon, Nov 24, 2014",Phoenix Suns,100,Away,0
+201,"Mon, Nov 24, 2014",Toronto Raptors,104,Home,1
+202,"Mon, Nov 24, 2014",New York Knicks,86,Away,0
+202,"Mon, Nov 24, 2014",Houston Rockets,91,Home,1
+203,"Mon, Nov 24, 2014",Indiana Pacers,111,Away,1
+203,"Mon, Nov 24, 2014",Dallas Mavericks,100,Home,0
+204,"Mon, Nov 24, 2014",Chicago Bulls,97,Away,1
+204,"Mon, Nov 24, 2014",Utah Jazz,95,Home,0
+205,"Tue, Nov 25, 2014",Atlanta Hawks,106,Away,1
+205,"Tue, Nov 25, 2014",Washington Wizards,102,Home,0
+206,"Tue, Nov 25, 2014",Golden State Warriors,114,Away,1
+206,"Tue, Nov 25, 2014",Miami Heat,97,Home,0
+207,"Tue, Nov 25, 2014",Detroit Pistons,86,Away,0
+207,"Tue, Nov 25, 2014",Milwaukee Bucks,98,Home,1
+208,"Tue, Nov 25, 2014",Sacramento Kings,99,Away,1
+208,"Tue, Nov 25, 2014",New Orleans Pelicans,89,Home,0
+209,"Tue, Nov 25, 2014",Chicago Bulls,109,Away,0
+209,"Tue, Nov 25, 2014",Denver Nuggets,114,Home,1
+210,"Wed, Nov 26, 2014",Portland Trail Blazers,105,Away,1
+210,"Wed, Nov 26, 2014",Charlotte Hornets,97,Home,0
+211,"Wed, Nov 26, 2014",Washington Wizards,87,Away,0
+211,"Wed, Nov 26, 2014",Cleveland Cavaliers,113,Home,1
+212,"Wed, Nov 26, 2014",Golden State Warriors,111,Away,1
+212,"Wed, Nov 26, 2014",Orlando Magic,96,Home,0
+213,"Wed, Nov 26, 2014",Brooklyn Nets,99,Away,1
+213,"Wed, Nov 26, 2014",Philadelphia 76ers,91,Home,0
+214,"Wed, Nov 26, 2014",Toronto Raptors,126,Away,1
+214,"Wed, Nov 26, 2014",Atlanta Hawks,115,Home,0
+215,"Wed, Nov 26, 2014",New York Knicks,102,Away,0
+215,"Wed, Nov 26, 2014",Dallas Mavericks,109,Home,1
+216,"Wed, Nov 26, 2014",Los Angeles Clippers,104,Away,1
+216,"Wed, Nov 26, 2014",Detroit Pistons,98,Home,0
+217,"Wed, Nov 26, 2014",Sacramento Kings,89,Away,0
+217,"Wed, Nov 26, 2014",Houston Rockets,102,Home,1
+218,"Wed, Nov 26, 2014",Milwaukee Bucks,103,Away,1
+218,"Wed, Nov 26, 2014",Minnesota Timberwolves,86,Home,0
+219,"Wed, Nov 26, 2014",Utah Jazz,82,Away,0
+219,"Wed, Nov 26, 2014",Oklahoma City Thunder,97,Home,1
+220,"Wed, Nov 26, 2014",Indiana Pacers,100,Away,0
+220,"Wed, Nov 26, 2014",San Antonio Spurs,106,Home,1
+221,"Wed, Nov 26, 2014",Denver Nuggets,112,Away,0
+221,"Wed, Nov 26, 2014",Phoenix Suns,120,Home,1
+222,"Wed, Nov 26, 2014",Memphis Grizzlies,99,Away,1
+222,"Wed, Nov 26, 2014",Los Angeles Lakers,93,Home,0
+223,"Fri, Nov 28, 2014",Chicago Bulls,109,Away,1
+223,"Fri, Nov 28, 2014",Boston Celtics,102,Home,0
+224,"Fri, Nov 28, 2014",Golden State Warriors,106,Away,1
+224,"Fri, Nov 28, 2014",Charlotte Hornets,101,Home,0
+225,"Fri, Nov 28, 2014",New Orleans Pelicans,91,Away,0
+225,"Fri, Nov 28, 2014",Atlanta Hawks,100,Home,1
+226,"Fri, Nov 28, 2014",Milwaukee Bucks,104,Away,1
+226,"Fri, Nov 28, 2014",Detroit Pistons,88,Home,0
+227,"Fri, Nov 28, 2014",Dallas Mavericks,106,Away,1
+227,"Fri, Nov 28, 2014",Toronto Raptors,102,Home,0
+228,"Fri, Nov 28, 2014",Los Angeles Clippers,102,Away,1
+228,"Fri, Nov 28, 2014",Houston Rockets,85,Home,0
+229,"Fri, Nov 28, 2014",Orlando Magic,83,Away,0
+229,"Fri, Nov 28, 2014",Indiana Pacers,98,Home,1
+230,"Fri, Nov 28, 2014",New York Knicks,78,Away,0
+230,"Fri, Nov 28, 2014",Oklahoma City Thunder,105,Home,1
+231,"Fri, Nov 28, 2014",Sacramento Kings,104,Away,0
+231,"Fri, Nov 28, 2014",San Antonio Spurs,112,Home,1
+232,"Fri, Nov 28, 2014",Phoenix Suns,97,Away,0
+232,"Fri, Nov 28, 2014",Denver Nuggets,122,Home,1
+233,"Fri, Nov 28, 2014",Memphis Grizzlies,112,Away,1
+233,"Fri, Nov 28, 2014",Portland Trail Blazers,99,Home,0
+234,"Fri, Nov 28, 2014",Minnesota Timberwolves,120,Away,1
+234,"Fri, Nov 28, 2014",Los Angeles Lakers,119,Home,0
+235,"Sat, Nov 29, 2014",Dallas Mavericks,110,Away,1
+235,"Sat, Nov 29, 2014",Philadelphia 76ers,103,Home,0
+236,"Sat, Nov 29, 2014",New Orleans Pelicans,80,Away,0
+236,"Sat, Nov 29, 2014",Washington Wizards,83,Home,1
+237,"Sat, Nov 29, 2014",Charlotte Hornets,75,Away,0
+237,"Sat, Nov 29, 2014",Atlanta Hawks,105,Home,1
+238,"Sat, Nov 29, 2014",Indiana Pacers,97,Away,0
+238,"Sat, Nov 29, 2014",Cleveland Cavaliers,109,Home,1
+239,"Sat, Nov 29, 2014",Houston Rockets,117,Away,1
+239,"Sat, Nov 29, 2014",Milwaukee Bucks,103,Home,0
+240,"Sat, Nov 29, 2014",Los Angeles Clippers,112,Away,1
+240,"Sat, Nov 29, 2014",Utah Jazz,96,Home,0
+241,"Sun, Nov 30, 2014",San Antonio Spurs,111,Away,1
+241,"Sun, Nov 30, 2014",Boston Celtics,89,Home,0
+242,"Sun, Nov 30, 2014",Chicago Bulls,102,Away,1
+242,"Sun, Nov 30, 2014",Brooklyn Nets,84,Home,0
+243,"Sun, Nov 30, 2014",Golden State Warriors,104,Away,1
+243,"Sun, Nov 30, 2014",Detroit Pistons,93,Home,0
+244,"Sun, Nov 30, 2014",Memphis Grizzlies,97,Away,1
+244,"Sun, Nov 30, 2014",Sacramento Kings,85,Home,0
+245,"Sun, Nov 30, 2014",Miami Heat,86,Away,1
+245,"Sun, Nov 30, 2014",New York Knicks,79,Home,0
+246,"Sun, Nov 30, 2014",Orlando Magic,93,Away,1
+246,"Sun, Nov 30, 2014",Phoenix Suns,90,Home,0
+247,"Sun, Nov 30, 2014",Minnesota Timberwolves,93,Away,0
+247,"Sun, Nov 30, 2014",Portland Trail Blazers,107,Home,1
+248,"Sun, Nov 30, 2014",Toronto Raptors,122,Away,0
+248,"Sun, Nov 30, 2014",Los Angeles Lakers,129,Home,1
+249,"Mon, Dec 1, 2014",San Antonio Spurs,109,Away,1
+249,"Mon, Dec 1, 2014",Philadelphia 76ers,103,Home,0
+250,"Mon, Dec 1, 2014",Miami Heat,86,Away,0
+250,"Mon, Dec 1, 2014",Washington Wizards,107,Home,1
+251,"Mon, Dec 1, 2014",Denver Nuggets,103,Away,1
+251,"Mon, Dec 1, 2014",Utah Jazz,101,Home,0
+252,"Mon, Dec 1, 2014",Minnesota Timberwolves,101,Away,0
+252,"Mon, Dec 1, 2014",Los Angeles Clippers,127,Home,1
+253,"Tue, Dec 2, 2014",Milwaukee Bucks,108,Away,0
+253,"Tue, Dec 2, 2014",Cleveland Cavaliers,111,Home,1
+254,"Tue, Dec 2, 2014",Boston Celtics,105,Away,0
+254,"Tue, Dec 2, 2014",Atlanta Hawks,109,Home,1
+255,"Tue, Dec 2, 2014",Los Angeles Lakers,106,Away,1
+255,"Tue, Dec 2, 2014",Detroit Pistons,96,Home,0
+256,"Tue, Dec 2, 2014",Brooklyn Nets,98,Away,1
+256,"Tue, Dec 2, 2014",New York Knicks,93,Home,0
+257,"Tue, Dec 2, 2014",Dallas Mavericks,132,Away,1
+257,"Tue, Dec 2, 2014",Chicago Bulls,129,Home,0
+258,"Tue, Dec 2, 2014",Oklahoma City Thunder,104,Away,0
+258,"Tue, Dec 2, 2014",New Orleans Pelicans,112,Home,1
+259,"Tue, Dec 2, 2014",Portland Trail Blazers,105,Away,1
+259,"Tue, Dec 2, 2014",Denver Nuggets,103,Home,0
+260,"Tue, Dec 2, 2014",Indiana Pacers,99,Away,0
+260,"Tue, Dec 2, 2014",Phoenix Suns,116,Home,1
+261,"Tue, Dec 2, 2014",Toronto Raptors,117,Away,1
+261,"Tue, Dec 2, 2014",Sacramento Kings,109,Home,0
+262,"Tue, Dec 2, 2014",Orlando Magic,97,Away,0
+262,"Tue, Dec 2, 2014",Golden State Warriors,98,Home,1
+263,"Wed, Dec 3, 2014",Chicago Bulls,102,Away,1
+263,"Wed, Dec 3, 2014",Charlotte Hornets,95,Home,0
+264,"Wed, Dec 3, 2014",Los Angeles Lakers,95,Away,0
+264,"Wed, Dec 3, 2014",Washington Wizards,111,Home,1
+265,"Wed, Dec 3, 2014",Detroit Pistons,102,Away,0
+265,"Wed, Dec 3, 2014",Boston Celtics,109,Home,1
+266,"Wed, Dec 3, 2014",San Antonio Spurs,93,Away,0
+266,"Wed, Dec 3, 2014",Brooklyn Nets,95,Home,1
+267,"Wed, Dec 3, 2014",Atlanta Hawks,112,Away,1
+267,"Wed, Dec 3, 2014",Miami Heat,102,Home,0
+268,"Wed, Dec 3, 2014",Memphis Grizzlies,96,Away,0
+268,"Wed, Dec 3, 2014",Houston Rockets,105,Home,1
+269,"Wed, Dec 3, 2014",Dallas Mavericks,107,Away,1
+269,"Wed, Dec 3, 2014",Milwaukee Bucks,105,Home,0
+270,"Wed, Dec 3, 2014",Philadelphia 76ers,85,Away,1
+270,"Wed, Dec 3, 2014",Minnesota Timberwolves,77,Home,0
+271,"Wed, Dec 3, 2014",Toronto Raptors,123,Away,1
+271,"Wed, Dec 3, 2014",Utah Jazz,104,Home,0
+272,"Wed, Dec 3, 2014",Orlando Magic,86,Away,0
+272,"Wed, Dec 3, 2014",Los Angeles Clippers,114,Home,1
+273,"Thu, Dec 4, 2014",Cleveland Cavaliers,90,Away,1
+273,"Thu, Dec 4, 2014",New York Knicks,87,Home,0
+274,"Thu, Dec 4, 2014",Indiana Pacers,82,Away,0
+274,"Thu, Dec 4, 2014",Portland Trail Blazers,88,Home,1
+275,"Thu, Dec 4, 2014",New Orleans Pelicans,85,Away,0
+275,"Thu, Dec 4, 2014",Golden State Warriors,112,Home,1
+276,"Fri, Dec 5, 2014",New York Knicks,102,Away,0
+276,"Fri, Dec 5, 2014",Charlotte Hornets,103,Home,1
+277,"Fri, Dec 5, 2014",Oklahoma City Thunder,103,Away,1
+277,"Fri, Dec 5, 2014",Philadelphia 76ers,91,Home,0
+278,"Fri, Dec 5, 2014",Denver Nuggets,89,Away,0
+278,"Fri, Dec 5, 2014",Washington Wizards,119,Home,1
+279,"Fri, Dec 5, 2014",Los Angeles Lakers,96,Away,0
+279,"Fri, Dec 5, 2014",Boston Celtics,113,Home,1
+280,"Fri, Dec 5, 2014",Atlanta Hawks,98,Away,1
+280,"Fri, Dec 5, 2014",Brooklyn Nets,75,Home,0
+281,"Fri, Dec 5, 2014",Cleveland Cavaliers,105,Away,1
+281,"Fri, Dec 5, 2014",Toronto Raptors,91,Home,0
+282,"Fri, Dec 5, 2014",San Antonio Spurs,107,Away,1
+282,"Fri, Dec 5, 2014",Memphis Grizzlies,101,Home,0
+283,"Fri, Dec 5, 2014",Houston Rockets,114,Away,1
+283,"Fri, Dec 5, 2014",Minnesota Timberwolves,112,Home,0
+284,"Fri, Dec 5, 2014",Phoenix Suns,118,Away,1
+284,"Fri, Dec 5, 2014",Dallas Mavericks,106,Home,0
+285,"Fri, Dec 5, 2014",Miami Heat,85,Away,0
+285,"Fri, Dec 5, 2014",Milwaukee Bucks,109,Home,1
+286,"Fri, Dec 5, 2014",Orlando Magic,98,Away,1
+286,"Fri, Dec 5, 2014",Utah Jazz,93,Home,0
+287,"Fri, Dec 5, 2014",Indiana Pacers,101,Away,0
+287,"Fri, Dec 5, 2014",Sacramento Kings,102,Home,1
+288,"Sat, Dec 6, 2014",Philadelphia 76ers,108,Away,1
+288,"Sat, Dec 6, 2014",Detroit Pistons,101,Home,0
+289,"Sat, Dec 6, 2014",Golden State Warriors,112,Away,1
+289,"Sat, Dec 6, 2014",Chicago Bulls,102,Home,0
+290,"Sat, Dec 6, 2014",Phoenix Suns,95,Away,0
+290,"Sat, Dec 6, 2014",Houston Rockets,100,Home,1
+291,"Sat, Dec 6, 2014",Minnesota Timberwolves,101,Away,0
+291,"Sat, Dec 6, 2014",San Antonio Spurs,123,Home,1
+292,"Sat, Dec 6, 2014",Orlando Magic,105,Away,1
+292,"Sat, Dec 6, 2014",Sacramento Kings,96,Home,0
+293,"Sat, Dec 6, 2014",New Orleans Pelicans,100,Away,0
+293,"Sat, Dec 6, 2014",Los Angeles Clippers,120,Home,1
+294,"Sun, Dec 7, 2014",Washington Wizards,93,Away,0
+294,"Sun, Dec 7, 2014",Boston Celtics,101,Home,1
+295,"Sun, Dec 7, 2014",Denver Nuggets,84,Away,0
+295,"Sun, Dec 7, 2014",Atlanta Hawks,96,Home,1
+296,"Sun, Dec 7, 2014",Oklahoma City Thunder,96,Away,1
+296,"Sun, Dec 7, 2014",Detroit Pistons,94,Home,0
+297,"Sun, Dec 7, 2014",Miami Heat,87,Away,0
+297,"Sun, Dec 7, 2014",Memphis Grizzlies,103,Home,1
+298,"Sun, Dec 7, 2014",Milwaukee Bucks,102,Away,0
+298,"Sun, Dec 7, 2014",Dallas Mavericks,125,Home,1
+299,"Sun, Dec 7, 2014",Portland Trail Blazers,103,Away,1
+299,"Sun, Dec 7, 2014",New York Knicks,99,Home,0
+300,"Sun, Dec 7, 2014",New Orleans Pelicans,104,Away,1
+300,"Sun, Dec 7, 2014",Los Angeles Lakers,87,Home,0
+301,"Mon, Dec 8, 2014",Atlanta Hawks,108,Away,1
+301,"Mon, Dec 8, 2014",Indiana Pacers,92,Home,0
+302,"Mon, Dec 8, 2014",Boston Celtics,132,Away,0
+302,"Mon, Dec 8, 2014",Washington Wizards,133,Home,1
+303,"Mon, Dec 8, 2014",Cleveland Cavaliers,110,Away,1
+303,"Mon, Dec 8, 2014",Brooklyn Nets,88,Home,0
+304,"Mon, Dec 8, 2014",Denver Nuggets,107,Away,0
+304,"Mon, Dec 8, 2014",Toronto Raptors,112,Home,1
+305,"Mon, Dec 8, 2014",Golden State Warriors,102,Away,1
+305,"Mon, Dec 8, 2014",Minnesota Timberwolves,86,Home,0
+306,"Mon, Dec 8, 2014",Utah Jazz,92,Away,0
+306,"Mon, Dec 8, 2014",Sacramento Kings,101,Home,1
+307,"Mon, Dec 8, 2014",Phoenix Suns,120,Away,0
+307,"Mon, Dec 8, 2014",Los Angeles Clippers,121,Home,1
+308,"Tue, Dec 9, 2014",Toronto Raptors,101,Away,0
+308,"Tue, Dec 9, 2014",Cleveland Cavaliers,105,Home,1
+309,"Tue, Dec 9, 2014",Portland Trail Blazers,98,Away,1
+309,"Tue, Dec 9, 2014",Detroit Pistons,86,Home,0
+310,"Tue, Dec 9, 2014",Dallas Mavericks,105,Away,0
+310,"Tue, Dec 9, 2014",Memphis Grizzlies,114,Home,1
+311,"Tue, Dec 9, 2014",New York Knicks,93,Away,0
+311,"Tue, Dec 9, 2014",New Orleans Pelicans,104,Home,1
+312,"Tue, Dec 9, 2014",Milwaukee Bucks,101,Away,0
+312,"Tue, Dec 9, 2014",Oklahoma City Thunder,114,Home,1
+313,"Tue, Dec 9, 2014",Miami Heat,103,Away,1
+313,"Tue, Dec 9, 2014",Phoenix Suns,97,Home,0
+314,"Tue, Dec 9, 2014",San Antonio Spurs,96,Away,0
+314,"Tue, Dec 9, 2014",Utah Jazz,100,Home,1
+315,"Tue, Dec 9, 2014",Sacramento Kings,95,Away,0
+315,"Tue, Dec 9, 2014",Los Angeles Lakers,98,Home,1
+316,"Wed, Dec 10, 2014",Boston Celtics,87,Away,0
+316,"Wed, Dec 10, 2014",Charlotte Hornets,96,Home,1
+317,"Wed, Dec 10, 2014",Los Angeles Clippers,103,Away,1
+317,"Wed, Dec 10, 2014",Indiana Pacers,96,Home,0
+318,"Wed, Dec 10, 2014",Washington Wizards,91,Away,1
+318,"Wed, Dec 10, 2014",Orlando Magic,89,Home,0
+319,"Wed, Dec 10, 2014",Philadelphia 76ers,79,Away,0
+319,"Wed, Dec 10, 2014",Atlanta Hawks,95,Home,1
+320,"Wed, Dec 10, 2014",Brooklyn Nets,80,Away,0
+320,"Wed, Dec 10, 2014",Chicago Bulls,105,Home,1
+321,"Wed, Dec 10, 2014",New Orleans Pelicans,107,Away,0
+321,"Wed, Dec 10, 2014",Dallas Mavericks,112,Home,1
+322,"Wed, Dec 10, 2014",Portland Trail Blazers,82,Away,0
+322,"Wed, Dec 10, 2014",Minnesota Timberwolves,90,Home,1
+323,"Wed, Dec 10, 2014",New York Knicks,95,Away,0
+323,"Wed, Dec 10, 2014",San Antonio Spurs,109,Home,1
+324,"Wed, Dec 10, 2014",Miami Heat,82,Away,0
+324,"Wed, Dec 10, 2014",Denver Nuggets,102,Home,1
+325,"Wed, Dec 10, 2014",Houston Rockets,93,Away,0
+325,"Wed, Dec 10, 2014",Golden State Warriors,105,Home,1
+326,"Thu, Dec 11, 2014",Cleveland Cavaliers,94,Away,0
+326,"Thu, Dec 11, 2014",Oklahoma City Thunder,103,Home,1
+327,"Thu, Dec 11, 2014",Houston Rockets,113,Away,1
+327,"Thu, Dec 11, 2014",Sacramento Kings,109,Home,0
+328,"Fri, Dec 12, 2014",Portland Trail Blazers,106,Away,0
+328,"Fri, Dec 12, 2014",Chicago Bulls,115,Home,1
+329,"Fri, Dec 12, 2014",Los Angeles Clippers,96,Away,0
+329,"Fri, Dec 12, 2014",Washington Wizards,104,Home,1
+330,"Fri, Dec 12, 2014",Orlando Magic,81,Away,0
+330,"Fri, Dec 12, 2014",Atlanta Hawks,87,Home,1
+331,"Fri, Dec 12, 2014",New York Knicks,101,Away,1
+331,"Fri, Dec 12, 2014",Boston Celtics,95,Home,0
+332,"Fri, Dec 12, 2014",Philadelphia 76ers,70,Away,0
+332,"Fri, Dec 12, 2014",Brooklyn Nets,88,Home,1
+333,"Fri, Dec 12, 2014",Indiana Pacers,94,Away,0
+333,"Fri, Dec 12, 2014",Toronto Raptors,106,Home,1
+334,"Fri, Dec 12, 2014",Charlotte Hornets,107,Away,0
+334,"Fri, Dec 12, 2014",Memphis Grizzlies,113,Home,1
+335,"Fri, Dec 12, 2014",Oklahoma City Thunder,111,Away,1
+335,"Fri, Dec 12, 2014",Minnesota Timberwolves,92,Home,0
+336,"Fri, Dec 12, 2014",Cleveland Cavaliers,114,Away,0
+336,"Fri, Dec 12, 2014",New Orleans Pelicans,119,Home,1
+337,"Fri, Dec 12, 2014",Detroit Pistons,105,Away,1
+337,"Fri, Dec 12, 2014",Phoenix Suns,103,Home,0
+338,"Fri, Dec 12, 2014",Miami Heat,100,Away,1
+338,"Fri, Dec 12, 2014",Utah Jazz,95,Home,0
+339,"Fri, Dec 12, 2014",Los Angeles Lakers,112,Away,1
+339,"Fri, Dec 12, 2014",San Antonio Spurs,110,Home,0
+340,"Sat, Dec 13, 2014",Golden State Warriors,105,Away,1
+340,"Sat, Dec 13, 2014",Dallas Mavericks,98,Home,0
+341,"Sat, Dec 13, 2014",Brooklyn Nets,114,Away,1
+341,"Sat, Dec 13, 2014",Charlotte Hornets,87,Home,0
+342,"Sat, Dec 13, 2014",Portland Trail Blazers,95,Away,1
+342,"Sat, Dec 13, 2014",Indiana Pacers,85,Home,0
+343,"Sat, Dec 13, 2014",Atlanta Hawks,99,Away,0
+343,"Sat, Dec 13, 2014",Orlando Magic,100,Home,1
+344,"Sat, Dec 13, 2014",Los Angeles Clippers,106,Away,0
+344,"Sat, Dec 13, 2014",Milwaukee Bucks,111,Home,1
+345,"Sat, Dec 13, 2014",Memphis Grizzlies,120,Away,1
+345,"Sat, Dec 13, 2014",Philadelphia 76ers,115,Home,0
+346,"Sat, Dec 13, 2014",Denver Nuggets,96,Away,0
+346,"Sat, Dec 13, 2014",Houston Rockets,108,Home,1
+347,"Sat, Dec 13, 2014",Detroit Pistons,95,Away,1
+347,"Sat, Dec 13, 2014",Sacramento Kings,90,Home,0
+348,"Sun, Dec 14, 2014",Chicago Bulls,93,Away,1
+348,"Sun, Dec 14, 2014",Miami Heat,75,Home,0
+349,"Sun, Dec 14, 2014",Golden State Warriors,128,Away,1
+349,"Sun, Dec 14, 2014",New Orleans Pelicans,122,Home,0
+350,"Sun, Dec 14, 2014",Utah Jazz,84,Away,0
+350,"Sun, Dec 14, 2014",Washington Wizards,93,Home,1
+351,"Sun, Dec 14, 2014",Los Angeles Lakers,100,Away,1
+351,"Sun, Dec 14, 2014",Minnesota Timberwolves,94,Home,0
+352,"Sun, Dec 14, 2014",Phoenix Suns,88,Away,0
+352,"Sun, Dec 14, 2014",Oklahoma City Thunder,112,Home,1
+353,"Sun, Dec 14, 2014",Toronto Raptors,95,Away,1
+353,"Sun, Dec 14, 2014",New York Knicks,90,Home,0
+354,"Sun, Dec 14, 2014",San Antonio Spurs,99,Away,1
+354,"Sun, Dec 14, 2014",Denver Nuggets,91,Home,0
+355,"Mon, Dec 15, 2014",Charlotte Hornets,88,Away,0
+355,"Mon, Dec 15, 2014",Cleveland Cavaliers,97,Home,1
+356,"Mon, Dec 15, 2014",Los Angeles Lakers,91,Away,0
+356,"Mon, Dec 15, 2014",Indiana Pacers,110,Home,1
+357,"Mon, Dec 15, 2014",Boston Celtics,105,Away,1
+357,"Mon, Dec 15, 2014",Philadelphia 76ers,87,Home,0
+358,"Mon, Dec 15, 2014",Chicago Bulls,86,Away,0
+358,"Mon, Dec 15, 2014",Atlanta Hawks,93,Home,1
+359,"Mon, Dec 15, 2014",Orlando Magic,82,Away,0
+359,"Mon, Dec 15, 2014",Toronto Raptors,95,Home,1
+360,"Mon, Dec 15, 2014",Milwaukee Bucks,96,Away,1
+360,"Mon, Dec 15, 2014",Phoenix Suns,94,Home,0
+361,"Mon, Dec 15, 2014",San Antonio Spurs,95,Away,0
+361,"Mon, Dec 15, 2014",Portland Trail Blazers,108,Home,1
+362,"Mon, Dec 15, 2014",Detroit Pistons,91,Away,0
+362,"Mon, Dec 15, 2014",Los Angeles Clippers,113,Home,1
+363,"Tue, Dec 16, 2014",Minnesota Timberwolves,95,Away,0
+363,"Tue, Dec 16, 2014",Washington Wizards,109,Home,1
+364,"Tue, Dec 16, 2014",Miami Heat,95,Away,1
+364,"Tue, Dec 16, 2014",Brooklyn Nets,91,Home,0
+365,"Tue, Dec 16, 2014",Golden State Warriors,98,Away,0
+365,"Tue, Dec 16, 2014",Memphis Grizzlies,105,Home,1
+366,"Tue, Dec 16, 2014",Utah Jazz,111,Away,0
+366,"Tue, Dec 16, 2014",New Orleans Pelicans,119,Home,1
+367,"Tue, Dec 16, 2014",Dallas Mavericks,107,Away,1
+367,"Tue, Dec 16, 2014",New York Knicks,87,Home,0
+368,"Tue, Dec 16, 2014",Oklahoma City Thunder,104,Away,1
+368,"Tue, Dec 16, 2014",Sacramento Kings,92,Home,0
+369,"Wed, Dec 17, 2014",Phoenix Suns,111,Away,1
+369,"Wed, Dec 17, 2014",Charlotte Hornets,106,Home,0
+370,"Wed, Dec 17, 2014",Atlanta Hawks,127,Away,1
+370,"Wed, Dec 17, 2014",Cleveland Cavaliers,98,Home,0
+371,"Wed, Dec 17, 2014",Orlando Magic,92,Away,0
+371,"Wed, Dec 17, 2014",Boston Celtics,109,Home,1
+372,"Wed, Dec 17, 2014",Dallas Mavericks,117,Away,1
+372,"Wed, Dec 17, 2014",Detroit Pistons,106,Home,0
+373,"Wed, Dec 17, 2014",Utah Jazz,105,Away,1
+373,"Wed, Dec 17, 2014",Miami Heat,87,Home,0
+374,"Wed, Dec 17, 2014",Brooklyn Nets,89,Away,0
+374,"Wed, Dec 17, 2014",Toronto Raptors,105,Home,1
+375,"Wed, Dec 17, 2014",Memphis Grizzlies,117,Away,1
+375,"Wed, Dec 17, 2014",San Antonio Spurs,116,Home,0
+376,"Wed, Dec 17, 2014",Milwaukee Bucks,97,Away,0
+376,"Wed, Dec 17, 2014",Portland Trail Blazers,104,Home,1
+377,"Wed, Dec 17, 2014",Houston Rockets,115,Away,1
+377,"Wed, Dec 17, 2014",Denver Nuggets,111,Home,0
+378,"Wed, Dec 17, 2014",Indiana Pacers,100,Away,0
+378,"Wed, Dec 17, 2014",Los Angeles Clippers,102,Home,1
+379,"Thu, Dec 18, 2014",New York Knicks,97,Away,0
+379,"Thu, Dec 18, 2014",Chicago Bulls,103,Home,1
+380,"Thu, Dec 18, 2014",New Orleans Pelicans,99,Away,1
+380,"Thu, Dec 18, 2014",Houston Rockets,90,Home,0
+381,"Thu, Dec 18, 2014",Milwaukee Bucks,108,Away,1
+381,"Thu, Dec 18, 2014",Sacramento Kings,107,Home,0
+382,"Thu, Dec 18, 2014",Oklahoma City Thunder,109,Away,0
+382,"Thu, Dec 18, 2014",Golden State Warriors,114,Home,1
+383,"Fri, Dec 19, 2014",Utah Jazz,101,Away,1
+383,"Fri, Dec 19, 2014",Orlando Magic,94,Home,0
+384,"Fri, Dec 19, 2014",Charlotte Hornets,109,Away,1
+384,"Fri, Dec 19, 2014",Philadelphia 76ers,91,Home,0
+385,"Fri, Dec 19, 2014",Minnesota Timberwolves,98,Away,0
+385,"Fri, Dec 19, 2014",Boston Celtics,114,Home,1
+386,"Fri, Dec 19, 2014",Brooklyn Nets,91,Away,0
+386,"Fri, Dec 19, 2014",Cleveland Cavaliers,95,Home,1
+387,"Fri, Dec 19, 2014",Toronto Raptors,110,Away,1
+387,"Fri, Dec 19, 2014",Detroit Pistons,100,Home,0
+388,"Fri, Dec 19, 2014",Washington Wizards,105,Away,1
+388,"Fri, Dec 19, 2014",Miami Heat,103,Home,0
+389,"Fri, Dec 19, 2014",Chicago Bulls,103,Away,1
+389,"Fri, Dec 19, 2014",Memphis Grizzlies,97,Home,0
+390,"Fri, Dec 19, 2014",Portland Trail Blazers,129,Away,1
+390,"Fri, Dec 19, 2014",San Antonio Spurs,119,Home,0
+391,"Fri, Dec 19, 2014",Los Angeles Clippers,106,Away,0
+391,"Fri, Dec 19, 2014",Denver Nuggets,109,Home,1
+392,"Fri, Dec 19, 2014",Oklahoma City Thunder,104,Away,1
+392,"Fri, Dec 19, 2014",Los Angeles Lakers,103,Home,0
+393,"Sat, Dec 20, 2014",Phoenix Suns,99,Away,1
+393,"Sat, Dec 20, 2014",New York Knicks,90,Home,0
+394,"Sat, Dec 20, 2014",Utah Jazz,86,Away,0
+394,"Sat, Dec 20, 2014",Charlotte Hornets,104,Home,1
+395,"Sat, Dec 20, 2014",Portland Trail Blazers,114,Away,1
+395,"Sat, Dec 20, 2014",New Orleans Pelicans,88,Home,0
+396,"Sat, Dec 20, 2014",Atlanta Hawks,104,Away,1
+396,"Sat, Dec 20, 2014",Houston Rockets,97,Home,0
+397,"Sat, Dec 20, 2014",San Antonio Spurs,93,Away,0
+397,"Sat, Dec 20, 2014",Dallas Mavericks,99,Home,1
+398,"Sat, Dec 20, 2014",Indiana Pacers,73,Away,0
+398,"Sat, Dec 20, 2014",Denver Nuggets,76,Home,1
+399,"Sat, Dec 20, 2014",Milwaukee Bucks,102,Away,0
+399,"Sat, Dec 20, 2014",Los Angeles Clippers,106,Home,1
+400,"Sun, Dec 21, 2014",New York Knicks,108,Away,0
+400,"Sun, Dec 21, 2014",Toronto Raptors,118,Home,1
+401,"Sun, Dec 21, 2014",Memphis Grizzlies,91,Away,0
+401,"Sun, Dec 21, 2014",Cleveland Cavaliers,105,Home,1
+402,"Sun, Dec 21, 2014",Detroit Pistons,105,Away,0
+402,"Sun, Dec 21, 2014",Brooklyn Nets,110,Home,1
+403,"Sun, Dec 21, 2014",Boston Celtics,84,Away,0
+403,"Sun, Dec 21, 2014",Miami Heat,100,Home,1
+404,"Sun, Dec 21, 2014",Philadelphia 76ers,96,Away,1
+404,"Sun, Dec 21, 2014",Orlando Magic,88,Home,0
+405,"Sun, Dec 21, 2014",Los Angeles Lakers,101,Away,0
+405,"Sun, Dec 21, 2014",Sacramento Kings,108,Home,1
+406,"Sun, Dec 21, 2014",Phoenix Suns,104,Away,1
+406,"Sun, Dec 21, 2014",Washington Wizards,92,Home,0
+407,"Sun, Dec 21, 2014",Indiana Pacers,100,Away,1
+407,"Sun, Dec 21, 2014",Minnesota Timberwolves,96,Home,0
+408,"Sun, Dec 21, 2014",New Orleans Pelicans,101,Away,1
+408,"Sun, Dec 21, 2014",Oklahoma City Thunder,99,Home,0
+409,"Mon, Dec 22, 2014",Denver Nuggets,82,Away,0
+409,"Mon, Dec 22, 2014",Charlotte Hornets,110,Home,1
+410,"Mon, Dec 22, 2014",Toronto Raptors,120,Away,0
+410,"Mon, Dec 22, 2014",Chicago Bulls,129,Home,1
+411,"Mon, Dec 22, 2014",Portland Trail Blazers,95,Away,0
+411,"Mon, Dec 22, 2014",Houston Rockets,110,Home,1
+412,"Mon, Dec 22, 2014",Utah Jazz,97,Away,1
+412,"Mon, Dec 22, 2014",Memphis Grizzlies,91,Home,0
+413,"Mon, Dec 22, 2014",Atlanta Hawks,105,Away,1
+413,"Mon, Dec 22, 2014",Dallas Mavericks,102,Home,0
+414,"Mon, Dec 22, 2014",Los Angeles Clippers,118,Away,0
+414,"Mon, Dec 22, 2014",San Antonio Spurs,125,Home,1
+415,"Mon, Dec 22, 2014",Sacramento Kings,108,Away,0
+415,"Mon, Dec 22, 2014",Golden State Warriors,128,Home,1
+416,"Tue, Dec 23, 2014",Minnesota Timberwolves,104,Away,0
+416,"Tue, Dec 23, 2014",Cleveland Cavaliers,125,Home,1
+417,"Tue, Dec 23, 2014",New Orleans Pelicans,84,Away,0
+417,"Tue, Dec 23, 2014",Indiana Pacers,96,Home,1
+418,"Tue, Dec 23, 2014",Boston Celtics,95,Away,0
+418,"Tue, Dec 23, 2014",Orlando Magic,100,Home,1
+419,"Tue, Dec 23, 2014",Chicago Bulls,99,Away,1
+419,"Tue, Dec 23, 2014",Washington Wizards,91,Home,0
+420,"Tue, Dec 23, 2014",Los Angeles Clippers,104,Away,0
+420,"Tue, Dec 23, 2014",Atlanta Hawks,107,Home,1
+421,"Tue, Dec 23, 2014",Denver Nuggets,96,Away,0
+421,"Tue, Dec 23, 2014",Brooklyn Nets,102,Home,1
+422,"Tue, Dec 23, 2014",Philadelphia 76ers,91,Away,1
+422,"Tue, Dec 23, 2014",Miami Heat,87,Home,0
+423,"Tue, Dec 23, 2014",Charlotte Hornets,108,Away,1
+423,"Tue, Dec 23, 2014",Milwaukee Bucks,101,Home,0
+424,"Tue, Dec 23, 2014",Portland Trail Blazers,115,Away,1
+424,"Tue, Dec 23, 2014",Oklahoma City Thunder,111,Home,0
+425,"Tue, Dec 23, 2014",Dallas Mavericks,115,Away,0
+425,"Tue, Dec 23, 2014",Phoenix Suns,124,Home,1
+426,"Tue, Dec 23, 2014",Golden State Warriors,105,Away,0
+426,"Tue, Dec 23, 2014",Los Angeles Lakers,115,Home,1
+427,"Thu, Dec 25, 2014",Washington Wizards,102,Away,1
+427,"Thu, Dec 25, 2014",New York Knicks,91,Home,0
+428,"Thu, Dec 25, 2014",Oklahoma City Thunder,114,Away,1
+428,"Thu, Dec 25, 2014",San Antonio Spurs,106,Home,0
+429,"Thu, Dec 25, 2014",Cleveland Cavaliers,91,Away,0
+429,"Thu, Dec 25, 2014",Miami Heat,101,Home,1
+430,"Thu, Dec 25, 2014",Los Angeles Lakers,93,Away,0
+430,"Thu, Dec 25, 2014",Chicago Bulls,113,Home,1
+431,"Thu, Dec 25, 2014",Golden State Warriors,86,Away,0
+431,"Thu, Dec 25, 2014",Los Angeles Clippers,100,Home,1
+432,"Fri, Dec 26, 2014",Brooklyn Nets,109,Away,1
+432,"Fri, Dec 26, 2014",Boston Celtics,107,Home,0
+433,"Fri, Dec 26, 2014",Cleveland Cavaliers,98,Away,1
+433,"Fri, Dec 26, 2014",Orlando Magic,89,Home,0
+434,"Fri, Dec 26, 2014",Milwaukee Bucks,107,Away,1
+434,"Fri, Dec 26, 2014",Atlanta Hawks,77,Home,0
+435,"Fri, Dec 26, 2014",Indiana Pacers,109,Away,0
+435,"Fri, Dec 26, 2014",Detroit Pistons,119,Home,1
+436,"Fri, Dec 26, 2014",Houston Rockets,117,Away,1
+436,"Fri, Dec 26, 2014",Memphis Grizzlies,111,Home,0
+437,"Fri, Dec 26, 2014",San Antonio Spurs,90,Away,0
+437,"Fri, Dec 26, 2014",New Orleans Pelicans,97,Home,1
+438,"Fri, Dec 26, 2014",Charlotte Hornets,75,Away,0
+438,"Fri, Dec 26, 2014",Oklahoma City Thunder,98,Home,1
+439,"Fri, Dec 26, 2014",Los Angeles Lakers,98,Away,0
+439,"Fri, Dec 26, 2014",Dallas Mavericks,102,Home,1
+440,"Fri, Dec 26, 2014",Minnesota Timberwolves,102,Away,0
+440,"Fri, Dec 26, 2014",Denver Nuggets,106,Home,1
+441,"Fri, Dec 26, 2014",Philadelphia 76ers,93,Away,0
+441,"Fri, Dec 26, 2014",Portland Trail Blazers,114,Home,1
+442,"Fri, Dec 26, 2014",Phoenix Suns,115,Away,1
+442,"Fri, Dec 26, 2014",Sacramento Kings,106,Home,0
+443,"Sat, Dec 27, 2014",Toronto Raptors,110,Away,1
+443,"Sat, Dec 27, 2014",Los Angeles Clippers,98,Home,0
+444,"Sat, Dec 27, 2014",Orlando Magic,102,Away,1
+444,"Sat, Dec 27, 2014",Charlotte Hornets,94,Home,0
+445,"Sat, Dec 27, 2014",Boston Celtics,88,Away,0
+445,"Sat, Dec 27, 2014",Washington Wizards,101,Home,1
+446,"Sat, Dec 27, 2014",Memphis Grizzlies,103,Away,1
+446,"Sat, Dec 27, 2014",Miami Heat,95,Home,0
+447,"Sat, Dec 27, 2014",Indiana Pacers,110,Away,1
+447,"Sat, Dec 27, 2014",Brooklyn Nets,85,Home,0
+448,"Sat, Dec 27, 2014",New Orleans Pelicans,100,Away,0
+448,"Sat, Dec 27, 2014",Chicago Bulls,107,Home,1
+449,"Sat, Dec 27, 2014",Atlanta Hawks,90,Away,1
+449,"Sat, Dec 27, 2014",Milwaukee Bucks,85,Home,0
+450,"Sat, Dec 27, 2014",Philadelphia 76ers,71,Away,0
+450,"Sat, Dec 27, 2014",Utah Jazz,88,Home,1
+451,"Sat, Dec 27, 2014",New York Knicks,129,Away,0
+451,"Sat, Dec 27, 2014",Sacramento Kings,135,Home,1
+452,"Sat, Dec 27, 2014",Minnesota Timberwolves,97,Away,0
+452,"Sat, Dec 27, 2014",Golden State Warriors,110,Home,1
+453,"Sun, Dec 28, 2014",Detroit Pistons,103,Away,1
+453,"Sun, Dec 28, 2014",Cleveland Cavaliers,80,Home,0
+454,"Sun, Dec 28, 2014",Houston Rockets,106,Away,0
+454,"Sun, Dec 28, 2014",San Antonio Spurs,110,Home,1
+455,"Sun, Dec 28, 2014",Oklahoma City Thunder,107,Away,0
+455,"Sun, Dec 28, 2014",Dallas Mavericks,112,Home,1
+456,"Sun, Dec 28, 2014",Toronto Raptors,116,Away,1
+456,"Sun, Dec 28, 2014",Denver Nuggets,102,Home,0
+457,"Sun, Dec 28, 2014",New York Knicks,79,Away,0
+457,"Sun, Dec 28, 2014",Portland Trail Blazers,101,Home,1
+458,"Sun, Dec 28, 2014",Phoenix Suns,116,Away,1
+458,"Sun, Dec 28, 2014",Los Angeles Lakers,107,Home,0
+459,"Mon, Dec 29, 2014",Milwaukee Bucks,104,Away,1
+459,"Mon, Dec 29, 2014",Charlotte Hornets,94,Home,0
+460,"Mon, Dec 29, 2014",Chicago Bulls,92,Away,1
+460,"Mon, Dec 29, 2014",Indiana Pacers,90,Home,0
+461,"Mon, Dec 29, 2014",Sacramento Kings,99,Away,0
+461,"Mon, Dec 29, 2014",Brooklyn Nets,107,Home,1
+462,"Mon, Dec 29, 2014",Orlando Magic,102,Away,1
+462,"Mon, Dec 29, 2014",Miami Heat,101,Home,0
+463,"Mon, Dec 29, 2014",Washington Wizards,104,Away,1
+463,"Mon, Dec 29, 2014",Houston Rockets,103,Home,0
+464,"Mon, Dec 29, 2014",Utah Jazz,97,Away,0
+464,"Mon, Dec 29, 2014",Los Angeles Clippers,101,Home,1
+465,"Tue, Dec 30, 2014",Detroit Pistons,109,Away,1
+465,"Tue, Dec 30, 2014",Orlando Magic,86,Home,0
+466,"Tue, Dec 30, 2014",Cleveland Cavaliers,101,Away,0
+466,"Tue, Dec 30, 2014",Atlanta Hawks,109,Home,1
+467,"Tue, Dec 30, 2014",Brooklyn Nets,96,Away,1
+467,"Tue, Dec 30, 2014",Chicago Bulls,82,Home,0
+468,"Tue, Dec 30, 2014",San Antonio Spurs,87,Away,0
+468,"Tue, Dec 30, 2014",Memphis Grizzlies,95,Home,1
+469,"Tue, Dec 30, 2014",Phoenix Suns,106,Away,0
+469,"Tue, Dec 30, 2014",New Orleans Pelicans,110,Home,1
+470,"Tue, Dec 30, 2014",Washington Wizards,87,Away,0
+470,"Tue, Dec 30, 2014",Dallas Mavericks,114,Home,1
+471,"Tue, Dec 30, 2014",Los Angeles Lakers,111,Away,1
+471,"Tue, Dec 30, 2014",Denver Nuggets,103,Home,0
+472,"Tue, Dec 30, 2014",Minnesota Timberwolves,94,Away,0
+472,"Tue, Dec 30, 2014",Utah Jazz,100,Home,1
+473,"Tue, Dec 30, 2014",Toronto Raptors,97,Away,0
+473,"Tue, Dec 30, 2014",Portland Trail Blazers,102,Home,1
+474,"Tue, Dec 30, 2014",Philadelphia 76ers,86,Away,0
+474,"Tue, Dec 30, 2014",Golden State Warriors,126,Home,1
+475,"Wed, Dec 31, 2014",Sacramento Kings,84,Away,0
+475,"Wed, Dec 31, 2014",Boston Celtics,106,Home,1
+476,"Wed, Dec 31, 2014",Miami Heat,95,Away,0
+476,"Wed, Dec 31, 2014",Indiana Pacers,106,Home,1
+477,"Wed, Dec 31, 2014",New York Knicks,78,Away,0
+477,"Wed, Dec 31, 2014",Los Angeles Clippers,99,Home,1
+478,"Wed, Dec 31, 2014",Milwaukee Bucks,96,Away,1
+478,"Wed, Dec 31, 2014",Cleveland Cavaliers,80,Home,0
+479,"Wed, Dec 31, 2014",Charlotte Hornets,83,Away,0
+479,"Wed, Dec 31, 2014",Houston Rockets,102,Home,1
+480,"Wed, Dec 31, 2014",New Orleans Pelicans,93,Away,0
+480,"Wed, Dec 31, 2014",San Antonio Spurs,95,Home,1
+481,"Wed, Dec 31, 2014",Phoenix Suns,134,Away,0
+481,"Wed, Dec 31, 2014",Oklahoma City Thunder,137,Home,1
+482,"Thu, Jan 1, 2015",Denver Nuggets,101,Away,0
+482,"Thu, Jan 1, 2015",Chicago Bulls,106,Home,1
+483,"Thu, Jan 1, 2015",Sacramento Kings,110,Away,1
+483,"Thu, Jan 1, 2015",Minnesota Timberwolves,107,Home,0
+484,"Fri, Jan 2, 2015",Cleveland Cavaliers,91,Away,1
+484,"Fri, Jan 2, 2015",Charlotte Hornets,87,Home,0
+485,"Fri, Jan 2, 2015",Brooklyn Nets,100,Away,1
+485,"Fri, Jan 2, 2015",Orlando Magic,98,Home,0
+486,"Fri, Jan 2, 2015",Dallas Mavericks,119,Away,1
+486,"Fri, Jan 2, 2015",Boston Celtics,101,Home,0
+487,"Fri, Jan 2, 2015",Detroit Pistons,97,Away,1
+487,"Fri, Jan 2, 2015",New York Knicks,81,Home,0
+488,"Fri, Jan 2, 2015",Houston Rockets,83,Away,0
+488,"Fri, Jan 2, 2015",New Orleans Pelicans,111,Home,1
+489,"Fri, Jan 2, 2015",Washington Wizards,102,Away,0
+489,"Fri, Jan 2, 2015",Oklahoma City Thunder,109,Home,1
+490,"Fri, Jan 2, 2015",Indiana Pacers,94,Away,1
+490,"Fri, Jan 2, 2015",Milwaukee Bucks,91,Home,0
+491,"Fri, Jan 2, 2015",Philadelphia 76ers,96,Away,0
+491,"Fri, Jan 2, 2015",Phoenix Suns,112,Home,1
+492,"Fri, Jan 2, 2015",Atlanta Hawks,98,Away,1
+492,"Fri, Jan 2, 2015",Utah Jazz,92,Home,0
+493,"Fri, Jan 2, 2015",Toronto Raptors,105,Away,0
+493,"Fri, Jan 2, 2015",Golden State Warriors,126,Home,1
+494,"Fri, Jan 2, 2015",Memphis Grizzlies,109,Away,1
+494,"Fri, Jan 2, 2015",Los Angeles Lakers,106,Home,0
+495,"Sat, Jan 3, 2015",Charlotte Hornets,98,Away,1
+495,"Sat, Jan 3, 2015",Orlando Magic,90,Home,0
+496,"Sat, Jan 3, 2015",Boston Celtics,104,Away,0
+496,"Sat, Jan 3, 2015",Chicago Bulls,109,Home,1
+497,"Sat, Jan 3, 2015",Miami Heat,79,Away,0
+497,"Sat, Jan 3, 2015",Houston Rockets,115,Home,1
+498,"Sat, Jan 3, 2015",Utah Jazz,101,Away,1
+498,"Sat, Jan 3, 2015",Minnesota Timberwolves,89,Home,0
+499,"Sat, Jan 3, 2015",Washington Wizards,92,Away,0
+499,"Sat, Jan 3, 2015",San Antonio Spurs,101,Home,1
+500,"Sat, Jan 3, 2015",Memphis Grizzlies,85,Away,0
+500,"Sat, Jan 3, 2015",Denver Nuggets,114,Home,1
+501,"Sat, Jan 3, 2015",Atlanta Hawks,115,Away,1
+501,"Sat, Jan 3, 2015",Portland Trail Blazers,107,Home,0
+502,"Sat, Jan 3, 2015",Philadelphia 76ers,91,Away,0
+502,"Sat, Jan 3, 2015",Los Angeles Clippers,127,Home,1
+503,"Sun, Jan 4, 2015",Dallas Mavericks,109,Away,1
+503,"Sun, Jan 4, 2015",Cleveland Cavaliers,90,Home,0
+504,"Sun, Jan 4, 2015",Sacramento Kings,95,Away,0
+504,"Sun, Jan 4, 2015",Detroit Pistons,114,Home,1
+505,"Sun, Jan 4, 2015",Brooklyn Nets,84,Away,0
+505,"Sun, Jan 4, 2015",Miami Heat,88,Home,1
+506,"Sun, Jan 4, 2015",Milwaukee Bucks,95,Away,1
+506,"Sun, Jan 4, 2015",New York Knicks,82,Home,0
+507,"Sun, Jan 4, 2015",Toronto Raptors,109,Away,0
+507,"Sun, Jan 4, 2015",Phoenix Suns,125,Home,1
+508,"Sun, Jan 4, 2015",Indiana Pacers,87,Away,0
+508,"Sun, Jan 4, 2015",Los Angeles Lakers,88,Home,1
+509,"Mon, Jan 5, 2015",Cleveland Cavaliers,92,Away,0
+509,"Mon, Jan 5, 2015",Philadelphia 76ers,95,Home,1
+510,"Mon, Jan 5, 2015",Charlotte Hornets,104,Away,1
+510,"Mon, Jan 5, 2015",Boston Celtics,95,Home,0
+511,"Mon, Jan 5, 2015",Dallas Mavericks,96,Away,1
+511,"Mon, Jan 5, 2015",Brooklyn Nets,88,Home,0
+512,"Mon, Jan 5, 2015",Houston Rockets,105,Away,0
+512,"Mon, Jan 5, 2015",Chicago Bulls,114,Home,1
+513,"Mon, Jan 5, 2015",New York Knicks,83,Away,0
+513,"Mon, Jan 5, 2015",Memphis Grizzlies,105,Home,1
+514,"Mon, Jan 5, 2015",Denver Nuggets,110,Away,1
+514,"Mon, Jan 5, 2015",Minnesota Timberwolves,101,Home,0
+515,"Mon, Jan 5, 2015",Washington Wizards,92,Away,1
+515,"Mon, Jan 5, 2015",New Orleans Pelicans,85,Home,0
+516,"Mon, Jan 5, 2015",Indiana Pacers,105,Away,1
+516,"Mon, Jan 5, 2015",Utah Jazz,101,Home,0
+517,"Mon, Jan 5, 2015",Los Angeles Lakers,94,Away,0
+517,"Mon, Jan 5, 2015",Portland Trail Blazers,98,Home,1
+518,"Mon, Jan 5, 2015",Oklahoma City Thunder,91,Away,0
+518,"Mon, Jan 5, 2015",Golden State Warriors,117,Home,1
+519,"Mon, Jan 5, 2015",Atlanta Hawks,107,Away,1
+519,"Mon, Jan 5, 2015",Los Angeles Clippers,98,Home,0
+520,"Tue, Jan 6, 2015",Phoenix Suns,102,Away,1
+520,"Tue, Jan 6, 2015",Milwaukee Bucks,96,Home,0
+521,"Tue, Jan 6, 2015",Detroit Pistons,105,Away,1
+521,"Tue, Jan 6, 2015",San Antonio Spurs,104,Home,0
+522,"Wed, Jan 7, 2015",New Orleans Pelicans,94,Away,0
+522,"Wed, Jan 7, 2015",Charlotte Hornets,98,Home,1
+523,"Wed, Jan 7, 2015",Houston Rockets,105,Away,1
+523,"Wed, Jan 7, 2015",Cleveland Cavaliers,93,Home,0
+524,"Wed, Jan 7, 2015",Milwaukee Bucks,97,Away,1
+524,"Wed, Jan 7, 2015",Philadelphia 76ers,77,Home,0
+525,"Wed, Jan 7, 2015",New York Knicks,91,Away,0
+525,"Wed, Jan 7, 2015",Washington Wizards,101,Home,1
+526,"Wed, Jan 7, 2015",Memphis Grizzlies,86,Away,0
+526,"Wed, Jan 7, 2015",Atlanta Hawks,96,Home,1
+527,"Wed, Jan 7, 2015",Boston Celtics,89,Away,1
+527,"Wed, Jan 7, 2015",Brooklyn Nets,81,Home,0
+528,"Wed, Jan 7, 2015",Utah Jazz,97,Away,1
+528,"Wed, Jan 7, 2015",Chicago Bulls,77,Home,0
+529,"Wed, Jan 7, 2015",Detroit Pistons,108,Away,1
+529,"Wed, Jan 7, 2015",Dallas Mavericks,95,Home,0
+530,"Wed, Jan 7, 2015",Orlando Magic,90,Away,0
+530,"Wed, Jan 7, 2015",Denver Nuggets,93,Home,1
+531,"Wed, Jan 7, 2015",Phoenix Suns,113,Away,1
+531,"Wed, Jan 7, 2015",Minnesota Timberwolves,111,Home,0
+532,"Wed, Jan 7, 2015",Oklahoma City Thunder,83,Away,0
+532,"Wed, Jan 7, 2015",Sacramento Kings,104,Home,1
+533,"Wed, Jan 7, 2015",Indiana Pacers,102,Away,0
+533,"Wed, Jan 7, 2015",Golden State Warriors,117,Home,1
+534,"Wed, Jan 7, 2015",Los Angeles Lakers,89,Away,0
+534,"Wed, Jan 7, 2015",Los Angeles Clippers,114,Home,1
+535,"Thu, Jan 8, 2015",Charlotte Hornets,103,Away,1
+535,"Thu, Jan 8, 2015",Toronto Raptors,95,Home,0
+536,"Thu, Jan 8, 2015",Houston Rockets,120,Away,1
+536,"Thu, Jan 8, 2015",New York Knicks,96,Home,0
+537,"Thu, Jan 8, 2015",Miami Heat,83,Away,0
+537,"Thu, Jan 8, 2015",Portland Trail Blazers,99,Home,1
+538,"Fri, Jan 9, 2015",Boston Celtics,103,Away,0
+538,"Fri, Jan 9, 2015",Indiana Pacers,107,Home,1
+539,"Fri, Jan 9, 2015",Philadelphia 76ers,90,Away,1
+539,"Fri, Jan 9, 2015",Brooklyn Nets,88,Home,0
+540,"Fri, Jan 9, 2015",Atlanta Hawks,106,Away,1
+540,"Fri, Jan 9, 2015",Detroit Pistons,103,Home,0
+541,"Fri, Jan 9, 2015",Memphis Grizzlies,95,Away,0
+541,"Fri, Jan 9, 2015",New Orleans Pelicans,106,Home,1
+542,"Fri, Jan 9, 2015",Utah Jazz,94,Away,0
+542,"Fri, Jan 9, 2015",Oklahoma City Thunder,99,Home,1
+543,"Fri, Jan 9, 2015",Chicago Bulls,86,Away,0
+543,"Fri, Jan 9, 2015",Washington Wizards,102,Home,1
+544,"Fri, Jan 9, 2015",Minnesota Timberwolves,84,Away,0
+544,"Fri, Jan 9, 2015",Milwaukee Bucks,98,Home,1
+545,"Fri, Jan 9, 2015",Phoenix Suns,95,Away,0
+545,"Fri, Jan 9, 2015",San Antonio Spurs,100,Home,1
+546,"Fri, Jan 9, 2015",Denver Nuggets,118,Away,1
+546,"Fri, Jan 9, 2015",Sacramento Kings,108,Home,0
+547,"Fri, Jan 9, 2015",Cleveland Cavaliers,94,Away,0
+547,"Fri, Jan 9, 2015",Golden State Warriors,112,Home,1
+548,"Fri, Jan 9, 2015",Orlando Magic,84,Away,0
+548,"Fri, Jan 9, 2015",Los Angeles Lakers,101,Home,1
+549,"Sat, Jan 10, 2015",Charlotte Hornets,110,Away,1
+549,"Sat, Jan 10, 2015",New York Knicks,82,Home,0
+550,"Sat, Jan 10, 2015",Dallas Mavericks,100,Away,0
+550,"Sat, Jan 10, 2015",Los Angeles Clippers,120,Home,1
+551,"Sat, Jan 10, 2015",Brooklyn Nets,93,Away,0
+551,"Sat, Jan 10, 2015",Detroit Pistons,98,Home,1
+552,"Sat, Jan 10, 2015",Indiana Pacers,92,Away,0
+552,"Sat, Jan 10, 2015",Philadelphia 76ers,93,Home,1
+553,"Sat, Jan 10, 2015",Boston Celtics,96,Away,0
+553,"Sat, Jan 10, 2015",Toronto Raptors,109,Home,1
+554,"Sat, Jan 10, 2015",Milwaukee Bucks,87,Away,0
+554,"Sat, Jan 10, 2015",Chicago Bulls,95,Home,1
+555,"Sat, Jan 10, 2015",Utah Jazz,82,Away,0
+555,"Sat, Jan 10, 2015",Houston Rockets,97,Home,1
+556,"Sat, Jan 10, 2015",San Antonio Spurs,108,Away,1
+556,"Sat, Jan 10, 2015",Minnesota Timberwolves,93,Home,0
+557,"Sat, Jan 10, 2015",Orlando Magic,92,Away,0
+557,"Sat, Jan 10, 2015",Portland Trail Blazers,103,Home,1
+558,"Sun, Jan 11, 2015",Washington Wizards,89,Away,0
+558,"Sun, Jan 11, 2015",Atlanta Hawks,120,Home,1
+559,"Sun, Jan 11, 2015",Miami Heat,104,Away,1
+559,"Sun, Jan 11, 2015",Los Angeles Clippers,90,Home,0
+560,"Sun, Jan 11, 2015",Phoenix Suns,110,Away,0
+560,"Sun, Jan 11, 2015",Memphis Grizzlies,122,Home,1
+561,"Sun, Jan 11, 2015",Cleveland Cavaliers,84,Away,0
+561,"Sun, Jan 11, 2015",Sacramento Kings,103,Home,1
+562,"Sun, Jan 11, 2015",Portland Trail Blazers,106,Away,1
+562,"Sun, Jan 11, 2015",Los Angeles Lakers,94,Home,0
+563,"Mon, Jan 12, 2015",New Orleans Pelicans,100,Away,0
+563,"Mon, Jan 12, 2015",Boston Celtics,108,Home,1
+564,"Mon, Jan 12, 2015",Houston Rockets,113,Away,1
+564,"Mon, Jan 12, 2015",Brooklyn Nets,99,Home,0
+565,"Mon, Jan 12, 2015",Detroit Pistons,114,Away,1
+565,"Mon, Jan 12, 2015",Toronto Raptors,111,Home,0
+566,"Mon, Jan 12, 2015",Orlando Magic,121,Away,1
+566,"Mon, Jan 12, 2015",Chicago Bulls,114,Home,0
+567,"Tue, Jan 13, 2015",Minnesota Timberwolves,110,Away,1
+567,"Tue, Jan 13, 2015",Indiana Pacers,101,Home,0
+568,"Tue, Jan 13, 2015",Atlanta Hawks,105,Away,1
+568,"Tue, Jan 13, 2015",Philadelphia 76ers,87,Home,0
+569,"Tue, Jan 13, 2015",San Antonio Spurs,93,Away,0
+569,"Tue, Jan 13, 2015",Washington Wizards,101,Home,1
+570,"Tue, Jan 13, 2015",Cleveland Cavaliers,100,Away,0
+570,"Tue, Jan 13, 2015",Phoenix Suns,107,Home,1
+571,"Tue, Jan 13, 2015",Golden State Warriors,116,Away,1
+571,"Tue, Jan 13, 2015",Utah Jazz,105,Home,0
+572,"Tue, Jan 13, 2015",Dallas Mavericks,108,Away,1
+572,"Tue, Jan 13, 2015",Sacramento Kings,104,Home,0
+573,"Tue, Jan 13, 2015",Miami Heat,78,Away,1
+573,"Tue, Jan 13, 2015",Los Angeles Lakers,75,Home,0
+574,"Wed, Jan 14, 2015",San Antonio Spurs,98,Away,1
+574,"Wed, Jan 14, 2015",Charlotte Hornets,93,Home,0
+575,"Wed, Jan 14, 2015",Houston Rockets,113,Away,0
+575,"Wed, Jan 14, 2015",Orlando Magic,120,Home,1
+576,"Wed, Jan 14, 2015",Memphis Grizzlies,103,Away,1
+576,"Wed, Jan 14, 2015",Brooklyn Nets,92,Home,0
+577,"Wed, Jan 14, 2015",New Orleans Pelicans,105,Away,1
+577,"Wed, Jan 14, 2015",Detroit Pistons,94,Home,0
+578,"Wed, Jan 14, 2015",Philadelphia 76ers,84,Away,0
+578,"Wed, Jan 14, 2015",Toronto Raptors,100,Home,1
+579,"Wed, Jan 14, 2015",Atlanta Hawks,105,Away,1
+579,"Wed, Jan 14, 2015",Boston Celtics,91,Home,0
+580,"Wed, Jan 14, 2015",Washington Wizards,105,Away,1
+580,"Wed, Jan 14, 2015",Chicago Bulls,99,Home,0
+581,"Wed, Jan 14, 2015",Dallas Mavericks,107,Away,0
+581,"Wed, Jan 14, 2015",Denver Nuggets,114,Home,1
+582,"Wed, Jan 14, 2015",Miami Heat,89,Away,0
+582,"Wed, Jan 14, 2015",Golden State Warriors,104,Home,1
+583,"Wed, Jan 14, 2015",Los Angeles Clippers,100,Away,1
+583,"Wed, Jan 14, 2015",Portland Trail Blazers,94,Home,0
+584,"Thu, Jan 15, 2015",New York Knicks,79,Away,0
+584,"Thu, Jan 15, 2015",Milwaukee Bucks,95,Home,1
+585,"Thu, Jan 15, 2015",Oklahoma City Thunder,101,Away,0
+585,"Thu, Jan 15, 2015",Houston Rockets,112,Home,1
+586,"Thu, Jan 15, 2015",Cleveland Cavaliers,109,Away,1
+586,"Thu, Jan 15, 2015",Los Angeles Lakers,102,Home,0
+587,"Fri, Jan 16, 2015",Detroit Pistons,98,Away,1
+587,"Fri, Jan 16, 2015",Indiana Pacers,96,Home,0
+588,"Fri, Jan 16, 2015",Memphis Grizzlies,106,Away,1
+588,"Fri, Jan 16, 2015",Orlando Magic,96,Home,0
+589,"Fri, Jan 16, 2015",New Orleans Pelicans,81,Away,0
+589,"Fri, Jan 16, 2015",Philadelphia 76ers,96,Home,1
+590,"Fri, Jan 16, 2015",Brooklyn Nets,102,Away,1
+590,"Fri, Jan 16, 2015",Washington Wizards,80,Home,0
+591,"Fri, Jan 16, 2015",Chicago Bulls,119,Away,1
+591,"Fri, Jan 16, 2015",Boston Celtics,103,Home,0
+592,"Fri, Jan 16, 2015",Atlanta Hawks,110,Away,1
+592,"Fri, Jan 16, 2015",Toronto Raptors,89,Home,0
+593,"Fri, Jan 16, 2015",Golden State Warriors,115,Away,0
+593,"Fri, Jan 16, 2015",Oklahoma City Thunder,127,Home,1
+594,"Fri, Jan 16, 2015",Denver Nuggets,89,Away,0
+594,"Fri, Jan 16, 2015",Dallas Mavericks,97,Home,1
+595,"Fri, Jan 16, 2015",Portland Trail Blazers,96,Away,0
+595,"Fri, Jan 16, 2015",San Antonio Spurs,110,Home,1
+596,"Fri, Jan 16, 2015",Minnesota Timberwolves,99,Away,0
+596,"Fri, Jan 16, 2015",Phoenix Suns,110,Home,1
+597,"Fri, Jan 16, 2015",Los Angeles Lakers,85,Away,0
+597,"Fri, Jan 16, 2015",Utah Jazz,94,Home,1
+598,"Fri, Jan 16, 2015",Miami Heat,95,Away,1
+598,"Fri, Jan 16, 2015",Sacramento Kings,83,Home,0
+599,"Fri, Jan 16, 2015",Cleveland Cavaliers,126,Away,1
+599,"Fri, Jan 16, 2015",Los Angeles Clippers,121,Home,0
+600,"Sat, Jan 17, 2015",Indiana Pacers,71,Away,0
+600,"Sat, Jan 17, 2015",Charlotte Hornets,80,Home,1
+601,"Sat, Jan 17, 2015",Philadelphia 76ers,89,Away,0
+601,"Sat, Jan 17, 2015",Detroit Pistons,107,Home,1
+602,"Sat, Jan 17, 2015",Washington Wizards,99,Away,1
+602,"Sat, Jan 17, 2015",Brooklyn Nets,90,Home,0
+603,"Sat, Jan 17, 2015",Atlanta Hawks,107,Away,1
+603,"Sat, Jan 17, 2015",Chicago Bulls,99,Home,0
+604,"Sat, Jan 17, 2015",Golden State Warriors,131,Away,1
+604,"Sat, Jan 17, 2015",Houston Rockets,106,Home,0
+605,"Sat, Jan 17, 2015",Minnesota Timberwolves,113,Away,1
+605,"Sat, Jan 17, 2015",Denver Nuggets,105,Home,0
+606,"Sat, Jan 17, 2015",Portland Trail Blazers,98,Away,0
+606,"Sat, Jan 17, 2015",Memphis Grizzlies,102,Home,1
+607,"Sat, Jan 17, 2015",Los Angeles Clippers,117,Away,1
+607,"Sat, Jan 17, 2015",Sacramento Kings,108,Home,0
+608,"Sun, Jan 18, 2015",New Orleans Pelicans,95,Away,1
+608,"Sun, Jan 18, 2015",Toronto Raptors,93,Home,0
+609,"Sun, Jan 18, 2015",Oklahoma City Thunder,127,Away,1
+609,"Sun, Jan 18, 2015",Orlando Magic,99,Home,0
+610,"Sun, Jan 18, 2015",Utah Jazz,69,Away,0
+610,"Sun, Jan 18, 2015",San Antonio Spurs,89,Home,1
+611,"Mon, Jan 19, 2015",Minnesota Timberwolves,80,Away,0
+611,"Mon, Jan 19, 2015",Charlotte Hornets,105,Home,1
+612,"Mon, Jan 19, 2015",Philadelphia 76ers,76,Away,0
+612,"Mon, Jan 19, 2015",Washington Wizards,111,Home,1
+613,"Mon, Jan 19, 2015",Detroit Pistons,82,Away,0
+613,"Mon, Jan 19, 2015",Atlanta Hawks,93,Home,1
+614,"Mon, Jan 19, 2015",Boston Celtics,93,Away,0
+614,"Mon, Jan 19, 2015",Los Angeles Clippers,102,Home,1
+615,"Mon, Jan 19, 2015",Denver Nuggets,79,Away,0
+615,"Mon, Jan 19, 2015",Golden State Warriors,122,Home,1
+616,"Mon, Jan 19, 2015",Dallas Mavericks,103,Away,1
+616,"Mon, Jan 19, 2015",Memphis Grizzlies,95,Home,0
+617,"Mon, Jan 19, 2015",Indiana Pacers,98,Away,0
+617,"Mon, Jan 19, 2015",Houston Rockets,110,Home,1
+618,"Mon, Jan 19, 2015",New Orleans Pelicans,92,Away,0
+618,"Mon, Jan 19, 2015",New York Knicks,99,Home,1
+619,"Mon, Jan 19, 2015",Chicago Bulls,94,Away,0
+619,"Mon, Jan 19, 2015",Cleveland Cavaliers,108,Home,1
+620,"Mon, Jan 19, 2015",Toronto Raptors,92,Away,1
+620,"Mon, Jan 19, 2015",Milwaukee Bucks,89,Home,0
+621,"Mon, Jan 19, 2015",Los Angeles Lakers,100,Away,0
+621,"Mon, Jan 19, 2015",Phoenix Suns,115,Home,1
+622,"Mon, Jan 19, 2015",Sacramento Kings,94,Away,0
+622,"Mon, Jan 19, 2015",Portland Trail Blazers,98,Home,1
+623,"Tue, Jan 20, 2015",Oklahoma City Thunder,94,Away,1
+623,"Tue, Jan 20, 2015",Miami Heat,86,Home,0
+624,"Tue, Jan 20, 2015",San Antonio Spurs,109,Away,1
+624,"Tue, Jan 20, 2015",Denver Nuggets,99,Home,0
+625,"Wed, Jan 21, 2015",Miami Heat,76,Away,0
+625,"Wed, Jan 21, 2015",Charlotte Hornets,78,Home,1
+626,"Wed, Jan 21, 2015",Utah Jazz,92,Away,0
+626,"Wed, Jan 21, 2015",Cleveland Cavaliers,106,Home,1
+627,"Wed, Jan 21, 2015",New York Knicks,98,Away,1
+627,"Wed, Jan 21, 2015",Philadelphia 76ers,91,Home,0
+628,"Wed, Jan 21, 2015",Indiana Pacers,91,Away,0
+628,"Wed, Jan 21, 2015",Atlanta Hawks,110,Home,1
+629,"Wed, Jan 21, 2015",Orlando Magic,118,Away,0
+629,"Wed, Jan 21, 2015",Detroit Pistons,128,Home,1
+630,"Wed, Jan 21, 2015",Toronto Raptors,86,Away,0
+630,"Wed, Jan 21, 2015",Memphis Grizzlies,92,Home,1
+631,"Wed, Jan 21, 2015",Dallas Mavericks,98,Away,1
+631,"Wed, Jan 21, 2015",Minnesota Timberwolves,75,Home,0
+632,"Wed, Jan 21, 2015",Los Angeles Lakers,80,Away,0
+632,"Wed, Jan 21, 2015",New Orleans Pelicans,96,Home,1
+633,"Wed, Jan 21, 2015",Oklahoma City Thunder,105,Away,1
+633,"Wed, Jan 21, 2015",Washington Wizards,103,Home,0
+634,"Wed, Jan 21, 2015",Portland Trail Blazers,113,Away,0
+634,"Wed, Jan 21, 2015",Phoenix Suns,118,Home,1
+635,"Wed, Jan 21, 2015",Brooklyn Nets,103,Away,1
+635,"Wed, Jan 21, 2015",Sacramento Kings,100,Home,0
+636,"Wed, Jan 21, 2015",Houston Rockets,113,Away,0
+636,"Wed, Jan 21, 2015",Golden State Warriors,126,Home,1
+637,"Thu, Jan 22, 2015",San Antonio Spurs,81,Away,0
+637,"Thu, Jan 22, 2015",Chicago Bulls,104,Home,1
+638,"Thu, Jan 22, 2015",Utah Jazz,101,Away,1
+638,"Thu, Jan 22, 2015",Milwaukee Bucks,99,Home,0
+639,"Thu, Jan 22, 2015",Boston Celtics,90,Away,1
+639,"Thu, Jan 22, 2015",Portland Trail Blazers,89,Home,0
+640,"Thu, Jan 22, 2015",Brooklyn Nets,84,Away,0
+640,"Thu, Jan 22, 2015",Los Angeles Clippers,123,Home,1
+641,"Fri, Jan 23, 2015",Toronto Raptors,91,Away,1
+641,"Fri, Jan 23, 2015",Philadelphia 76ers,86,Home,0
+642,"Fri, Jan 23, 2015",Oklahoma City Thunder,93,Away,0
+642,"Fri, Jan 23, 2015",Atlanta Hawks,103,Home,1
+643,"Fri, Jan 23, 2015",Charlotte Hornets,90,Away,0
+643,"Fri, Jan 23, 2015",Cleveland Cavaliers,129,Home,1
+644,"Fri, Jan 23, 2015",Indiana Pacers,87,Away,0
+644,"Fri, Jan 23, 2015",Miami Heat,89,Home,1
+645,"Fri, Jan 23, 2015",Orlando Magic,106,Away,0
+645,"Fri, Jan 23, 2015",New York Knicks,113,Home,1
+646,"Fri, Jan 23, 2015",Chicago Bulls,102,Away,1
+646,"Fri, Jan 23, 2015",Dallas Mavericks,98,Home,0
+647,"Fri, Jan 23, 2015",New Orleans Pelicans,92,Away,1
+647,"Fri, Jan 23, 2015",Minnesota Timberwolves,84,Home,0
+648,"Fri, Jan 23, 2015",Los Angeles Lakers,85,Away,0
+648,"Fri, Jan 23, 2015",San Antonio Spurs,99,Home,1
+649,"Fri, Jan 23, 2015",Boston Celtics,100,Away,1
+649,"Fri, Jan 23, 2015",Denver Nuggets,99,Home,0
+650,"Fri, Jan 23, 2015",Houston Rockets,113,Away,1
+650,"Fri, Jan 23, 2015",Phoenix Suns,111,Home,0
+651,"Fri, Jan 23, 2015",Sacramento Kings,101,Away,0
+651,"Fri, Jan 23, 2015",Golden State Warriors,126,Home,1
+652,"Sat, Jan 24, 2015",New York Knicks,71,Away,0
+652,"Sat, Jan 24, 2015",Charlotte Hornets,76,Home,1
+653,"Sat, Jan 24, 2015",Detroit Pistons,86,Away,0
+653,"Sat, Jan 24, 2015",Milwaukee Bucks,101,Home,1
+654,"Sat, Jan 24, 2015",Philadelphia 76ers,83,Away,0
+654,"Sat, Jan 24, 2015",Memphis Grizzlies,101,Home,1
+655,"Sat, Jan 24, 2015",Brooklyn Nets,73,Away,0
+655,"Sat, Jan 24, 2015",Utah Jazz,108,Home,1
+656,"Sat, Jan 24, 2015",Washington Wizards,96,Away,0
+656,"Sat, Jan 24, 2015",Portland Trail Blazers,103,Home,1
+657,"Sun, Jan 25, 2015",Miami Heat,96,Away,1
+657,"Sun, Jan 25, 2015",Chicago Bulls,84,Home,0
+658,"Sun, Jan 25, 2015",Oklahoma City Thunder,98,Away,0
+658,"Sun, Jan 25, 2015",Cleveland Cavaliers,108,Home,1
+659,"Sun, Jan 25, 2015",Minnesota Timberwolves,100,Away,0
+659,"Sun, Jan 25, 2015",Atlanta Hawks,112,Home,1
+660,"Sun, Jan 25, 2015",Dallas Mavericks,106,Away,0
+660,"Sun, Jan 25, 2015",New Orleans Pelicans,109,Home,1
+661,"Sun, Jan 25, 2015",Indiana Pacers,106,Away,1
+661,"Sun, Jan 25, 2015",Orlando Magic,99,Home,0
+662,"Sun, Jan 25, 2015",Los Angeles Clippers,120,Away,1
+662,"Sun, Jan 25, 2015",Phoenix Suns,100,Home,0
+663,"Sun, Jan 25, 2015",Milwaukee Bucks,95,Away,0
+663,"Sun, Jan 25, 2015",San Antonio Spurs,101,Home,1
+664,"Sun, Jan 25, 2015",Detroit Pistons,110,Away,0
+664,"Sun, Jan 25, 2015",Toronto Raptors,114,Home,1
+665,"Sun, Jan 25, 2015",Washington Wizards,117,Away,1
+665,"Sun, Jan 25, 2015",Denver Nuggets,115,Home,0
+666,"Sun, Jan 25, 2015",Boston Celtics,111,Away,0
+666,"Sun, Jan 25, 2015",Golden State Warriors,114,Home,1
+667,"Sun, Jan 25, 2015",Houston Rockets,99,Away,1
+667,"Sun, Jan 25, 2015",Los Angeles Lakers,87,Home,0
+668,"Mon, Jan 26, 2015",Orlando Magic,94,Away,0
+668,"Mon, Jan 26, 2015",Memphis Grizzlies,103,Home,1
+669,"Mon, Jan 26, 2015",Philadelphia 76ers,74,Away,0
+669,"Mon, Jan 26, 2015",New Orleans Pelicans,99,Home,1
+670,"Mon, Jan 26, 2015",Minnesota Timberwolves,84,Away,0
+670,"Mon, Jan 26, 2015",Oklahoma City Thunder,92,Home,1
+671,"Mon, Jan 26, 2015",Boston Celtics,99,Away,1
+671,"Mon, Jan 26, 2015",Utah Jazz,90,Home,0
+672,"Mon, Jan 26, 2015",Denver Nuggets,98,Away,0
+672,"Mon, Jan 26, 2015",Los Angeles Clippers,102,Home,1
+673,"Tue, Jan 27, 2015",Toronto Raptors,104,Away,1
+673,"Tue, Jan 27, 2015",Indiana Pacers,91,Home,0
+674,"Tue, Jan 27, 2015",Cleveland Cavaliers,103,Away,1
+674,"Tue, Jan 27, 2015",Detroit Pistons,95,Home,0
+675,"Tue, Jan 27, 2015",Milwaukee Bucks,109,Away,1
+675,"Tue, Jan 27, 2015",Miami Heat,102,Home,0
+676,"Tue, Jan 27, 2015",Memphis Grizzlies,109,Away,1
+676,"Tue, Jan 27, 2015",Dallas Mavericks,90,Home,0
+677,"Tue, Jan 27, 2015",Chicago Bulls,113,Away,1
+677,"Tue, Jan 27, 2015",Golden State Warriors,111,Home,0
+678,"Tue, Jan 27, 2015",Washington Wizards,98,Away,1
+678,"Tue, Jan 27, 2015",Los Angeles Lakers,92,Home,0
+679,"Wed, Jan 28, 2015",Portland Trail Blazers,94,Away,0
+679,"Wed, Jan 28, 2015",Cleveland Cavaliers,99,Home,1
+680,"Wed, Jan 28, 2015",Detroit Pistons,69,Away,0
+680,"Wed, Jan 28, 2015",Philadelphia 76ers,89,Home,1
+681,"Wed, Jan 28, 2015",Sacramento Kings,102,Away,0
+681,"Wed, Jan 28, 2015",Toronto Raptors,119,Home,1
+682,"Wed, Jan 28, 2015",Brooklyn Nets,102,Away,0
+682,"Wed, Jan 28, 2015",Atlanta Hawks,113,Home,1
+683,"Wed, Jan 28, 2015",Dallas Mavericks,94,Away,0
+683,"Wed, Jan 28, 2015",Houston Rockets,99,Home,1
+684,"Wed, Jan 28, 2015",Boston Celtics,98,Away,0
+684,"Wed, Jan 28, 2015",Minnesota Timberwolves,110,Home,1
+685,"Wed, Jan 28, 2015",Denver Nuggets,93,Away,1
+685,"Wed, Jan 28, 2015",New Orleans Pelicans,85,Home,0
+686,"Wed, Jan 28, 2015",Oklahoma City Thunder,92,Away,0
+686,"Wed, Jan 28, 2015",New York Knicks,100,Home,1
+687,"Wed, Jan 28, 2015",Charlotte Hornets,86,Away,0
+687,"Wed, Jan 28, 2015",San Antonio Spurs,95,Home,1
+688,"Wed, Jan 28, 2015",Los Angeles Clippers,94,Away,1
+688,"Wed, Jan 28, 2015",Utah Jazz,89,Home,0
+689,"Wed, Jan 28, 2015",Washington Wizards,98,Away,0
+689,"Wed, Jan 28, 2015",Phoenix Suns,106,Home,1
+690,"Thu, Jan 29, 2015",New York Knicks,82,Away,0
+690,"Thu, Jan 29, 2015",Indiana Pacers,103,Home,1
+691,"Thu, Jan 29, 2015",Milwaukee Bucks,115,Away,1
+691,"Thu, Jan 29, 2015",Orlando Magic,100,Home,0
+692,"Thu, Jan 29, 2015",Denver Nuggets,69,Away,0
+692,"Thu, Jan 29, 2015",Memphis Grizzlies,99,Home,1
+693,"Thu, Jan 29, 2015",Chicago Bulls,118,Away,0
+693,"Thu, Jan 29, 2015",Los Angeles Lakers,123,Home,1
+694,"Fri, Jan 30, 2015",Minnesota Timberwolves,94,Away,0
+694,"Fri, Jan 30, 2015",Philadelphia 76ers,103,Home,1
+695,"Fri, Jan 30, 2015",Portland Trail Blazers,99,Away,0
+695,"Fri, Jan 30, 2015",Atlanta Hawks,105,Home,1
+696,"Fri, Jan 30, 2015",Houston Rockets,93,Away,1
+696,"Fri, Jan 30, 2015",Boston Celtics,87,Home,0
+697,"Fri, Jan 30, 2015",Toronto Raptors,127,Away,1
+697,"Fri, Jan 30, 2015",Brooklyn Nets,122,Home,0
+698,"Fri, Jan 30, 2015",Sacramento Kings,90,Away,0
+698,"Fri, Jan 30, 2015",Cleveland Cavaliers,101,Home,1
+699,"Fri, Jan 30, 2015",Dallas Mavericks,93,Away,1
+699,"Fri, Jan 30, 2015",Miami Heat,72,Home,0
+700,"Fri, Jan 30, 2015",Los Angeles Clippers,103,Away,0
+700,"Fri, Jan 30, 2015",New Orleans Pelicans,108,Home,1
+701,"Fri, Jan 30, 2015",Golden State Warriors,100,Away,0
+701,"Fri, Jan 30, 2015",Utah Jazz,110,Home,1
+702,"Fri, Jan 30, 2015",Chicago Bulls,93,Away,0
+702,"Fri, Jan 30, 2015",Phoenix Suns,99,Home,1
+703,"Sat, Jan 31, 2015",Sacramento Kings,99,Away,1
+703,"Sat, Jan 31, 2015",Indiana Pacers,94,Home,0
+704,"Sat, Jan 31, 2015",Dallas Mavericks,108,Away,1
+704,"Sat, Jan 31, 2015",Orlando Magic,93,Home,0
+705,"Sat, Jan 31, 2015",Toronto Raptors,120,Away,1
+705,"Sat, Jan 31, 2015",Washington Wizards,116,Home,0
+706,"Sat, Jan 31, 2015",Philadelphia 76ers,85,Away,0
+706,"Sat, Jan 31, 2015",Atlanta Hawks,91,Home,1
+707,"Sat, Jan 31, 2015",Houston Rockets,101,Away,0
+707,"Sat, Jan 31, 2015",Detroit Pistons,114,Home,1
+708,"Sat, Jan 31, 2015",Oklahoma City Thunder,74,Away,0
+708,"Sat, Jan 31, 2015",Memphis Grizzlies,85,Home,1
+709,"Sat, Jan 31, 2015",Cleveland Cavaliers,106,Away,1
+709,"Sat, Jan 31, 2015",Minnesota Timberwolves,90,Home,0
+710,"Sat, Jan 31, 2015",Portland Trail Blazers,88,Away,0
+710,"Sat, Jan 31, 2015",Milwaukee Bucks,95,Home,1
+711,"Sat, Jan 31, 2015",Charlotte Hornets,104,Away,1
+711,"Sat, Jan 31, 2015",Denver Nuggets,86,Home,0
+712,"Sat, Jan 31, 2015",Los Angeles Clippers,105,Away,1
+712,"Sat, Jan 31, 2015",San Antonio Spurs,85,Home,0
+713,"Sat, Jan 31, 2015",Phoenix Suns,87,Away,0
+713,"Sat, Jan 31, 2015",Golden State Warriors,106,Home,1
+714,"Sun, Feb 1, 2015",Miami Heat,83,Away,1
+714,"Sun, Feb 1, 2015",Boston Celtics,75,Home,0
+715,"Sun, Feb 1, 2015",Los Angeles Lakers,80,Away,0
+715,"Sun, Feb 1, 2015",New York Knicks,92,Home,1
+716,"Mon, Feb 2, 2015",Philadelphia 76ers,84,Away,0
+716,"Mon, Feb 2, 2015",Cleveland Cavaliers,97,Home,1
+717,"Mon, Feb 2, 2015",Charlotte Hornets,92,Away,1
+717,"Mon, Feb 2, 2015",Washington Wizards,88,Home,0
+718,"Mon, Feb 2, 2015",Los Angeles Clippers,100,Away,0
+718,"Mon, Feb 2, 2015",Brooklyn Nets,102,Home,1
+719,"Mon, Feb 2, 2015",Milwaukee Bucks,82,Away,1
+719,"Mon, Feb 2, 2015",Toronto Raptors,75,Home,0
+720,"Mon, Feb 2, 2015",Atlanta Hawks,100,Away,0
+720,"Mon, Feb 2, 2015",New Orleans Pelicans,115,Home,1
+721,"Mon, Feb 2, 2015",Orlando Magic,97,Away,0
+721,"Mon, Feb 2, 2015",Oklahoma City Thunder,104,Home,1
+722,"Mon, Feb 2, 2015",Minnesota Timberwolves,94,Away,0
+722,"Mon, Feb 2, 2015",Dallas Mavericks,100,Home,1
+723,"Mon, Feb 2, 2015",Memphis Grizzlies,102,Away,1
+723,"Mon, Feb 2, 2015",Phoenix Suns,101,Home,0
+724,"Tue, Feb 3, 2015",Denver Nuggets,98,Away,0
+724,"Tue, Feb 3, 2015",Philadelphia 76ers,105,Home,1
+725,"Tue, Feb 3, 2015",Miami Heat,91,Away,0
+725,"Tue, Feb 3, 2015",Detroit Pistons,108,Home,1
+726,"Tue, Feb 3, 2015",Boston Celtics,108,Away,1
+726,"Tue, Feb 3, 2015",New York Knicks,97,Home,0
+727,"Tue, Feb 3, 2015",Utah Jazz,102,Away,0
+727,"Tue, Feb 3, 2015",Portland Trail Blazers,103,Home,1
+728,"Tue, Feb 3, 2015",Golden State Warriors,121,Away,1
+728,"Tue, Feb 3, 2015",Sacramento Kings,96,Home,0
+729,"Wed, Feb 4, 2015",Detroit Pistons,109,Away,0
+729,"Wed, Feb 4, 2015",Indiana Pacers,114,Home,1
+730,"Wed, Feb 4, 2015",Washington Wizards,96,Away,0
+730,"Wed, Feb 4, 2015",Atlanta Hawks,105,Home,1
+731,"Wed, Feb 4, 2015",Denver Nuggets,100,Away,0
+731,"Wed, Feb 4, 2015",Boston Celtics,104,Home,1
+732,"Wed, Feb 4, 2015",Brooklyn Nets,109,Away,1
+732,"Wed, Feb 4, 2015",Toronto Raptors,93,Home,0
+733,"Wed, Feb 4, 2015",Chicago Bulls,90,Away,0
+733,"Wed, Feb 4, 2015",Houston Rockets,101,Home,1
+734,"Wed, Feb 4, 2015",Los Angeles Lakers,105,Away,0
+734,"Wed, Feb 4, 2015",Milwaukee Bucks,113,Home,1
+735,"Wed, Feb 4, 2015",Miami Heat,101,Away,0
+735,"Wed, Feb 4, 2015",Minnesota Timberwolves,102,Home,1
+736,"Wed, Feb 4, 2015",Oklahoma City Thunder,102,Away,1
+736,"Wed, Feb 4, 2015",New Orleans Pelicans,91,Home,0
+737,"Wed, Feb 4, 2015",Orlando Magic,103,Away,0
+737,"Wed, Feb 4, 2015",San Antonio Spurs,110,Home,1
+738,"Wed, Feb 4, 2015",Memphis Grizzlies,100,Away,1
+738,"Wed, Feb 4, 2015",Utah Jazz,90,Home,0
+739,"Wed, Feb 4, 2015",Dallas Mavericks,114,Away,0
+739,"Wed, Feb 4, 2015",Golden State Warriors,128,Home,1
+740,"Thu, Feb 5, 2015",Washington Wizards,87,Away,0
+740,"Thu, Feb 5, 2015",Charlotte Hornets,94,Home,1
+741,"Thu, Feb 5, 2015",Los Angeles Clippers,94,Away,0
+741,"Thu, Feb 5, 2015",Cleveland Cavaliers,105,Home,1
+742,"Thu, Feb 5, 2015",Dallas Mavericks,101,Away,1
+742,"Thu, Feb 5, 2015",Sacramento Kings,78,Home,0
+743,"Thu, Feb 5, 2015",Phoenix Suns,87,Away,0
+743,"Thu, Feb 5, 2015",Portland Trail Blazers,108,Home,1
+744,"Fri, Feb 6, 2015",New York Knicks,88,Away,0
+744,"Fri, Feb 6, 2015",Brooklyn Nets,92,Home,1
+745,"Fri, Feb 6, 2015",Cleveland Cavaliers,99,Away,0
+745,"Fri, Feb 6, 2015",Indiana Pacers,103,Home,1
+746,"Fri, Feb 6, 2015",Los Angeles Lakers,97,Away,0
+746,"Fri, Feb 6, 2015",Orlando Magic,103,Home,1
+747,"Fri, Feb 6, 2015",Los Angeles Clippers,107,Away,0
+747,"Fri, Feb 6, 2015",Toronto Raptors,123,Home,1
+748,"Fri, Feb 6, 2015",Golden State Warriors,116,Away,0
+748,"Fri, Feb 6, 2015",Atlanta Hawks,124,Home,1
+749,"Fri, Feb 6, 2015",Philadelphia 76ers,96,Away,0
+749,"Fri, Feb 6, 2015",Boston Celtics,107,Home,1
+750,"Fri, Feb 6, 2015",Denver Nuggets,88,Away,0
+750,"Fri, Feb 6, 2015",Detroit Pistons,98,Home,1
+751,"Fri, Feb 6, 2015",Milwaukee Bucks,111,Away,0
+751,"Fri, Feb 6, 2015",Houston Rockets,117,Home,1
+752,"Fri, Feb 6, 2015",Memphis Grizzlies,89,Away,0
+752,"Fri, Feb 6, 2015",Minnesota Timberwolves,90,Home,1
+753,"Fri, Feb 6, 2015",New Orleans Pelicans,116,Away,1
+753,"Fri, Feb 6, 2015",Oklahoma City Thunder,113,Home,0
+754,"Fri, Feb 6, 2015",Utah Jazz,93,Away,0
+754,"Fri, Feb 6, 2015",Phoenix Suns,100,Home,1
+755,"Fri, Feb 6, 2015",Miami Heat,85,Away,0
+755,"Fri, Feb 6, 2015",San Antonio Spurs,98,Home,1
+756,"Sat, Feb 7, 2015",Chicago Bulls,107,Away,1
+756,"Sat, Feb 7, 2015",New Orleans Pelicans,72,Home,0
+757,"Sat, Feb 7, 2015",Brooklyn Nets,77,Away,0
+757,"Sat, Feb 7, 2015",Washington Wizards,114,Home,1
+758,"Sat, Feb 7, 2015",Golden State Warriors,106,Away,1
+758,"Sat, Feb 7, 2015",New York Knicks,92,Home,0
+759,"Sat, Feb 7, 2015",Charlotte Hornets,81,Away,0
+759,"Sat, Feb 7, 2015",Philadelphia 76ers,89,Home,1
+760,"Sat, Feb 7, 2015",Portland Trail Blazers,101,Away,0
+760,"Sat, Feb 7, 2015",Dallas Mavericks,111,Home,1
+761,"Sat, Feb 7, 2015",Boston Celtics,93,Away,0
+761,"Sat, Feb 7, 2015",Milwaukee Bucks,96,Home,1
+762,"Sat, Feb 7, 2015",Sacramento Kings,90,Away,0
+762,"Sat, Feb 7, 2015",Utah Jazz,102,Home,1
+763,"Sun, Feb 8, 2015",Los Angeles Clippers,108,Away,0
+763,"Sun, Feb 8, 2015",Oklahoma City Thunder,131,Home,1
+764,"Sun, Feb 8, 2015",Los Angeles Lakers,105,Away,0
+764,"Sun, Feb 8, 2015",Cleveland Cavaliers,120,Home,1
+765,"Sun, Feb 8, 2015",Indiana Pacers,103,Away,1
+765,"Sun, Feb 8, 2015",Charlotte Hornets,102,Home,0
+766,"Sun, Feb 8, 2015",Minnesota Timberwolves,112,Away,1
+766,"Sun, Feb 8, 2015",Detroit Pistons,101,Home,0
+767,"Sun, Feb 8, 2015",Atlanta Hawks,88,Away,0
+767,"Sun, Feb 8, 2015",Memphis Grizzlies,94,Home,1
+768,"Sun, Feb 8, 2015",Chicago Bulls,98,Away,1
+768,"Sun, Feb 8, 2015",Orlando Magic,97,Home,0
+769,"Sun, Feb 8, 2015",Portland Trail Blazers,109,Away,1
+769,"Sun, Feb 8, 2015",Houston Rockets,98,Home,0
+770,"Sun, Feb 8, 2015",San Antonio Spurs,82,Away,0
+770,"Sun, Feb 8, 2015",Toronto Raptors,87,Home,1
+771,"Sun, Feb 8, 2015",Phoenix Suns,83,Away,0
+771,"Sun, Feb 8, 2015",Sacramento Kings,85,Home,1
+772,"Mon, Feb 9, 2015",San Antonio Spurs,95,Away,1
+772,"Mon, Feb 9, 2015",Indiana Pacers,93,Home,0
+773,"Mon, Feb 9, 2015",Golden State Warriors,89,Away,1
+773,"Mon, Feb 9, 2015",Philadelphia 76ers,84,Home,0
+774,"Mon, Feb 9, 2015",Orlando Magic,80,Away,0
+774,"Mon, Feb 9, 2015",Washington Wizards,96,Home,1
+775,"Mon, Feb 9, 2015",New York Knicks,95,Away,0
+775,"Mon, Feb 9, 2015",Miami Heat,109,Home,1
+776,"Mon, Feb 9, 2015",Brooklyn Nets,97,Away,0
+776,"Mon, Feb 9, 2015",Milwaukee Bucks,103,Home,1
+777,"Mon, Feb 9, 2015",Atlanta Hawks,117,Away,1
+777,"Mon, Feb 9, 2015",Minnesota Timberwolves,105,Home,0
+778,"Mon, Feb 9, 2015",Utah Jazz,100,Away,1
+778,"Mon, Feb 9, 2015",New Orleans Pelicans,96,Home,0
+779,"Mon, Feb 9, 2015",Los Angeles Clippers,115,Away,1
+779,"Mon, Feb 9, 2015",Dallas Mavericks,98,Home,0
+780,"Mon, Feb 9, 2015",Oklahoma City Thunder,124,Away,1
+780,"Mon, Feb 9, 2015",Denver Nuggets,114,Home,0
+781,"Tue, Feb 10, 2015",Detroit Pistons,106,Away,1
+781,"Tue, Feb 10, 2015",Charlotte Hornets,78,Home,0
+782,"Tue, Feb 10, 2015",Sacramento Kings,86,Away,0
+782,"Tue, Feb 10, 2015",Chicago Bulls,104,Home,1
+783,"Tue, Feb 10, 2015",Brooklyn Nets,86,Away,0
+783,"Tue, Feb 10, 2015",Memphis Grizzlies,95,Home,1
+784,"Tue, Feb 10, 2015",Houston Rockets,127,Away,1
+784,"Tue, Feb 10, 2015",Phoenix Suns,118,Home,0
+785,"Tue, Feb 10, 2015",Denver Nuggets,106,Away,1
+785,"Tue, Feb 10, 2015",Los Angeles Lakers,96,Home,0
+786,"Wed, Feb 11, 2015",New York Knicks,83,Away,0
+786,"Wed, Feb 11, 2015",Orlando Magic,89,Home,1
+787,"Wed, Feb 11, 2015",Atlanta Hawks,88,Away,0
+787,"Wed, Feb 11, 2015",Boston Celtics,89,Home,1
+788,"Wed, Feb 11, 2015",San Antonio Spurs,104,Away,1
+788,"Wed, Feb 11, 2015",Detroit Pistons,87,Home,0
+789,"Wed, Feb 11, 2015",Washington Wizards,93,Away,0
+789,"Wed, Feb 11, 2015",Toronto Raptors,95,Home,1
+790,"Wed, Feb 11, 2015",Miami Heat,93,Away,0
+790,"Wed, Feb 11, 2015",Cleveland Cavaliers,113,Home,1
+791,"Wed, Feb 11, 2015",Sacramento Kings,103,Away,0
+791,"Wed, Feb 11, 2015",Milwaukee Bucks,111,Home,1
+792,"Wed, Feb 11, 2015",Golden State Warriors,94,Away,1
+792,"Wed, Feb 11, 2015",Minnesota Timberwolves,91,Home,0
+793,"Wed, Feb 11, 2015",Indiana Pacers,106,Away,1
+793,"Wed, Feb 11, 2015",New Orleans Pelicans,93,Home,0
+794,"Wed, Feb 11, 2015",Memphis Grizzlies,89,Away,0
+794,"Wed, Feb 11, 2015",Oklahoma City Thunder,105,Home,1
+795,"Wed, Feb 11, 2015",Utah Jazz,82,Away,0
+795,"Wed, Feb 11, 2015",Dallas Mavericks,87,Home,1
+796,"Wed, Feb 11, 2015",Los Angeles Lakers,86,Away,0
+796,"Wed, Feb 11, 2015",Portland Trail Blazers,102,Home,1
+797,"Wed, Feb 11, 2015",Houston Rockets,95,Away,0
+797,"Wed, Feb 11, 2015",Los Angeles Clippers,110,Home,1
+798,"Thu, Feb 12, 2015",Cleveland Cavaliers,98,Away,0
+798,"Thu, Feb 12, 2015",Chicago Bulls,113,Home,1
+799,"Thu, Feb 19, 2015",Dallas Mavericks,89,Away,0
+799,"Thu, Feb 19, 2015",Oklahoma City Thunder,104,Home,1
+800,"Thu, Feb 19, 2015",San Antonio Spurs,115,Away,0
+800,"Thu, Feb 19, 2015",Los Angeles Clippers,119,Home,1
+801,"Fri, Feb 20, 2015",New Orleans Pelicans,84,Away,0
+801,"Fri, Feb 20, 2015",Orlando Magic,95,Home,1
+802,"Fri, Feb 20, 2015",Indiana Pacers,106,Away,1
+802,"Fri, Feb 20, 2015",Philadelphia 76ers,95,Home,0
+803,"Fri, Feb 20, 2015",Toronto Raptors,105,Away,1
+803,"Fri, Feb 20, 2015",Atlanta Hawks,80,Home,0
+804,"Fri, Feb 20, 2015",Chicago Bulls,91,Away,0
+804,"Fri, Feb 20, 2015",Detroit Pistons,100,Home,1
+805,"Fri, Feb 20, 2015",Miami Heat,111,Away,1
+805,"Fri, Feb 20, 2015",New York Knicks,87,Home,0
+806,"Fri, Feb 20, 2015",Phoenix Suns,109,Away,0
+806,"Fri, Feb 20, 2015",Minnesota Timberwolves,111,Home,1
+807,"Fri, Feb 20, 2015",Cleveland Cavaliers,127,Away,1
+807,"Fri, Feb 20, 2015",Washington Wizards,89,Home,0
+808,"Fri, Feb 20, 2015",Houston Rockets,100,Away,0
+808,"Fri, Feb 20, 2015",Dallas Mavericks,111,Home,1
+809,"Fri, Feb 20, 2015",Denver Nuggets,81,Away,0
+809,"Fri, Feb 20, 2015",Milwaukee Bucks,89,Home,1
+810,"Fri, Feb 20, 2015",Portland Trail Blazers,76,Away,0
+810,"Fri, Feb 20, 2015",Utah Jazz,92,Home,1
+811,"Fri, Feb 20, 2015",Boston Celtics,101,Away,0
+811,"Fri, Feb 20, 2015",Sacramento Kings,109,Home,1
+812,"Fri, Feb 20, 2015",San Antonio Spurs,99,Away,0
+812,"Fri, Feb 20, 2015",Golden State Warriors,110,Home,1
+813,"Fri, Feb 20, 2015",Brooklyn Nets,114,Away,1
+813,"Fri, Feb 20, 2015",Los Angeles Lakers,105,Home,0
+814,"Sat, Feb 21, 2015",Oklahoma City Thunder,110,Away,1
+814,"Sat, Feb 21, 2015",Charlotte Hornets,103,Home,0
+815,"Sat, Feb 21, 2015",New Orleans Pelicans,105,Away,1
+815,"Sat, Feb 21, 2015",Miami Heat,91,Home,0
+816,"Sat, Feb 21, 2015",Phoenix Suns,107,Away,0
+816,"Sat, Feb 21, 2015",Chicago Bulls,112,Home,1
+817,"Sat, Feb 21, 2015",Toronto Raptors,76,Away,0
+817,"Sat, Feb 21, 2015",Houston Rockets,98,Home,1
+818,"Sat, Feb 21, 2015",Sacramento Kings,99,Away,0
+818,"Sat, Feb 21, 2015",Los Angeles Clippers,126,Home,1
+819,"Sun, Feb 22, 2015",Cleveland Cavaliers,101,Away,1
+819,"Sun, Feb 22, 2015",New York Knicks,83,Home,0
+820,"Sun, Feb 22, 2015",Washington Wizards,89,Away,0
+820,"Sun, Feb 22, 2015",Detroit Pistons,106,Home,1
+821,"Sun, Feb 22, 2015",Atlanta Hawks,97,Away,1
+821,"Sun, Feb 22, 2015",Milwaukee Bucks,86,Home,0
+822,"Sun, Feb 22, 2015",Golden State Warriors,98,Away,0
+822,"Sun, Feb 22, 2015",Indiana Pacers,104,Home,1
+823,"Sun, Feb 22, 2015",Philadelphia 76ers,98,Away,0
+823,"Sun, Feb 22, 2015",Orlando Magic,103,Home,1
+824,"Sun, Feb 22, 2015",Denver Nuggets,94,Away,0
+824,"Sun, Feb 22, 2015",Oklahoma City Thunder,119,Home,1
+825,"Sun, Feb 22, 2015",Charlotte Hornets,81,Away,0
+825,"Sun, Feb 22, 2015",Dallas Mavericks,92,Home,1
+826,"Sun, Feb 22, 2015",Memphis Grizzlies,98,Away,1
+826,"Sun, Feb 22, 2015",Portland Trail Blazers,92,Home,0
+827,"Sun, Feb 22, 2015",Boston Celtics,111,Away,0
+827,"Sun, Feb 22, 2015",Los Angeles Lakers,118,Home,1
+828,"Mon, Feb 23, 2015",Philadelphia 76ers,108,Away,0
+828,"Mon, Feb 23, 2015",Miami Heat,119,Home,1
+829,"Mon, Feb 23, 2015",Milwaukee Bucks,71,Away,0
+829,"Mon, Feb 23, 2015",Chicago Bulls,87,Home,1
+830,"Mon, Feb 23, 2015",Minnesota Timberwolves,102,Away,0
+830,"Mon, Feb 23, 2015",Houston Rockets,113,Home,1
+831,"Mon, Feb 23, 2015",Toronto Raptors,97,Away,0
+831,"Mon, Feb 23, 2015",New Orleans Pelicans,100,Home,1
+832,"Mon, Feb 23, 2015",Brooklyn Nets,110,Away,1
+832,"Mon, Feb 23, 2015",Denver Nuggets,82,Home,0
+833,"Mon, Feb 23, 2015",Boston Celtics,115,Away,1
+833,"Mon, Feb 23, 2015",Phoenix Suns,110,Home,0
+834,"Mon, Feb 23, 2015",San Antonio Spurs,81,Away,0
+834,"Mon, Feb 23, 2015",Utah Jazz,90,Home,1
+835,"Mon, Feb 23, 2015",Memphis Grizzlies,90,Away,1
+835,"Mon, Feb 23, 2015",Los Angeles Clippers,87,Home,0
+836,"Tue, Feb 24, 2015",Golden State Warriors,114,Away,1
+836,"Tue, Feb 24, 2015",Washington Wizards,107,Home,0
+837,"Tue, Feb 24, 2015",Cleveland Cavaliers,102,Away,1
+837,"Tue, Feb 24, 2015",Detroit Pistons,93,Home,0
+838,"Tue, Feb 24, 2015",Indiana Pacers,92,Away,0
+838,"Tue, Feb 24, 2015",Oklahoma City Thunder,105,Home,1
+839,"Tue, Feb 24, 2015",Toronto Raptors,92,Away,0
+839,"Tue, Feb 24, 2015",Dallas Mavericks,99,Home,1
+840,"Wed, Feb 25, 2015",Miami Heat,93,Away,1
+840,"Wed, Feb 25, 2015",Orlando Magic,90,Home,0
+841,"Wed, Feb 25, 2015",Dallas Mavericks,87,Away,0
+841,"Wed, Feb 25, 2015",Atlanta Hawks,104,Home,1
+842,"Wed, Feb 25, 2015",New York Knicks,94,Away,0
+842,"Wed, Feb 25, 2015",Boston Celtics,115,Home,1
+843,"Wed, Feb 25, 2015",Charlotte Hornets,98,Away,1
+843,"Wed, Feb 25, 2015",Chicago Bulls,86,Home,0
+844,"Wed, Feb 25, 2015",Los Angeles Clippers,105,Away,0
+844,"Wed, Feb 25, 2015",Houston Rockets,110,Home,1
+845,"Wed, Feb 25, 2015",Philadelphia 76ers,88,Away,0
+845,"Wed, Feb 25, 2015",Milwaukee Bucks,104,Home,1
+846,"Wed, Feb 25, 2015",Washington Wizards,77,Away,0
+846,"Wed, Feb 25, 2015",Minnesota Timberwolves,97,Home,1
+847,"Wed, Feb 25, 2015",Brooklyn Nets,96,Away,0
+847,"Wed, Feb 25, 2015",New Orleans Pelicans,102,Home,1
+848,"Wed, Feb 25, 2015",Phoenix Suns,110,Away,1
+848,"Wed, Feb 25, 2015",Denver Nuggets,96,Home,0
+849,"Wed, Feb 25, 2015",Los Angeles Lakers,100,Away,1
+849,"Wed, Feb 25, 2015",Utah Jazz,97,Home,0
+850,"Wed, Feb 25, 2015",Memphis Grizzlies,90,Away,0
+850,"Wed, Feb 25, 2015",Sacramento Kings,102,Home,1
+851,"Wed, Feb 25, 2015",San Antonio Spurs,95,Away,0
+851,"Wed, Feb 25, 2015",Portland Trail Blazers,111,Home,1
+852,"Thu, Feb 26, 2015",Golden State Warriors,99,Away,0
+852,"Thu, Feb 26, 2015",Cleveland Cavaliers,110,Home,1
+853,"Thu, Feb 26, 2015",Oklahoma City Thunder,113,Away,0
+853,"Thu, Feb 26, 2015",Phoenix Suns,117,Home,1
+854,"Fri, Feb 27, 2015",Cleveland Cavaliers,86,Away,0
+854,"Fri, Feb 27, 2015",Indiana Pacers,93,Home,1
+855,"Fri, Feb 27, 2015",Washington Wizards,81,Away,0
+855,"Fri, Feb 27, 2015",Philadelphia 76ers,89,Home,1
+856,"Fri, Feb 27, 2015",Orlando Magic,88,Away,0
+856,"Fri, Feb 27, 2015",Atlanta Hawks,95,Home,1
+857,"Fri, Feb 27, 2015",Charlotte Hornets,98,Away,0
+857,"Fri, Feb 27, 2015",Boston Celtics,106,Home,1
+858,"Fri, Feb 27, 2015",New York Knicks,121,Away,1
+858,"Fri, Feb 27, 2015",Detroit Pistons,115,Home,0
+859,"Fri, Feb 27, 2015",Golden State Warriors,113,Away,1
+859,"Fri, Feb 27, 2015",Toronto Raptors,89,Home,0
+860,"Fri, Feb 27, 2015",Minnesota Timberwolves,89,Away,0
+860,"Fri, Feb 27, 2015",Chicago Bulls,96,Home,1
+861,"Fri, Feb 27, 2015",Brooklyn Nets,98,Away,0
+861,"Fri, Feb 27, 2015",Houston Rockets,102,Home,1
+862,"Fri, Feb 27, 2015",Los Angeles Clippers,97,Away,1
+862,"Fri, Feb 27, 2015",Memphis Grizzlies,79,Home,0
+863,"Fri, Feb 27, 2015",Miami Heat,102,Away,0
+863,"Fri, Feb 27, 2015",New Orleans Pelicans,104,Home,1
+864,"Fri, Feb 27, 2015",Utah Jazz,104,Away,1
+864,"Fri, Feb 27, 2015",Denver Nuggets,82,Home,0
+865,"Fri, Feb 27, 2015",San Antonio Spurs,107,Away,1
+865,"Fri, Feb 27, 2015",Sacramento Kings,96,Home,0
+866,"Fri, Feb 27, 2015",Milwaukee Bucks,93,Away,0
+866,"Fri, Feb 27, 2015",Los Angeles Lakers,101,Home,1
+867,"Fri, Feb 27, 2015",Oklahoma City Thunder,112,Away,0
+867,"Fri, Feb 27, 2015",Portland Trail Blazers,115,Home,1
+868,"Sat, Feb 28, 2015",Detroit Pistons,95,Away,0
+868,"Sat, Feb 28, 2015",Washington Wizards,99,Home,1
+869,"Sat, Feb 28, 2015",Atlanta Hawks,93,Away,1
+869,"Sat, Feb 28, 2015",Miami Heat,91,Home,0
+870,"Sat, Feb 28, 2015",Toronto Raptors,98,Away,0
+870,"Sat, Feb 28, 2015",New York Knicks,103,Home,1
+871,"Sat, Feb 28, 2015",Memphis Grizzlies,101,Away,1
+871,"Sat, Feb 28, 2015",Minnesota Timberwolves,97,Home,0
+872,"Sat, Feb 28, 2015",Brooklyn Nets,104,Away,1
+872,"Sat, Feb 28, 2015",Dallas Mavericks,94,Home,0
+873,"Sat, Feb 28, 2015",San Antonio Spurs,101,Away,1
+873,"Sat, Feb 28, 2015",Phoenix Suns,74,Home,0
+874,"Sat, Feb 28, 2015",Milwaukee Bucks,75,Away,0
+874,"Sat, Feb 28, 2015",Utah Jazz,82,Home,1
+875,"Sun, Mar 1, 2015",Los Angeles Clippers,96,Away,1
+875,"Sun, Mar 1, 2015",Chicago Bulls,86,Home,0
+876,"Sun, Mar 1, 2015",Cleveland Cavaliers,103,Away,0
+876,"Sun, Mar 1, 2015",Houston Rockets,105,Home,1
+877,"Sun, Mar 1, 2015",Golden State Warriors,106,Away,1
+877,"Sun, Mar 1, 2015",Boston Celtics,101,Home,0
+878,"Sun, Mar 1, 2015",Philadelphia 76ers,74,Away,0
+878,"Sun, Mar 1, 2015",Indiana Pacers,94,Home,1
+879,"Sun, Mar 1, 2015",Charlotte Hornets,98,Away,1
+879,"Sun, Mar 1, 2015",Orlando Magic,83,Home,0
+880,"Sun, Mar 1, 2015",Portland Trail Blazers,110,Away,1
+880,"Sun, Mar 1, 2015",Sacramento Kings,99,Home,0
+881,"Sun, Mar 1, 2015",Oklahoma City Thunder,108,Away,1
+881,"Sun, Mar 1, 2015",Los Angeles Lakers,101,Home,0
+882,"Sun, Mar 1, 2015",New Orleans Pelicans,99,Away,1
+882,"Sun, Mar 1, 2015",Denver Nuggets,92,Home,0
+883,"Mon, Mar 2, 2015",Toronto Raptors,114,Away,1
+883,"Mon, Mar 2, 2015",Philadelphia 76ers,103,Home,0
+884,"Mon, Mar 2, 2015",Golden State Warriors,108,Away,0
+884,"Mon, Mar 2, 2015",Brooklyn Nets,110,Home,1
+885,"Mon, Mar 2, 2015",Phoenix Suns,98,Away,0
+885,"Mon, Mar 2, 2015",Miami Heat,115,Home,1
+886,"Mon, Mar 2, 2015",Los Angeles Clippers,110,Away,1
+886,"Mon, Mar 2, 2015",Minnesota Timberwolves,105,Home,0
+887,"Mon, Mar 2, 2015",New Orleans Pelicans,93,Away,0
+887,"Mon, Mar 2, 2015",Dallas Mavericks,102,Home,1
+888,"Tue, Mar 3, 2015",Los Angeles Lakers,103,Away,0
+888,"Tue, Mar 3, 2015",Charlotte Hornets,104,Home,1
+889,"Tue, Mar 3, 2015",Boston Celtics,79,Away,0
+889,"Tue, Mar 3, 2015",Cleveland Cavaliers,110,Home,1
+890,"Tue, Mar 3, 2015",Sacramento Kings,124,Away,1
+890,"Tue, Mar 3, 2015",New York Knicks,86,Home,0
+891,"Tue, Mar 3, 2015",Houston Rockets,96,Away,0
+891,"Tue, Mar 3, 2015",Atlanta Hawks,104,Home,1
+892,"Tue, Mar 3, 2015",Washington Wizards,92,Away,0
+892,"Tue, Mar 3, 2015",Chicago Bulls,97,Home,1
+893,"Tue, Mar 3, 2015",Utah Jazz,93,Away,1
+893,"Tue, Mar 3, 2015",Memphis Grizzlies,82,Home,0
+894,"Tue, Mar 3, 2015",Milwaukee Bucks,95,Away,0
+894,"Tue, Mar 3, 2015",Denver Nuggets,106,Home,1
+895,"Wed, Mar 4, 2015",New York Knicks,82,Away,0
+895,"Wed, Mar 4, 2015",Indiana Pacers,105,Home,1
+896,"Wed, Mar 4, 2015",Phoenix Suns,105,Away,1
+896,"Wed, Mar 4, 2015",Orlando Magic,100,Home,0
+897,"Wed, Mar 4, 2015",Utah Jazz,84,Away,0
+897,"Wed, Mar 4, 2015",Boston Celtics,85,Home,1
+898,"Wed, Mar 4, 2015",Charlotte Hornets,115,Away,1
+898,"Wed, Mar 4, 2015",Brooklyn Nets,91,Home,0
+899,"Wed, Mar 4, 2015",Cleveland Cavaliers,120,Away,1
+899,"Wed, Mar 4, 2015",Toronto Raptors,112,Home,0
+900,"Wed, Mar 4, 2015",Memphis Grizzlies,102,Away,1
+900,"Wed, Mar 4, 2015",Houston Rockets,100,Home,0
+901,"Wed, Mar 4, 2015",Los Angeles Lakers,94,Away,0
+901,"Wed, Mar 4, 2015",Miami Heat,100,Home,1
+902,"Wed, Mar 4, 2015",Denver Nuggets,100,Away,1
+902,"Wed, Mar 4, 2015",Minnesota Timberwolves,85,Home,0
+903,"Wed, Mar 4, 2015",Detroit Pistons,85,Away,0
+903,"Wed, Mar 4, 2015",New Orleans Pelicans,88,Home,1
+904,"Wed, Mar 4, 2015",Philadelphia 76ers,118,Away,0
+904,"Wed, Mar 4, 2015",Oklahoma City Thunder,123,Home,1
+905,"Wed, Mar 4, 2015",Sacramento Kings,85,Away,0
+905,"Wed, Mar 4, 2015",San Antonio Spurs,112,Home,1
+906,"Wed, Mar 4, 2015",Milwaukee Bucks,93,Away,0
+906,"Wed, Mar 4, 2015",Golden State Warriors,102,Home,1
+907,"Wed, Mar 4, 2015",Portland Trail Blazers,98,Away,1
+907,"Wed, Mar 4, 2015",Los Angeles Clippers,93,Home,0
+908,"Thu, Mar 5, 2015",Oklahoma City Thunder,105,Away,0
+908,"Thu, Mar 5, 2015",Chicago Bulls,108,Home,1
+909,"Thu, Mar 5, 2015",Dallas Mavericks,75,Away,0
+909,"Thu, Mar 5, 2015",Portland Trail Blazers,94,Home,1
+910,"Fri, Mar 6, 2015",Toronto Raptors,94,Away,0
+910,"Fri, Mar 6, 2015",Charlotte Hornets,103,Home,1
+911,"Fri, Mar 6, 2015",Chicago Bulls,84,Away,0
+911,"Fri, Mar 6, 2015",Indiana Pacers,98,Home,1
+912,"Fri, Mar 6, 2015",Sacramento Kings,114,Away,0
+912,"Fri, Mar 6, 2015",Orlando Magic,119,Home,1
+913,"Fri, Mar 6, 2015",Utah Jazz,89,Away,1
+913,"Fri, Mar 6, 2015",Philadelphia 76ers,83,Home,0
+914,"Fri, Mar 6, 2015",Miami Heat,97,Away,0
+914,"Fri, Mar 6, 2015",Washington Wizards,99,Home,1
+915,"Fri, Mar 6, 2015",Cleveland Cavaliers,97,Away,0
+915,"Fri, Mar 6, 2015",Atlanta Hawks,106,Home,1
+916,"Fri, Mar 6, 2015",Phoenix Suns,108,Away,1
+916,"Fri, Mar 6, 2015",Brooklyn Nets,100,Home,0
+917,"Fri, Mar 6, 2015",Detroit Pistons,93,Away,0
+917,"Fri, Mar 6, 2015",Houston Rockets,103,Home,1
+918,"Fri, Mar 6, 2015",Los Angeles Lakers,90,Away,0
+918,"Fri, Mar 6, 2015",Memphis Grizzlies,97,Home,1
+919,"Fri, Mar 6, 2015",Boston Celtics,104,Away,1
+919,"Fri, Mar 6, 2015",New Orleans Pelicans,98,Home,0
+920,"Fri, Mar 6, 2015",Denver Nuggets,111,Away,0
+920,"Fri, Mar 6, 2015",San Antonio Spurs,120,Home,1
+921,"Fri, Mar 6, 2015",Dallas Mavericks,89,Away,0
+921,"Fri, Mar 6, 2015",Golden State Warriors,104,Home,1
+922,"Sat, Mar 7, 2015",Memphis Grizzlies,89,Away,0
+922,"Sat, Mar 7, 2015",New Orleans Pelicans,95,Home,1
+923,"Sat, Mar 7, 2015",Phoenix Suns,79,Away,0
+923,"Sat, Mar 7, 2015",Cleveland Cavaliers,89,Home,1
+924,"Sat, Mar 7, 2015",Sacramento Kings,109,Away,0
+924,"Sat, Mar 7, 2015",Miami Heat,114,Home,1
+925,"Sat, Mar 7, 2015",Indiana Pacers,92,Away,1
+925,"Sat, Mar 7, 2015",New York Knicks,86,Home,0
+926,"Sat, Mar 7, 2015",Atlanta Hawks,84,Away,0
+926,"Sat, Mar 7, 2015",Philadelphia 76ers,92,Home,1
+927,"Sat, Mar 7, 2015",Portland Trail Blazers,113,Away,0
+927,"Sat, Mar 7, 2015",Minnesota Timberwolves,121,Home,1
+928,"Sat, Mar 7, 2015",Washington Wizards,85,Away,0
+928,"Sat, Mar 7, 2015",Milwaukee Bucks,91,Home,1
+929,"Sat, Mar 7, 2015",Houston Rockets,114,Away,1
+929,"Sat, Mar 7, 2015",Denver Nuggets,100,Home,0
+930,"Sun, Mar 8, 2015",Chicago Bulls,105,Away,0
+930,"Sun, Mar 8, 2015",San Antonio Spurs,116,Home,1
+931,"Sun, Mar 8, 2015",Los Angeles Clippers,98,Away,0
+931,"Sun, Mar 8, 2015",Golden State Warriors,106,Home,1
+932,"Sun, Mar 8, 2015",Utah Jazz,95,Away,1
+932,"Sun, Mar 8, 2015",Brooklyn Nets,88,Home,0
+933,"Sun, Mar 8, 2015",Charlotte Hornets,108,Away,1
+933,"Sun, Mar 8, 2015",Detroit Pistons,101,Home,0
+934,"Sun, Mar 8, 2015",Boston Celtics,98,Away,0
+934,"Sun, Mar 8, 2015",Orlando Magic,103,Home,1
+935,"Sun, Mar 8, 2015",Toronto Raptors,104,Away,0
+935,"Sun, Mar 8, 2015",Oklahoma City Thunder,108,Home,1
+936,"Sun, Mar 8, 2015",Dallas Mavericks,100,Away,1
+936,"Sun, Mar 8, 2015",Los Angeles Lakers,93,Home,0
+937,"Mon, Mar 9, 2015",Washington Wizards,95,Away,1
+937,"Mon, Mar 9, 2015",Charlotte Hornets,69,Home,0
+938,"Mon, Mar 9, 2015",Sacramento Kings,105,Away,0
+938,"Mon, Mar 9, 2015",Atlanta Hawks,130,Home,1
+939,"Mon, Mar 9, 2015",Boston Celtics,100,Away,1
+939,"Mon, Mar 9, 2015",Miami Heat,90,Home,0
+940,"Mon, Mar 9, 2015",Memphis Grizzlies,101,Away,1
+940,"Mon, Mar 9, 2015",Chicago Bulls,91,Home,0
+941,"Mon, Mar 9, 2015",New Orleans Pelicans,114,Away,1
+941,"Mon, Mar 9, 2015",Milwaukee Bucks,103,Home,0
+942,"Mon, Mar 9, 2015",New York Knicks,78,Away,0
+942,"Mon, Mar 9, 2015",Denver Nuggets,106,Home,1
+943,"Mon, Mar 9, 2015",Golden State Warriors,98,Away,1
+943,"Mon, Mar 9, 2015",Phoenix Suns,80,Home,0
+944,"Mon, Mar 9, 2015",Minnesota Timberwolves,76,Away,0
+944,"Mon, Mar 9, 2015",Los Angeles Clippers,89,Home,1
+945,"Tue, Mar 10, 2015",Orlando Magic,86,Away,0
+945,"Tue, Mar 10, 2015",Indiana Pacers,118,Home,1
+946,"Tue, Mar 10, 2015",New Orleans Pelicans,111,Away,1
+946,"Tue, Mar 10, 2015",Brooklyn Nets,91,Home,0
+947,"Tue, Mar 10, 2015",Cleveland Cavaliers,127,Away,1
+947,"Tue, Mar 10, 2015",Dallas Mavericks,94,Home,0
+948,"Tue, Mar 10, 2015",Toronto Raptors,107,Away,0
+948,"Tue, Mar 10, 2015",San Antonio Spurs,117,Home,1
+949,"Tue, Mar 10, 2015",New York Knicks,82,Away,0
+949,"Tue, Mar 10, 2015",Utah Jazz,87,Home,1
+950,"Tue, Mar 10, 2015",Detroit Pistons,85,Away,0
+950,"Tue, Mar 10, 2015",Los Angeles Lakers,93,Home,1
+951,"Wed, Mar 11, 2015",Sacramento Kings,113,Away,1
+951,"Wed, Mar 11, 2015",Charlotte Hornets,106,Home,0
+952,"Wed, Mar 11, 2015",Chicago Bulls,104,Away,1
+952,"Wed, Mar 11, 2015",Philadelphia 76ers,95,Home,0
+953,"Wed, Mar 11, 2015",Memphis Grizzlies,92,Away,0
+953,"Wed, Mar 11, 2015",Boston Celtics,95,Home,1
+954,"Wed, Mar 11, 2015",Brooklyn Nets,98,Away,0
+954,"Wed, Mar 11, 2015",Miami Heat,104,Home,1
+955,"Wed, Mar 11, 2015",Orlando Magic,91,Away,0
+955,"Wed, Mar 11, 2015",Milwaukee Bucks,97,Home,1
+956,"Wed, Mar 11, 2015",Los Angeles Clippers,120,Away,1
+956,"Wed, Mar 11, 2015",Oklahoma City Thunder,108,Home,0
+957,"Wed, Mar 11, 2015",Atlanta Hawks,102,Away,0
+957,"Wed, Mar 11, 2015",Denver Nuggets,115,Home,1
+958,"Wed, Mar 11, 2015",Minnesota Timberwolves,97,Away,0
+958,"Wed, Mar 11, 2015",Phoenix Suns,106,Home,1
+959,"Wed, Mar 11, 2015",Detroit Pistons,98,Away,0
+959,"Wed, Mar 11, 2015",Golden State Warriors,105,Home,1
+960,"Wed, Mar 11, 2015",Houston Rockets,100,Away,0
+960,"Wed, Mar 11, 2015",Portland Trail Blazers,105,Home,1
+961,"Thu, Mar 12, 2015",Milwaukee Bucks,103,Away,0
+961,"Thu, Mar 12, 2015",Indiana Pacers,109,Home,1
+962,"Thu, Mar 12, 2015",Memphis Grizzlies,87,Away,0
+962,"Thu, Mar 12, 2015",Washington Wizards,107,Home,1
+963,"Thu, Mar 12, 2015",Houston Rockets,91,Away,0
+963,"Thu, Mar 12, 2015",Utah Jazz,109,Home,1
+964,"Thu, Mar 12, 2015",Cleveland Cavaliers,128,Away,1
+964,"Thu, Mar 12, 2015",San Antonio Spurs,125,Home,0
+965,"Thu, Mar 12, 2015",New York Knicks,101,Away,1
+965,"Thu, Mar 12, 2015",Los Angeles Lakers,94,Home,0
+966,"Fri, Mar 13, 2015",Chicago Bulls,91,Away,0
+966,"Fri, Mar 13, 2015",Charlotte Hornets,101,Home,1
+967,"Fri, Mar 13, 2015",Sacramento Kings,107,Away,0
+967,"Fri, Mar 13, 2015",Philadelphia 76ers,114,Home,1
+968,"Fri, Mar 13, 2015",Orlando Magic,88,Away,0
+968,"Fri, Mar 13, 2015",Boston Celtics,95,Home,1
+969,"Fri, Mar 13, 2015",Miami Heat,92,Away,0
+969,"Fri, Mar 13, 2015",Toronto Raptors,102,Home,1
+970,"Fri, Mar 13, 2015",Minnesota Timberwolves,99,Away,0
+970,"Fri, Mar 13, 2015",Oklahoma City Thunder,113,Home,1
+971,"Fri, Mar 13, 2015",Los Angeles Clippers,99,Away,0
+971,"Fri, Mar 13, 2015",Dallas Mavericks,129,Home,1
+972,"Fri, Mar 13, 2015",Golden State Warriors,103,Away,0
+972,"Fri, Mar 13, 2015",Denver Nuggets,114,Home,1
+973,"Fri, Mar 13, 2015",Atlanta Hawks,96,Away,1
+973,"Fri, Mar 13, 2015",Phoenix Suns,87,Home,0
+974,"Fri, Mar 13, 2015",Detroit Pistons,99,Away,0
+974,"Fri, Mar 13, 2015",Portland Trail Blazers,118,Home,1
+975,"Sat, Mar 14, 2015",Boston Celtics,93,Away,1
+975,"Sat, Mar 14, 2015",Indiana Pacers,89,Home,0
+976,"Sat, Mar 14, 2015",Sacramento Kings,97,Away,0
+976,"Sat, Mar 14, 2015",Washington Wizards,113,Home,1
+977,"Sat, Mar 14, 2015",Brooklyn Nets,94,Away,1
+977,"Sat, Mar 14, 2015",Philadelphia 76ers,87,Home,0
+978,"Sat, Mar 14, 2015",Milwaukee Bucks,83,Away,0
+978,"Sat, Mar 14, 2015",Memphis Grizzlies,96,Home,1
+979,"Sat, Mar 14, 2015",Detroit Pistons,85,Away,0
+979,"Sat, Mar 14, 2015",Utah Jazz,88,Home,1
+980,"Sat, Mar 14, 2015",New York Knicks,94,Away,0
+980,"Sat, Mar 14, 2015",Golden State Warriors,125,Home,1
+981,"Sun, Mar 15, 2015",Chicago Bulls,100,Away,0
+981,"Sun, Mar 15, 2015",Oklahoma City Thunder,109,Home,1
+982,"Sun, Mar 15, 2015",Houston Rockets,100,Away,1
+982,"Sun, Mar 15, 2015",Los Angeles Clippers,98,Home,0
+983,"Sun, Mar 15, 2015",Denver Nuggets,118,Away,1
+983,"Sun, Mar 15, 2015",New Orleans Pelicans,111,Home,0
+984,"Sun, Mar 15, 2015",Cleveland Cavaliers,123,Away,1
+984,"Sun, Mar 15, 2015",Orlando Magic,108,Home,0
+985,"Sun, Mar 15, 2015",Minnesota Timberwolves,97,Away,0
+985,"Sun, Mar 15, 2015",San Antonio Spurs,123,Home,1
+986,"Sun, Mar 15, 2015",Portland Trail Blazers,113,Away,1
+986,"Sun, Mar 15, 2015",Toronto Raptors,97,Home,0
+987,"Sun, Mar 15, 2015",New York Knicks,89,Away,0
+987,"Sun, Mar 15, 2015",Phoenix Suns,102,Home,1
+988,"Sun, Mar 15, 2015",Atlanta Hawks,91,Away,1
+988,"Sun, Mar 15, 2015",Los Angeles Lakers,86,Home,0
+989,"Mon, Mar 16, 2015",Toronto Raptors,117,Away,1
+989,"Mon, Mar 16, 2015",Indiana Pacers,98,Home,0
+990,"Mon, Mar 16, 2015",Portland Trail Blazers,97,Away,0
+990,"Mon, Mar 16, 2015",Washington Wizards,105,Home,1
+991,"Mon, Mar 16, 2015",Philadelphia 76ers,89,Away,0
+991,"Mon, Mar 16, 2015",Boston Celtics,108,Home,1
+992,"Mon, Mar 16, 2015",Denver Nuggets,81,Away,0
+992,"Mon, Mar 16, 2015",Memphis Grizzlies,92,Home,1
+993,"Mon, Mar 16, 2015",Cleveland Cavaliers,92,Away,0
+993,"Mon, Mar 16, 2015",Miami Heat,106,Home,1
+994,"Mon, Mar 16, 2015",Brooklyn Nets,122,Away,1
+994,"Mon, Mar 16, 2015",Minnesota Timberwolves,106,Home,0
+995,"Mon, Mar 16, 2015",Oklahoma City Thunder,115,Away,0
+995,"Mon, Mar 16, 2015",Dallas Mavericks,119,Home,1
+996,"Mon, Mar 16, 2015",Charlotte Hornets,66,Away,0
+996,"Mon, Mar 16, 2015",Utah Jazz,94,Home,1
+997,"Mon, Mar 16, 2015",Atlanta Hawks,110,Away,1
+997,"Mon, Mar 16, 2015",Sacramento Kings,103,Home,0
+998,"Mon, Mar 16, 2015",Los Angeles Lakers,105,Away,0
+998,"Mon, Mar 16, 2015",Golden State Warriors,108,Home,1
+999,"Tue, Mar 17, 2015",Memphis Grizzlies,95,Away,0
+999,"Tue, Mar 17, 2015",Detroit Pistons,105,Home,1
+1000,"Tue, Mar 17, 2015",San Antonio Spurs,100,Away,0
+1000,"Tue, Mar 17, 2015",New York Knicks,104,Home,1
+1001,"Tue, Mar 17, 2015",Orlando Magic,94,Away,0
+1001,"Tue, Mar 17, 2015",Houston Rockets,107,Home,1
+1002,"Tue, Mar 17, 2015",Milwaukee Bucks,84,Away,0
+1002,"Tue, Mar 17, 2015",New Orleans Pelicans,85,Home,1
+1003,"Tue, Mar 17, 2015",Charlotte Hornets,92,Away,0
+1003,"Tue, Mar 17, 2015",Los Angeles Clippers,99,Home,1
+1004,"Wed, Mar 18, 2015",Brooklyn Nets,92,Away,0
+1004,"Wed, Mar 18, 2015",Cleveland Cavaliers,117,Home,1
+1005,"Wed, Mar 18, 2015",Detroit Pistons,83,Away,0
+1005,"Wed, Mar 18, 2015",Philadelphia 76ers,94,Home,1
+1006,"Wed, Mar 18, 2015",Portland Trail Blazers,104,Away,0
+1006,"Wed, Mar 18, 2015",Miami Heat,108,Home,1
+1007,"Wed, Mar 18, 2015",Minnesota Timberwolves,100,Away,0
+1007,"Wed, Mar 18, 2015",Toronto Raptors,105,Home,1
+1008,"Wed, Mar 18, 2015",Indiana Pacers,86,Away,0
+1008,"Wed, Mar 18, 2015",Chicago Bulls,103,Home,1
+1009,"Wed, Mar 18, 2015",Orlando Magic,102,Away,0
+1009,"Wed, Mar 18, 2015",Dallas Mavericks,107,Home,1
+1010,"Wed, Mar 18, 2015",San Antonio Spurs,114,Away,1
+1010,"Wed, Mar 18, 2015",Milwaukee Bucks,103,Home,0
+1011,"Wed, Mar 18, 2015",Boston Celtics,118,Away,0
+1011,"Wed, Mar 18, 2015",Oklahoma City Thunder,122,Home,1
+1012,"Wed, Mar 18, 2015",Los Angeles Clippers,116,Away,1
+1012,"Wed, Mar 18, 2015",Sacramento Kings,105,Home,0
+1013,"Wed, Mar 18, 2015",Atlanta Hawks,95,Away,0
+1013,"Wed, Mar 18, 2015",Golden State Warriors,114,Home,1
+1014,"Wed, Mar 18, 2015",Washington Wizards,88,Away,1
+1014,"Wed, Mar 18, 2015",Utah Jazz,84,Home,0
+1015,"Thu, Mar 19, 2015",Minnesota Timberwolves,95,Away,1
+1015,"Thu, Mar 19, 2015",New York Knicks,92,Home,0
+1016,"Thu, Mar 19, 2015",Denver Nuggets,108,Away,0
+1016,"Thu, Mar 19, 2015",Houston Rockets,118,Home,1
+1017,"Thu, Mar 19, 2015",New Orleans Pelicans,72,Away,0
+1017,"Thu, Mar 19, 2015",Phoenix Suns,74,Home,1
+1018,"Thu, Mar 19, 2015",Utah Jazz,80,Away,1
+1018,"Thu, Mar 19, 2015",Los Angeles Lakers,73,Home,0
+1019,"Fri, Mar 20, 2015",Portland Trail Blazers,104,Away,0
+1019,"Fri, Mar 20, 2015",Orlando Magic,111,Home,1
+1020,"Fri, Mar 20, 2015",New York Knicks,81,Away,0
+1020,"Fri, Mar 20, 2015",Philadelphia 76ers,97,Home,1
+1021,"Fri, Mar 20, 2015",Milwaukee Bucks,127,Away,0
+1021,"Fri, Mar 20, 2015",Brooklyn Nets,129,Home,1
+1022,"Fri, Mar 20, 2015",Indiana Pacers,92,Away,0
+1022,"Fri, Mar 20, 2015",Cleveland Cavaliers,95,Home,1
+1023,"Fri, Mar 20, 2015",Denver Nuggets,91,Away,0
+1023,"Fri, Mar 20, 2015",Miami Heat,108,Home,1
+1024,"Fri, Mar 20, 2015",Toronto Raptors,92,Away,0
+1024,"Fri, Mar 20, 2015",Chicago Bulls,108,Home,1
+1025,"Fri, Mar 20, 2015",Atlanta Hawks,115,Away,0
+1025,"Fri, Mar 20, 2015",Oklahoma City Thunder,123,Home,1
+1026,"Fri, Mar 20, 2015",Memphis Grizzlies,112,Away,1
+1026,"Fri, Mar 20, 2015",Dallas Mavericks,101,Home,0
+1027,"Fri, Mar 20, 2015",Boston Celtics,89,Away,0
+1027,"Fri, Mar 20, 2015",San Antonio Spurs,101,Home,1
+1028,"Fri, Mar 20, 2015",Charlotte Hornets,91,Away,0
+1028,"Fri, Mar 20, 2015",Sacramento Kings,101,Home,1
+1029,"Fri, Mar 20, 2015",New Orleans Pelicans,96,Away,0
+1029,"Fri, Mar 20, 2015",Golden State Warriors,112,Home,1
+1030,"Fri, Mar 20, 2015",Washington Wizards,99,Away,0
+1030,"Fri, Mar 20, 2015",Los Angeles Clippers,113,Home,1
+1031,"Sat, Mar 21, 2015",Brooklyn Nets,123,Away,1
+1031,"Sat, Mar 21, 2015",Indiana Pacers,111,Home,0
+1032,"Sat, Mar 21, 2015",Chicago Bulls,91,Away,0
+1032,"Sat, Mar 21, 2015",Detroit Pistons,107,Home,1
+1033,"Sat, Mar 21, 2015",Phoenix Suns,117,Away,1
+1033,"Sat, Mar 21, 2015",Houston Rockets,102,Home,0
+1034,"Sat, Mar 21, 2015",Portland Trail Blazers,86,Away,0
+1034,"Sat, Mar 21, 2015",Memphis Grizzlies,97,Home,1
+1035,"Sat, Mar 21, 2015",Utah Jazz,91,Away,0
+1035,"Sat, Mar 21, 2015",Golden State Warriors,106,Home,1
+1036,"Sun, Mar 22, 2015",San Antonio Spurs,114,Away,1
+1036,"Sun, Mar 22, 2015",Atlanta Hawks,95,Home,0
+1037,"Sun, Mar 22, 2015",Cleveland Cavaliers,108,Away,1
+1037,"Sun, Mar 22, 2015",Milwaukee Bucks,90,Home,0
+1038,"Sun, Mar 22, 2015",Miami Heat,75,Away,0
+1038,"Sun, Mar 22, 2015",Oklahoma City Thunder,93,Home,1
+1039,"Sun, Mar 22, 2015",New Orleans Pelicans,100,Away,0
+1039,"Sun, Mar 22, 2015",Los Angeles Clippers,107,Home,1
+1040,"Sun, Mar 22, 2015",New York Knicks,89,Away,0
+1040,"Sun, Mar 22, 2015",Toronto Raptors,106,Home,1
+1041,"Sun, Mar 22, 2015",Detroit Pistons,105,Away,1
+1041,"Sun, Mar 22, 2015",Boston Celtics,97,Home,0
+1042,"Sun, Mar 22, 2015",Denver Nuggets,119,Away,1
+1042,"Sun, Mar 22, 2015",Orlando Magic,100,Home,0
+1043,"Sun, Mar 22, 2015",Washington Wizards,86,Away,0
+1043,"Sun, Mar 22, 2015",Sacramento Kings,109,Home,1
+1044,"Sun, Mar 22, 2015",Charlotte Hornets,109,Away,1
+1044,"Sun, Mar 22, 2015",Minnesota Timberwolves,98,Home,0
+1045,"Sun, Mar 22, 2015",Dallas Mavericks,92,Away,0
+1045,"Sun, Mar 22, 2015",Phoenix Suns,98,Home,1
+1046,"Sun, Mar 22, 2015",Philadelphia 76ers,87,Away,0
+1046,"Sun, Mar 22, 2015",Los Angeles Lakers,101,Home,1
+1047,"Mon, Mar 23, 2015",Houston Rockets,110,Away,1
+1047,"Mon, Mar 23, 2015",Indiana Pacers,100,Home,0
+1048,"Mon, Mar 23, 2015",Boston Celtics,110,Away,1
+1048,"Mon, Mar 23, 2015",Brooklyn Nets,91,Home,0
+1049,"Mon, Mar 23, 2015",Memphis Grizzlies,103,Away,1
+1049,"Mon, Mar 23, 2015",New York Knicks,82,Home,0
+1050,"Mon, Mar 23, 2015",Charlotte Hornets,86,Away,0
+1050,"Mon, Mar 23, 2015",Chicago Bulls,98,Home,1
+1051,"Mon, Mar 23, 2015",Minnesota Timberwolves,106,Away,1
+1051,"Mon, Mar 23, 2015",Utah Jazz,104,Home,0
+1052,"Mon, Mar 23, 2015",Washington Wizards,76,Away,0
+1052,"Mon, Mar 23, 2015",Golden State Warriors,107,Home,1
+1053,"Tue, Mar 24, 2015",Toronto Raptors,104,Away,0
+1053,"Tue, Mar 24, 2015",Detroit Pistons,108,Home,1
+1054,"Tue, Mar 24, 2015",San Antonio Spurs,94,Away,0
+1054,"Tue, Mar 24, 2015",Dallas Mavericks,101,Home,1
+1055,"Tue, Mar 24, 2015",Miami Heat,88,Away,0
+1055,"Tue, Mar 24, 2015",Milwaukee Bucks,89,Home,1
+1056,"Tue, Mar 24, 2015",Los Angeles Lakers,117,Away,0
+1056,"Tue, Mar 24, 2015",Oklahoma City Thunder,127,Home,1
+1057,"Tue, Mar 24, 2015",Philadelphia 76ers,106,Away,0
+1057,"Tue, Mar 24, 2015",Sacramento Kings,107,Home,1
+1058,"Tue, Mar 24, 2015",Golden State Warriors,122,Away,1
+1058,"Tue, Mar 24, 2015",Portland Trail Blazers,108,Home,0
+1059,"Wed, Mar 25, 2015",Brooklyn Nets,91,Away,1
+1059,"Wed, Mar 25, 2015",Charlotte Hornets,88,Home,0
+1060,"Wed, Mar 25, 2015",Los Angeles Clippers,111,Away,1
+1060,"Wed, Mar 25, 2015",New York Knicks,80,Home,0
+1061,"Wed, Mar 25, 2015",Atlanta Hawks,95,Away,1
+1061,"Wed, Mar 25, 2015",Orlando Magic,83,Home,0
+1062,"Wed, Mar 25, 2015",Chicago Bulls,116,Away,1
+1062,"Wed, Mar 25, 2015",Toronto Raptors,103,Home,0
+1063,"Wed, Mar 25, 2015",Indiana Pacers,103,Away,1
+1063,"Wed, Mar 25, 2015",Washington Wizards,101,Home,0
+1064,"Wed, Mar 25, 2015",Miami Heat,93,Away,1
+1064,"Wed, Mar 25, 2015",Boston Celtics,86,Home,0
+1065,"Wed, Mar 25, 2015",Cleveland Cavaliers,111,Away,1
+1065,"Wed, Mar 25, 2015",Memphis Grizzlies,89,Home,0
+1066,"Wed, Mar 25, 2015",Los Angeles Lakers,101,Away,1
+1066,"Wed, Mar 25, 2015",Minnesota Timberwolves,99,Home,0
+1067,"Wed, Mar 25, 2015",Houston Rockets,95,Away,1
+1067,"Wed, Mar 25, 2015",New Orleans Pelicans,93,Home,0
+1068,"Wed, Mar 25, 2015",Philadelphia 76ers,99,Away,1
+1068,"Wed, Mar 25, 2015",Denver Nuggets,85,Home,0
+1069,"Wed, Mar 25, 2015",Portland Trail Blazers,92,Away,1
+1069,"Wed, Mar 25, 2015",Utah Jazz,89,Home,0
+1070,"Wed, Mar 25, 2015",Oklahoma City Thunder,91,Away,0
+1070,"Wed, Mar 25, 2015",San Antonio Spurs,130,Home,1
+1071,"Wed, Mar 25, 2015",Sacramento Kings,108,Away,1
+1071,"Wed, Mar 25, 2015",Phoenix Suns,99,Home,0
+1072,"Thu, Mar 26, 2015",Indiana Pacers,107,Away,0
+1072,"Thu, Mar 26, 2015",Milwaukee Bucks,111,Home,1
+1073,"Fri, Mar 27, 2015",Detroit Pistons,111,Away,1
+1073,"Fri, Mar 27, 2015",Orlando Magic,97,Home,0
+1074,"Fri, Mar 27, 2015",Los Angeles Clippers,119,Away,1
+1074,"Fri, Mar 27, 2015",Philadelphia 76ers,98,Home,0
+1075,"Fri, Mar 27, 2015",Charlotte Hornets,107,Away,0
+1075,"Fri, Mar 27, 2015",Washington Wizards,110,Home,1
+1076,"Fri, Mar 27, 2015",Miami Heat,86,Away,0
+1076,"Fri, Mar 27, 2015",Atlanta Hawks,99,Home,1
+1077,"Fri, Mar 27, 2015",Cleveland Cavaliers,98,Away,0
+1077,"Fri, Mar 27, 2015",Brooklyn Nets,106,Home,1
+1078,"Fri, Mar 27, 2015",Boston Celtics,96,Away,1
+1078,"Fri, Mar 27, 2015",New York Knicks,92,Home,0
+1079,"Fri, Mar 27, 2015",Los Angeles Lakers,83,Away,0
+1079,"Fri, Mar 27, 2015",Toronto Raptors,94,Home,1
+1080,"Fri, Mar 27, 2015",Minnesota Timberwolves,110,Away,0
+1080,"Fri, Mar 27, 2015",Houston Rockets,120,Home,1
+1081,"Fri, Mar 27, 2015",Golden State Warriors,107,Away,1
+1081,"Fri, Mar 27, 2015",Memphis Grizzlies,84,Home,0
+1082,"Fri, Mar 27, 2015",Sacramento Kings,88,Away,0
+1082,"Fri, Mar 27, 2015",New Orleans Pelicans,102,Home,1
+1083,"Fri, Mar 27, 2015",Dallas Mavericks,76,Away,0
+1083,"Fri, Mar 27, 2015",San Antonio Spurs,94,Home,1
+1084,"Fri, Mar 27, 2015",Utah Jazz,91,Away,0
+1084,"Fri, Mar 27, 2015",Denver Nuggets,107,Home,1
+1085,"Fri, Mar 27, 2015",Portland Trail Blazers,87,Away,1
+1085,"Fri, Mar 27, 2015",Phoenix Suns,81,Home,0
+1086,"Sat, Mar 28, 2015",Atlanta Hawks,100,Away,0
+1086,"Sat, Mar 28, 2015",Charlotte Hornets,115,Home,1
+1087,"Sat, Mar 28, 2015",New York Knicks,80,Away,0
+1087,"Sat, Mar 28, 2015",Chicago Bulls,111,Home,1
+1088,"Sat, Mar 28, 2015",Golden State Warriors,108,Away,1
+1088,"Sat, Mar 28, 2015",Milwaukee Bucks,95,Home,0
+1089,"Sat, Mar 28, 2015",Oklahoma City Thunder,89,Away,0
+1089,"Sat, Mar 28, 2015",Utah Jazz,94,Home,1
+1090,"Sat, Mar 28, 2015",Denver Nuggets,114,Away,0
+1090,"Sat, Mar 28, 2015",Portland Trail Blazers,120,Home,1
+1091,"Sun, Mar 29, 2015",Houston Rockets,99,Away,1
+1091,"Sun, Mar 29, 2015",Washington Wizards,91,Home,0
+1092,"Sun, Mar 29, 2015",Los Angeles Lakers,99,Away,0
+1092,"Sun, Mar 29, 2015",Brooklyn Nets,107,Home,1
+1093,"Sun, Mar 29, 2015",Minnesota Timberwolves,88,Away,0
+1093,"Sun, Mar 29, 2015",New Orleans Pelicans,110,Home,1
+1094,"Sun, Mar 29, 2015",Philadelphia 76ers,86,Away,0
+1094,"Sun, Mar 29, 2015",Cleveland Cavaliers,87,Home,1
+1095,"Sun, Mar 29, 2015",Los Angeles Clippers,119,Away,1
+1095,"Sun, Mar 29, 2015",Boston Celtics,106,Home,0
+1096,"Sun, Mar 29, 2015",Detroit Pistons,102,Away,0
+1096,"Sun, Mar 29, 2015",Miami Heat,109,Home,1
+1097,"Sun, Mar 29, 2015",Dallas Mavericks,99,Away,0
+1097,"Sun, Mar 29, 2015",Indiana Pacers,104,Home,1
+1098,"Sun, Mar 29, 2015",Memphis Grizzlies,89,Away,0
+1098,"Sun, Mar 29, 2015",San Antonio Spurs,103,Home,1
+1099,"Sun, Mar 29, 2015",Oklahoma City Thunder,109,Away,1
+1099,"Sun, Mar 29, 2015",Phoenix Suns,97,Home,0
+1100,"Mon, Mar 30, 2015",Boston Celtics,116,Away,1
+1100,"Mon, Mar 30, 2015",Charlotte Hornets,104,Home,0
+1101,"Mon, Mar 30, 2015",Los Angeles Lakers,113,Away,1
+1101,"Mon, Mar 30, 2015",Philadelphia 76ers,111,Home,0
+1102,"Mon, Mar 30, 2015",Milwaukee Bucks,88,Away,0
+1102,"Mon, Mar 30, 2015",Atlanta Hawks,101,Home,1
+1103,"Mon, Mar 30, 2015",Houston Rockets,96,Away,0
+1103,"Mon, Mar 30, 2015",Toronto Raptors,99,Home,1
+1104,"Mon, Mar 30, 2015",Sacramento Kings,83,Away,0
+1104,"Mon, Mar 30, 2015",Memphis Grizzlies,97,Home,1
+1105,"Mon, Mar 30, 2015",Utah Jazz,104,Away,1
+1105,"Mon, Mar 30, 2015",Minnesota Timberwolves,84,Home,0
+1106,"Mon, Mar 30, 2015",Phoenix Suns,86,Away,0
+1106,"Mon, Mar 30, 2015",Portland Trail Blazers,109,Home,1
+1107,"Tue, Mar 31, 2015",Indiana Pacers,106,Away,0
+1107,"Tue, Mar 31, 2015",Brooklyn Nets,111,Home,1
+1108,"Tue, Mar 31, 2015",Atlanta Hawks,95,Away,0
+1108,"Tue, Mar 31, 2015",Detroit Pistons,105,Home,1
+1109,"Tue, Mar 31, 2015",San Antonio Spurs,95,Away,1
+1109,"Tue, Mar 31, 2015",Miami Heat,81,Home,0
+1110,"Tue, Mar 31, 2015",Golden State Warriors,110,Away,1
+1110,"Tue, Mar 31, 2015",Los Angeles Clippers,106,Home,0
+1111,"Wed, Apr 1, 2015",Detroit Pistons,78,Away,0
+1111,"Wed, Apr 1, 2015",Charlotte Hornets,102,Home,1
+1112,"Wed, Apr 1, 2015",San Antonio Spurs,103,Away,1
+1112,"Wed, Apr 1, 2015",Orlando Magic,91,Home,0
+1113,"Wed, Apr 1, 2015",Philadelphia 76ers,93,Away,0
+1113,"Wed, Apr 1, 2015",Washington Wizards,106,Home,1
+1114,"Wed, Apr 1, 2015",Indiana Pacers,87,Away,0
+1114,"Wed, Apr 1, 2015",Boston Celtics,100,Home,1
+1115,"Wed, Apr 1, 2015",Brooklyn Nets,100,Away,1
+1115,"Wed, Apr 1, 2015",New York Knicks,98,Home,0
+1116,"Wed, Apr 1, 2015",Sacramento Kings,111,Away,0
+1116,"Wed, Apr 1, 2015",Houston Rockets,115,Home,1
+1117,"Wed, Apr 1, 2015",Chicago Bulls,91,Away,0
+1117,"Wed, Apr 1, 2015",Milwaukee Bucks,95,Home,1
+1118,"Wed, Apr 1, 2015",Toronto Raptors,113,Away,1
+1118,"Wed, Apr 1, 2015",Minnesota Timberwolves,99,Home,0
+1119,"Wed, Apr 1, 2015",Dallas Mavericks,135,Away,1
+1119,"Wed, Apr 1, 2015",Oklahoma City Thunder,131,Home,0
+1120,"Wed, Apr 1, 2015",Denver Nuggets,84,Away,0
+1120,"Wed, Apr 1, 2015",Utah Jazz,98,Home,1
+1121,"Wed, Apr 1, 2015",Los Angeles Clippers,126,Away,1
+1121,"Wed, Apr 1, 2015",Portland Trail Blazers,122,Home,0
+1122,"Wed, Apr 1, 2015",New Orleans Pelicans,113,Away,1
+1122,"Wed, Apr 1, 2015",Los Angeles Lakers,92,Home,0
+1123,"Thu, Apr 2, 2015",Miami Heat,88,Away,0
+1123,"Thu, Apr 2, 2015",Cleveland Cavaliers,114,Home,1
+1124,"Thu, Apr 2, 2015",Houston Rockets,108,Away,1
+1124,"Thu, Apr 2, 2015",Dallas Mavericks,101,Home,0
+1125,"Thu, Apr 2, 2015",Phoenix Suns,106,Away,0
+1125,"Thu, Apr 2, 2015",Golden State Warriors,107,Home,1
+1126,"Fri, Apr 3, 2015",Charlotte Hornets,74,Away,0
+1126,"Fri, Apr 3, 2015",Indiana Pacers,93,Home,1
+1127,"Fri, Apr 3, 2015",New York Knicks,87,Away,0
+1127,"Fri, Apr 3, 2015",Washington Wizards,101,Home,1
+1128,"Fri, Apr 3, 2015",Milwaukee Bucks,110,Away,1
+1128,"Fri, Apr 3, 2015",Boston Celtics,101,Home,0
+1129,"Fri, Apr 3, 2015",Toronto Raptors,109,Away,0
+1129,"Fri, Apr 3, 2015",Brooklyn Nets,114,Home,1
+1130,"Fri, Apr 3, 2015",Detroit Pistons,82,Away,0
+1130,"Fri, Apr 3, 2015",Chicago Bulls,88,Home,1
+1131,"Fri, Apr 3, 2015",Oklahoma City Thunder,92,Away,0
+1131,"Fri, Apr 3, 2015",Memphis Grizzlies,100,Home,1
+1132,"Fri, Apr 3, 2015",Orlando Magic,97,Away,1
+1132,"Fri, Apr 3, 2015",Minnesota Timberwolves,84,Home,0
+1133,"Fri, Apr 3, 2015",Denver Nuggets,93,Away,0
+1133,"Fri, Apr 3, 2015",San Antonio Spurs,123,Home,1
+1134,"Fri, Apr 3, 2015",New Orleans Pelicans,101,Away,1
+1134,"Fri, Apr 3, 2015",Sacramento Kings,95,Home,0
+1135,"Fri, Apr 3, 2015",Portland Trail Blazers,107,Away,1
+1135,"Fri, Apr 3, 2015",Los Angeles Lakers,77,Home,0
+1136,"Sat, Apr 4, 2015",Philadelphia 76ers,91,Away,0
+1136,"Sat, Apr 4, 2015",Charlotte Hornets,92,Home,1
+1137,"Sat, Apr 4, 2015",Brooklyn Nets,99,Away,0
+1137,"Sat, Apr 4, 2015",Atlanta Hawks,131,Home,1
+1138,"Sat, Apr 4, 2015",Miami Heat,98,Away,0
+1138,"Sat, Apr 4, 2015",Detroit Pistons,99,Home,1
+1139,"Sat, Apr 4, 2015",Boston Celtics,117,Away,1
+1139,"Sat, Apr 4, 2015",Toronto Raptors,116,Home,0
+1140,"Sat, Apr 4, 2015",Washington Wizards,92,Away,1
+1140,"Sat, Apr 4, 2015",Memphis Grizzlies,83,Home,0
+1141,"Sat, Apr 4, 2015",Golden State Warriors,123,Away,1
+1141,"Sat, Apr 4, 2015",Dallas Mavericks,110,Home,0
+1142,"Sat, Apr 4, 2015",Orlando Magic,97,Away,1
+1142,"Sat, Apr 4, 2015",Milwaukee Bucks,90,Home,0
+1143,"Sat, Apr 4, 2015",Los Angeles Clippers,107,Away,1
+1143,"Sat, Apr 4, 2015",Denver Nuggets,92,Home,0
+1144,"Sat, Apr 4, 2015",Utah Jazz,85,Away,0
+1144,"Sat, Apr 4, 2015",Phoenix Suns,87,Home,1
+1145,"Sat, Apr 4, 2015",New Orleans Pelicans,90,Away,0
+1145,"Sat, Apr 4, 2015",Portland Trail Blazers,99,Home,1
+1146,"Sun, Apr 5, 2015",Houston Rockets,115,Away,1
+1146,"Sun, Apr 5, 2015",Oklahoma City Thunder,112,Home,0
+1147,"Sun, Apr 5, 2015",Chicago Bulls,94,Away,0
+1147,"Sun, Apr 5, 2015",Cleveland Cavaliers,99,Home,1
+1148,"Sun, Apr 5, 2015",Miami Heat,89,Away,0
+1148,"Sun, Apr 5, 2015",Indiana Pacers,112,Home,1
+1149,"Sun, Apr 5, 2015",Golden State Warriors,92,Away,0
+1149,"Sun, Apr 5, 2015",San Antonio Spurs,107,Home,1
+1150,"Sun, Apr 5, 2015",Philadelphia 76ers,91,Away,0
+1150,"Sun, Apr 5, 2015",New York Knicks,101,Home,1
+1151,"Sun, Apr 5, 2015",Utah Jazz,101,Away,1
+1151,"Sun, Apr 5, 2015",Sacramento Kings,95,Home,0
+1152,"Sun, Apr 5, 2015",Los Angeles Clippers,106,Away,1
+1152,"Sun, Apr 5, 2015",Los Angeles Lakers,78,Home,0
+1153,"Mon, Apr 6, 2015",Portland Trail Blazers,96,Away,0
+1153,"Mon, Apr 6, 2015",Brooklyn Nets,106,Home,1
+1154,"Tue, Apr 7, 2015",Phoenix Suns,69,Away,0
+1154,"Tue, Apr 7, 2015",Atlanta Hawks,96,Home,1
+1155,"Tue, Apr 7, 2015",Charlotte Hornets,100,Away,0
+1155,"Tue, Apr 7, 2015",Miami Heat,105,Home,1
+1156,"Tue, Apr 7, 2015",Golden State Warriors,100,Away,0
+1156,"Tue, Apr 7, 2015",New Orleans Pelicans,103,Home,1
+1157,"Tue, Apr 7, 2015",San Antonio Spurs,113,Away,1
+1157,"Tue, Apr 7, 2015",Oklahoma City Thunder,88,Home,0
+1158,"Tue, Apr 7, 2015",Minnesota Timberwolves,111,Away,0
+1158,"Tue, Apr 7, 2015",Sacramento Kings,116,Home,1
+1159,"Tue, Apr 7, 2015",Los Angeles Lakers,100,Away,0
+1159,"Tue, Apr 7, 2015",Los Angeles Clippers,105,Home,1
+1160,"Wed, Apr 8, 2015",Toronto Raptors,92,Away,1
+1160,"Wed, Apr 8, 2015",Charlotte Hornets,74,Home,0
+1161,"Wed, Apr 8, 2015",Boston Celtics,113,Away,1
+1161,"Wed, Apr 8, 2015",Detroit Pistons,103,Home,0
+1162,"Wed, Apr 8, 2015",Chicago Bulls,103,Away,0
+1162,"Wed, Apr 8, 2015",Orlando Magic,105,Home,1
+1163,"Wed, Apr 8, 2015",Washington Wizards,119,Away,1
+1163,"Wed, Apr 8, 2015",Philadelphia 76ers,90,Home,0
+1164,"Wed, Apr 8, 2015",Atlanta Hawks,114,Away,1
+1164,"Wed, Apr 8, 2015",Brooklyn Nets,111,Home,0
+1165,"Wed, Apr 8, 2015",Indiana Pacers,102,Away,1
+1165,"Wed, Apr 8, 2015",New York Knicks,86,Home,0
+1166,"Wed, Apr 8, 2015",New Orleans Pelicans,74,Away,0
+1166,"Wed, Apr 8, 2015",Memphis Grizzlies,110,Home,1
+1167,"Wed, Apr 8, 2015",Cleveland Cavaliers,104,Away,1
+1167,"Wed, Apr 8, 2015",Milwaukee Bucks,99,Home,0
+1168,"Wed, Apr 8, 2015",Houston Rockets,98,Away,0
+1168,"Wed, Apr 8, 2015",San Antonio Spurs,110,Home,1
+1169,"Wed, Apr 8, 2015",Los Angeles Lakers,101,Away,0
+1169,"Wed, Apr 8, 2015",Denver Nuggets,119,Home,1
+1170,"Wed, Apr 8, 2015",Sacramento Kings,91,Away,0
+1170,"Wed, Apr 8, 2015",Utah Jazz,103,Home,1
+1171,"Wed, Apr 8, 2015",Phoenix Suns,104,Away,0
+1171,"Wed, Apr 8, 2015",Dallas Mavericks,107,Home,1
+1172,"Wed, Apr 8, 2015",Minnesota Timberwolves,91,Away,0
+1172,"Wed, Apr 8, 2015",Portland Trail Blazers,116,Home,1
+1173,"Thu, Apr 9, 2015",Chicago Bulls,89,Away,1
+1173,"Thu, Apr 9, 2015",Miami Heat,78,Home,0
+1174,"Thu, Apr 9, 2015",Portland Trail Blazers,105,Away,0
+1174,"Thu, Apr 9, 2015",Golden State Warriors,116,Home,1
+1175,"Fri, Apr 10, 2015",Toronto Raptors,101,Away,1
+1175,"Fri, Apr 10, 2015",Orlando Magic,99,Home,0
+1176,"Fri, Apr 10, 2015",Charlotte Hornets,80,Away,0
+1176,"Fri, Apr 10, 2015",Atlanta Hawks,104,Home,1
+1177,"Fri, Apr 10, 2015",Washington Wizards,80,Away,0
+1177,"Fri, Apr 10, 2015",Brooklyn Nets,117,Home,1
+1178,"Fri, Apr 10, 2015",Boston Celtics,99,Away,1
+1178,"Fri, Apr 10, 2015",Cleveland Cavaliers,90,Home,0
+1179,"Fri, Apr 10, 2015",Indiana Pacers,107,Away,1
+1179,"Fri, Apr 10, 2015",Detroit Pistons,103,Home,0
+1180,"Fri, Apr 10, 2015",Milwaukee Bucks,99,Away,1
+1180,"Fri, Apr 10, 2015",New York Knicks,91,Home,0
+1181,"Fri, Apr 10, 2015",San Antonio Spurs,104,Away,1
+1181,"Fri, Apr 10, 2015",Houston Rockets,103,Home,0
+1182,"Fri, Apr 10, 2015",Phoenix Suns,75,Away,0
+1182,"Fri, Apr 10, 2015",New Orleans Pelicans,90,Home,1
+1183,"Fri, Apr 10, 2015",Sacramento Kings,103,Away,0
+1183,"Fri, Apr 10, 2015",Oklahoma City Thunder,116,Home,1
+1184,"Fri, Apr 10, 2015",Dallas Mavericks,144,Away,1
+1184,"Fri, Apr 10, 2015",Denver Nuggets,143,Home,0
+1185,"Fri, Apr 10, 2015",Memphis Grizzlies,89,Away,1
+1185,"Fri, Apr 10, 2015",Utah Jazz,88,Home,0
+1186,"Fri, Apr 10, 2015",Minnesota Timberwolves,98,Away,0
+1186,"Fri, Apr 10, 2015",Los Angeles Lakers,106,Home,1
+1187,"Sat, Apr 11, 2015",New York Knicks,80,Away,1
+1187,"Sat, Apr 11, 2015",Orlando Magic,79,Home,0
+1188,"Sat, Apr 11, 2015",Toronto Raptors,107,Away,1
+1188,"Sat, Apr 11, 2015",Miami Heat,104,Home,0
+1189,"Sat, Apr 11, 2015",Philadelphia 76ers,107,Away,0
+1189,"Sat, Apr 11, 2015",Chicago Bulls,114,Home,1
+1190,"Sat, Apr 11, 2015",Memphis Grizzlies,86,Away,0
+1190,"Sat, Apr 11, 2015",Los Angeles Clippers,94,Home,1
+1191,"Sat, Apr 11, 2015",Utah Jazz,111,Away,1
+1191,"Sat, Apr 11, 2015",Portland Trail Blazers,105,Home,0
+1192,"Sat, Apr 11, 2015",Minnesota Timberwolves,101,Away,0
+1192,"Sat, Apr 11, 2015",Golden State Warriors,110,Home,1
+1193,"Sun, Apr 12, 2015",Cleveland Cavaliers,78,Away,0
+1193,"Sun, Apr 12, 2015",Boston Celtics,117,Home,1
+1194,"Sun, Apr 12, 2015",Brooklyn Nets,73,Away,0
+1194,"Sun, Apr 12, 2015",Milwaukee Bucks,96,Home,1
+1195,"Sun, Apr 12, 2015",Charlotte Hornets,77,Away,0
+1195,"Sun, Apr 12, 2015",Detroit Pistons,116,Home,1
+1196,"Sun, Apr 12, 2015",Sacramento Kings,111,Away,0
+1196,"Sun, Apr 12, 2015",Denver Nuggets,122,Home,1
+1197,"Sun, Apr 12, 2015",Oklahoma City Thunder,104,Away,0
+1197,"Sun, Apr 12, 2015",Indiana Pacers,116,Home,1
+1198,"Sun, Apr 12, 2015",Atlanta Hawks,99,Away,0
+1198,"Sun, Apr 12, 2015",Washington Wizards,108,Home,1
+1199,"Sun, Apr 12, 2015",New Orleans Pelicans,114,Away,0
+1199,"Sun, Apr 12, 2015",Houston Rockets,121,Home,1
+1200,"Sun, Apr 12, 2015",Phoenix Suns,91,Away,0
+1200,"Sun, Apr 12, 2015",San Antonio Spurs,107,Home,1
+1201,"Sun, Apr 12, 2015",Dallas Mavericks,120,Away,1
+1201,"Sun, Apr 12, 2015",Los Angeles Lakers,106,Home,0
+1202,"Mon, Apr 13, 2015",Houston Rockets,100,Away,1
+1202,"Mon, Apr 13, 2015",Charlotte Hornets,90,Home,0
+1203,"Mon, Apr 13, 2015",Detroit Pistons,97,Away,0
+1203,"Mon, Apr 13, 2015",Cleveland Cavaliers,109,Home,1
+1204,"Mon, Apr 13, 2015",Milwaukee Bucks,107,Away,1
+1204,"Mon, Apr 13, 2015",Philadelphia 76ers,97,Home,0
+1205,"Mon, Apr 13, 2015",New York Knicks,112,Away,1
+1205,"Mon, Apr 13, 2015",Atlanta Hawks,108,Home,0
+1206,"Mon, Apr 13, 2015",Chicago Bulls,113,Away,1
+1206,"Mon, Apr 13, 2015",Brooklyn Nets,86,Home,0
+1207,"Mon, Apr 13, 2015",Orlando Magic,93,Away,0
+1207,"Mon, Apr 13, 2015",Miami Heat,100,Home,1
+1208,"Mon, Apr 13, 2015",New Orleans Pelicans,100,Away,1
+1208,"Mon, Apr 13, 2015",Minnesota Timberwolves,88,Home,0
+1209,"Mon, Apr 13, 2015",Portland Trail Blazers,90,Away,0
+1209,"Mon, Apr 13, 2015",Oklahoma City Thunder,101,Home,1
+1210,"Mon, Apr 13, 2015",Dallas Mavericks,92,Away,0
+1210,"Mon, Apr 13, 2015",Utah Jazz,109,Home,1
+1211,"Mon, Apr 13, 2015",Los Angeles Lakers,92,Away,0
+1211,"Mon, Apr 13, 2015",Sacramento Kings,102,Home,1
+1212,"Mon, Apr 13, 2015",Memphis Grizzlies,107,Away,0
+1212,"Mon, Apr 13, 2015",Golden State Warriors,111,Home,1
+1213,"Mon, Apr 13, 2015",Denver Nuggets,103,Away,0
+1213,"Mon, Apr 13, 2015",Los Angeles Clippers,110,Home,1
+1214,"Tue, Apr 14, 2015",Toronto Raptors,93,Away,0
+1214,"Tue, Apr 14, 2015",Boston Celtics,95,Home,1
+1215,"Tue, Apr 14, 2015",Washington Wizards,95,Away,0
+1215,"Tue, Apr 14, 2015",Indiana Pacers,99,Home,1
+1216,"Tue, Apr 14, 2015",Los Angeles Clippers,112,Away,1
+1216,"Tue, Apr 14, 2015",Phoenix Suns,101,Home,0
+1217,"Wed, Apr 15, 2015",Charlotte Hornets,87,Away,0
+1217,"Wed, Apr 15, 2015",Toronto Raptors,92,Home,1
+1218,"Wed, Apr 15, 2015",Orlando Magic,88,Away,0
+1218,"Wed, Apr 15, 2015",Brooklyn Nets,101,Home,1
+1219,"Wed, Apr 15, 2015",Atlanta Hawks,85,Away,0
+1219,"Wed, Apr 15, 2015",Chicago Bulls,91,Home,1
+1220,"Wed, Apr 15, 2015",Washington Wizards,108,Away,0
+1220,"Wed, Apr 15, 2015",Cleveland Cavaliers,113,Home,1
+1221,"Wed, Apr 15, 2015",Portland Trail Blazers,98,Away,0
+1221,"Wed, Apr 15, 2015",Dallas Mavericks,114,Home,1
+1222,"Wed, Apr 15, 2015",Utah Jazz,91,Away,0
+1222,"Wed, Apr 15, 2015",Houston Rockets,117,Home,1
+1223,"Wed, Apr 15, 2015",Boston Celtics,105,Away,1
+1223,"Wed, Apr 15, 2015",Milwaukee Bucks,100,Home,0
+1224,"Wed, Apr 15, 2015",Oklahoma City Thunder,138,Away,1
+1224,"Wed, Apr 15, 2015",Minnesota Timberwolves,113,Home,0
+1225,"Wed, Apr 15, 2015",San Antonio Spurs,103,Away,0
+1225,"Wed, Apr 15, 2015",New Orleans Pelicans,108,Home,1
+1226,"Wed, Apr 15, 2015",Detroit Pistons,112,Away,1
+1226,"Wed, Apr 15, 2015",New York Knicks,90,Home,0
+1227,"Wed, Apr 15, 2015",Miami Heat,105,Away,1
+1227,"Wed, Apr 15, 2015",Philadelphia 76ers,101,Home,0
+1228,"Wed, Apr 15, 2015",Indiana Pacers,83,Away,0
+1228,"Wed, Apr 15, 2015",Memphis Grizzlies,95,Home,1
+1229,"Wed, Apr 15, 2015",Denver Nuggets,126,Away,0
+1229,"Wed, Apr 15, 2015",Golden State Warriors,133,Home,1
+1230,"Wed, Apr 15, 2015",Sacramento Kings,122,Away,1
+1230,"Wed, Apr 15, 2015",Los Angeles Lakers,99,Home,0
+1231,"Sat, Apr 18, 2015",Washington Wizards,93,Away,1
+1231,"Sat, Apr 18, 2015",Toronto Raptors,86,Home,0
+1232,"Sat, Apr 18, 2015",New Orleans Pelicans,99,Away,0
+1232,"Sat, Apr 18, 2015",Golden State Warriors,106,Home,1
+1233,"Sat, Apr 18, 2015",Milwaukee Bucks,91,Away,0
+1233,"Sat, Apr 18, 2015",Chicago Bulls,103,Home,1
+1234,"Sat, Apr 18, 2015",Dallas Mavericks,108,Away,0
+1234,"Sat, Apr 18, 2015",Houston Rockets,118,Home,1
+1235,"Sun, Apr 19, 2015",Boston Celtics,100,Away,0
+1235,"Sun, Apr 19, 2015",Cleveland Cavaliers,113,Home,1
+1236,"Sun, Apr 19, 2015",Brooklyn Nets,92,Away,0
+1236,"Sun, Apr 19, 2015",Atlanta Hawks,99,Home,1
+1237,"Sun, Apr 19, 2015",Portland Trail Blazers,86,Away,0
+1237,"Sun, Apr 19, 2015",Memphis Grizzlies,100,Home,1
+1238,"Sun, Apr 19, 2015",San Antonio Spurs,92,Away,0
+1238,"Sun, Apr 19, 2015",Los Angeles Clippers,107,Home,1
+1239,"Mon, Apr 20, 2015",Milwaukee Bucks,82,Away,0
+1239,"Mon, Apr 20, 2015",Chicago Bulls,91,Home,1
+1240,"Mon, Apr 20, 2015",New Orleans Pelicans,87,Away,0
+1240,"Mon, Apr 20, 2015",Golden State Warriors,97,Home,1
+1241,"Tue, Apr 21, 2015",Boston Celtics,91,Away,0
+1241,"Tue, Apr 21, 2015",Cleveland Cavaliers,99,Home,1
+1242,"Tue, Apr 21, 2015",Washington Wizards,117,Away,1
+1242,"Tue, Apr 21, 2015",Toronto Raptors,106,Home,0
+1243,"Tue, Apr 21, 2015",Dallas Mavericks,99,Away,0
+1243,"Tue, Apr 21, 2015",Houston Rockets,111,Home,1
+1244,"Wed, Apr 22, 2015",Brooklyn Nets,91,Away,0
+1244,"Wed, Apr 22, 2015",Atlanta Hawks,96,Home,1
+1245,"Wed, Apr 22, 2015",Portland Trail Blazers,82,Away,0
+1245,"Wed, Apr 22, 2015",Memphis Grizzlies,97,Home,1
+1246,"Wed, Apr 22, 2015",San Antonio Spurs,111,Away,1
+1246,"Wed, Apr 22, 2015",Los Angeles Clippers,107,Home,0
+1247,"Thu, Apr 23, 2015",Cleveland Cavaliers,103,Away,1
+1247,"Thu, Apr 23, 2015",Boston Celtics,95,Home,0
+1248,"Thu, Apr 23, 2015",Chicago Bulls,113,Away,1
+1248,"Thu, Apr 23, 2015",Milwaukee Bucks,106,Home,0
+1249,"Thu, Apr 23, 2015",Golden State Warriors,123,Away,1
+1249,"Thu, Apr 23, 2015",New Orleans Pelicans,119,Home,0
+1250,"Fri, Apr 24, 2015",Houston Rockets,130,Away,1
+1250,"Fri, Apr 24, 2015",Dallas Mavericks,128,Home,0
+1251,"Fri, Apr 24, 2015",Toronto Raptors,99,Away,0
+1251,"Fri, Apr 24, 2015",Washington Wizards,106,Home,1
+1252,"Fri, Apr 24, 2015",Los Angeles Clippers,73,Away,0
+1252,"Fri, Apr 24, 2015",San Antonio Spurs,100,Home,1
+1253,"Sat, Apr 25, 2015",Atlanta Hawks,83,Away,0
+1253,"Sat, Apr 25, 2015",Brooklyn Nets,91,Home,1
+1254,"Sat, Apr 25, 2015",Chicago Bulls,90,Away,0
+1254,"Sat, Apr 25, 2015",Milwaukee Bucks,92,Home,1
+1255,"Sat, Apr 25, 2015",Golden State Warriors,109,Away,1
+1255,"Sat, Apr 25, 2015",New Orleans Pelicans,98,Home,0
+1256,"Sat, Apr 25, 2015",Memphis Grizzlies,115,Away,1
+1256,"Sat, Apr 25, 2015",Portland Trail Blazers,109,Home,0
+1257,"Sun, Apr 26, 2015",Cleveland Cavaliers,101,Away,1
+1257,"Sun, Apr 26, 2015",Boston Celtics,93,Home,0
+1258,"Sun, Apr 26, 2015",Los Angeles Clippers,114,Away,1
+1258,"Sun, Apr 26, 2015",San Antonio Spurs,105,Home,0
+1259,"Sun, Apr 26, 2015",Toronto Raptors,94,Away,0
+1259,"Sun, Apr 26, 2015",Washington Wizards,125,Home,1
+1260,"Sun, Apr 26, 2015",Houston Rockets,109,Away,0
+1260,"Sun, Apr 26, 2015",Dallas Mavericks,121,Home,1
+1261,"Mon, Apr 27, 2015",Atlanta Hawks,115,Away,0
+1261,"Mon, Apr 27, 2015",Brooklyn Nets,120,Home,1
+1262,"Mon, Apr 27, 2015",Milwaukee Bucks,94,Away,1
+1262,"Mon, Apr 27, 2015",Chicago Bulls,88,Home,0
+1263,"Mon, Apr 27, 2015",Memphis Grizzlies,92,Away,0
+1263,"Mon, Apr 27, 2015",Portland Trail Blazers,99,Home,1
+1264,"Tue, Apr 28, 2015",Dallas Mavericks,94,Away,0
+1264,"Tue, Apr 28, 2015",Houston Rockets,103,Home,1
+1265,"Tue, Apr 28, 2015",San Antonio Spurs,111,Away,1
+1265,"Tue, Apr 28, 2015",Los Angeles Clippers,107,Home,0
+1266,"Wed, Apr 29, 2015",Brooklyn Nets,97,Away,0
+1266,"Wed, Apr 29, 2015",Atlanta Hawks,107,Home,1
+1267,"Wed, Apr 29, 2015",Portland Trail Blazers,93,Away,0
+1267,"Wed, Apr 29, 2015",Memphis Grizzlies,99,Home,1
+1268,"Thu, Apr 30, 2015",Chicago Bulls,120,Away,1
+1268,"Thu, Apr 30, 2015",Milwaukee Bucks,66,Home,0
+1269,"Thu, Apr 30, 2015",Los Angeles Clippers,102,Away,1
+1269,"Thu, Apr 30, 2015",San Antonio Spurs,96,Home,0
+1270,"Fri, May 1, 2015",Atlanta Hawks,111,Away,1
+1270,"Fri, May 1, 2015",Brooklyn Nets,87,Home,0
+1271,"Sat, May 2, 2015",San Antonio Spurs,109,Away,0
+1271,"Sat, May 2, 2015",Los Angeles Clippers,111,Home,1
+1272,"Sun, May 3, 2015",Washington Wizards,104,Away,1
+1272,"Sun, May 3, 2015",Atlanta Hawks,98,Home,0
+1273,"Sun, May 3, 2015",Memphis Grizzlies,86,Away,0
+1273,"Sun, May 3, 2015",Golden State Warriors,101,Home,1
+1274,"Mon, May 4, 2015",Chicago Bulls,99,Away,1
+1274,"Mon, May 4, 2015",Cleveland Cavaliers,92,Home,0
+1275,"Mon, May 4, 2015",Los Angeles Clippers,117,Away,1
+1275,"Mon, May 4, 2015",Houston Rockets,101,Home,0
+1276,"Tue, May 5, 2015",Washington Wizards,90,Away,0
+1276,"Tue, May 5, 2015",Atlanta Hawks,106,Home,1
+1277,"Tue, May 5, 2015",Memphis Grizzlies,97,Away,1
+1277,"Tue, May 5, 2015",Golden State Warriors,90,Home,0
+1278,"Wed, May 6, 2015",Chicago Bulls,91,Away,0
+1278,"Wed, May 6, 2015",Cleveland Cavaliers,106,Home,1
+1279,"Wed, May 6, 2015",Los Angeles Clippers,109,Away,0
+1279,"Wed, May 6, 2015",Houston Rockets,115,Home,1
+1280,"Fri, May 8, 2015",Cleveland Cavaliers,96,Away,0
+1280,"Fri, May 8, 2015",Chicago Bulls,99,Home,1
+1281,"Fri, May 8, 2015",Houston Rockets,99,Away,0
+1281,"Fri, May 8, 2015",Los Angeles Clippers,124,Home,1
+1282,"Sat, May 9, 2015",Atlanta Hawks,101,Away,0
+1282,"Sat, May 9, 2015",Washington Wizards,103,Home,1
+1283,"Sat, May 9, 2015",Golden State Warriors,89,Away,0
+1283,"Sat, May 9, 2015",Memphis Grizzlies,99,Home,1
+1284,"Sun, May 10, 2015",Cleveland Cavaliers,86,Away,1
+1284,"Sun, May 10, 2015",Chicago Bulls,84,Home,0
+1285,"Sun, May 10, 2015",Houston Rockets,95,Away,0
+1285,"Sun, May 10, 2015",Los Angeles Clippers,128,Home,1
+1286,"Mon, May 11, 2015",Atlanta Hawks,106,Away,1
+1286,"Mon, May 11, 2015",Washington Wizards,101,Home,0
+1287,"Mon, May 11, 2015",Golden State Warriors,101,Away,1
+1287,"Mon, May 11, 2015",Memphis Grizzlies,84,Home,0
+1288,"Tue, May 12, 2015",Chicago Bulls,101,Away,0
+1288,"Tue, May 12, 2015",Cleveland Cavaliers,106,Home,1
+1289,"Tue, May 12, 2015",Los Angeles Clippers,103,Away,0
+1289,"Tue, May 12, 2015",Houston Rockets,124,Home,1
+1290,"Wed, May 13, 2015",Washington Wizards,81,Away,0
+1290,"Wed, May 13, 2015",Atlanta Hawks,82,Home,1
+1291,"Wed, May 13, 2015",Memphis Grizzlies,78,Away,0
+1291,"Wed, May 13, 2015",Golden State Warriors,98,Home,1
+1292,"Thu, May 14, 2015",Cleveland Cavaliers,94,Away,1
+1292,"Thu, May 14, 2015",Chicago Bulls,73,Home,0
+1293,"Thu, May 14, 2015",Houston Rockets,119,Away,1
+1293,"Thu, May 14, 2015",Los Angeles Clippers,107,Home,0
+1294,"Fri, May 15, 2015",Atlanta Hawks,94,Away,1
+1294,"Fri, May 15, 2015",Washington Wizards,91,Home,0
+1295,"Fri, May 15, 2015",Golden State Warriors,108,Away,1
+1295,"Fri, May 15, 2015",Memphis Grizzlies,95,Home,0
+1296,"Sun, May 17, 2015",Los Angeles Clippers,100,Away,0
+1296,"Sun, May 17, 2015",Houston Rockets,113,Home,1
+1297,"Tue, May 19, 2015",Houston Rockets,106,Away,0
+1297,"Tue, May 19, 2015",Golden State Warriors,110,Home,1
+1298,"Wed, May 20, 2015",Cleveland Cavaliers,97,Away,1
+1298,"Wed, May 20, 2015",Atlanta Hawks,89,Home,0
+1299,"Thu, May 21, 2015",Houston Rockets,98,Away,0
+1299,"Thu, May 21, 2015",Golden State Warriors,99,Home,1
+1300,"Fri, May 22, 2015",Cleveland Cavaliers,94,Away,1
+1300,"Fri, May 22, 2015",Atlanta Hawks,82,Home,0
+1301,"Sat, May 23, 2015",Golden State Warriors,115,Away,1
+1301,"Sat, May 23, 2015",Houston Rockets,80,Home,0
+1302,"Sun, May 24, 2015",Atlanta Hawks,111,Away,0
+1302,"Sun, May 24, 2015",Cleveland Cavaliers,114,Home,1
+1303,"Mon, May 25, 2015",Golden State Warriors,115,Away,0
+1303,"Mon, May 25, 2015",Houston Rockets,128,Home,1
+1304,"Tue, May 26, 2015",Atlanta Hawks,88,Away,0
+1304,"Tue, May 26, 2015",Cleveland Cavaliers,118,Home,1
+1305,"Wed, May 27, 2015",Houston Rockets,90,Away,0
+1305,"Wed, May 27, 2015",Golden State Warriors,104,Home,1
+1306,"Thu, Jun 4, 2015",Cleveland Cavaliers,100,Away,0
+1306,"Thu, Jun 4, 2015",Golden State Warriors,108,Home,1
+1307,"Sun, Jun 7, 2015",Cleveland Cavaliers,95,Away,1
+1307,"Sun, Jun 7, 2015",Golden State Warriors,93,Home,0
+1308,"Tue, Jun 9, 2015",Golden State Warriors,91,Away,0
+1308,"Tue, Jun 9, 2015",Cleveland Cavaliers,96,Home,1
+1309,"Thu, Jun 11, 2015",Golden State Warriors,103,Away,1
+1309,"Thu, Jun 11, 2015",Cleveland Cavaliers,82,Home,0
+1310,"Sun, Jun 14, 2015",Cleveland Cavaliers,91,Away,0
+1310,"Sun, Jun 14, 2015",Golden State Warriors,104,Home,1
+1311,"Tue, Jun 16, 2015",Golden State Warriors,105,Away,1
+1311,"Tue, Jun 16, 2015",Cleveland Cavaliers,97,Home,0
