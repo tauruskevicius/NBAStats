@@ -1,4 +1,4 @@
 # NBA_Statistics
 
 ### Objective
-The objective of this project is to test the hypothesis that if you win 2 out of 3 categories in FG%, REB, and TO, you win the game. Or what is the probability you win a game, given you win at least 2 out of 3 afeormentioned categories.
+The objective of this exercise is to get familiar with Web Scraping & collect NBA data. The data may be used for analysis/prediciton in the future.
